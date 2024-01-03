@@ -1,0 +1,8 @@
+{
+    "name": "Telemetry",
+    "description": "whatev",
+    "homeurl": "https://raw.githubusercontent.com/winkler-winsen/microsoft-telemetry-blocklist-BSI-/master/ms-win10-telemetry-blocklist.txt",
+    "frequency": "never",
+    "issues": "no",
+    "url": "https://raw.githubusercontent.com/winkler-winsen/microsoft-telemetry-blocklist-BSI-/master/ms-win10-telemetry-blocklist.txt"
+}
