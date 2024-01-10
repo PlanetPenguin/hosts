@@ -1,7 +1,12 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
+<<<<<<< HEAD
 # Last modified: Wed, 10 Jan 2024, 21:18 UTC+01:00
 # Version: 2024.1.10.3
+=======
+# Last modified: Fri, 05 Jan 2024, 17:20 UTC+01:00
+# Version: 2024.1.5.2
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5984,7 +5989,10 @@
 0.0.0.0 1172e9f8d86d60dcfbe756d510c788bc.vistvx.pl
 0.0.0.0 1209poqatyli9.pro
 0.0.0.0 1210quqaluukou6.pro
+<<<<<<< HEAD
 0.0.0.0 1234panda.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 1266.luckspire.xyz
 0.0.0.0 1292-52-136-116-243.ngrok.io
 0.0.0.0 1304zijnuvinii7.space
@@ -8092,6 +8100,7 @@
 0.0.0.0 allegrolokalnie.pl-oferta-sprzedazy651014.pl
 0.0.0.0 allegrolokalnie.pl-pay.pl
 0.0.0.0 allegrolokalnie.pl-platnosc-payu.pl
+<<<<<<< HEAD
 0.0.0.0 allegrolokalnie.pl-platnosci3465.pl
 0.0.0.0 allegrolokalnie.pl-platnosci3491.pl
 0.0.0.0 allegrolokalnie.pl-platnosci4072.pl
@@ -8106,6 +8115,8 @@
 0.0.0.0 allegrolokalnie.pl-platnosci8020.pl
 0.0.0.0 allegrolokalnie.pl-platnosci37649.pl
 0.0.0.0 allegrolokalnie.pl-platnosci407472.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 allegrolokalnie.pl-prywanta-sprzedaz2137.pl
 0.0.0.0 allegrolokalnie.pl-prywanta-sprzedaz2138.pl
 0.0.0.0 allegrolokalnie.pl-prywanta-sprzedaz2139.pl
@@ -9499,7 +9510,10 @@
 0.0.0.0 aspectjcookbook.com
 0.0.0.0 aspenholding.co
 0.0.0.0 aspenholding.com
+<<<<<<< HEAD
 0.0.0.0 asphaltnowco.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 aspipsl.top
 0.0.0.0 aspiretranslation.com
 0.0.0.0 aspn-ra-704753416-ch-dev.builderallwppro.com
@@ -9988,7 +10002,10 @@
 0.0.0.0 auto-tu24.pl
 0.0.0.0 auto-turowski24.pl
 0.0.0.0 auto-tutu24.pl
+<<<<<<< HEAD
 0.0.0.0 auto-wojakowskionline.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 autoareczka.pl
 0.0.0.0 autoautos.icu
 0.0.0.0 autobest-polska.pl
@@ -10014,22 +10031,31 @@
 0.0.0.0 autogielda-dabrowski.pl
 0.0.0.0 autogielda-drewniak.pl
 0.0.0.0 autogielda-glownski.pl
+<<<<<<< HEAD
 0.0.0.0 autogielda-janczar.pl
 0.0.0.0 autogielda-jastrzebska.pl
 0.0.0.0 autogielda-jaworski.pl
 0.0.0.0 autogielda-jenczewski.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 autogielda-kacperski.pl
 0.0.0.0 autogielda-kalinski.pl
 0.0.0.0 autogielda-karpinski.pl
 0.0.0.0 autogielda-kasztelan.pl
 0.0.0.0 autogielda-kawicka.pl
 0.0.0.0 autogielda-kedziorek.pl
+<<<<<<< HEAD
 0.0.0.0 autogielda-kolodzejczyk.pl
 0.0.0.0 autogielda-koscielny.pl
 0.0.0.0 autogielda-kostka.pl
 0.0.0.0 autogielda-kotulski.pl
 0.0.0.0 autogielda-krukowski.pl
 0.0.0.0 autogielda-kuczynski.pl
+=======
+0.0.0.0 autogielda-kostka.pl
+0.0.0.0 autogielda-kotulski.pl
+0.0.0.0 autogielda-krukowski.pl
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 autogielda-lugowski.pl
 0.0.0.0 autogielda-maciejczak.pl
 0.0.0.0 autogielda-majorczyk.pl
@@ -10041,8 +10067,11 @@
 0.0.0.0 autogielda-nowacki.pl
 0.0.0.0 autogielda-otto24.pl
 0.0.0.0 autogielda-pakulski.pl
+<<<<<<< HEAD
 0.0.0.0 autogielda-pekinski.pl
 0.0.0.0 autogielda-piaseczny.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 autogielda-skowyrski.pl
 0.0.0.0 autogielda-slawski.pl
 0.0.0.0 autogielda-staszewska.pl
@@ -10249,7 +10278,10 @@
 0.0.0.0 ayuanasolutions.com
 0.0.0.0 ayunointermitente365.com
 0.0.0.0 ayurhealthonline.com
+<<<<<<< HEAD
 0.0.0.0 ayushka.net
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 az-cars.com
 0.0.0.0 aza.lifepoppeople.info
 0.0.0.0 azahscrap.com
@@ -12869,7 +12901,10 @@
 0.0.0.0 brainhub-toub.cc
 0.0.0.0 brainiac.net
 0.0.0.0 brainoflnowledge.com
+<<<<<<< HEAD
 0.0.0.0 brainrehabacademy.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 brainscream.org
 0.0.0.0 brainsjlkr.space
 0.0.0.0 brainsqoyc.online
@@ -13980,7 +14015,10 @@
 0.0.0.0 cashplatplanetttformsforyou.site
 0.0.0.0 cashpluse1.site
 0.0.0.0 casianoco.com
+<<<<<<< HEAD
 0.0.0.0 casino365m.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 casino-cash-flow.com
 0.0.0.0 casinobonusar.io
 0.0.0.0 casinoonlinecalifornia.com
@@ -16928,7 +16966,10 @@
 0.0.0.0 daukhivn.com
 0.0.0.0 daurnlog.com
 0.0.0.0 dav.fostt.xyz
+<<<<<<< HEAD
 0.0.0.0 dave4afcsl.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 davefalkirk.com
 0.0.0.0 davefolts.com
 0.0.0.0 davemor1n.com
@@ -17602,16 +17643,23 @@
 0.0.0.0 dhd.neomai.site
 0.0.0.0 dhf54.cfd
 0.0.0.0 dhfghajgiugbnbnhueio.site
+<<<<<<< HEAD
 0.0.0.0 dhi24.com.pl
 0.0.0.0 dhi-express.pl
 0.0.0.0 dhi-poland.com.pl
+=======
+0.0.0.0 dhi-express.pl
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 dhiaader.top
 0.0.0.0 dhiarinacloset.com
 0.0.0.0 dhib3cxtfdjncfgy.vdl.pl
 0.0.0.0 dhideliveryfastfail.com
 0.0.0.0 dhideliveryfastfaill.com
 0.0.0.0 dhiexpress24.pl
+<<<<<<< HEAD
 0.0.0.0 dhiexpress.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 dhiexpressdeliveryfastfaill.com
 0.0.0.0 dhiexpressfaildeliveryfast.com
 0.0.0.0 dhiexpressfaildeliveryfastt.com
@@ -18379,8 +18427,11 @@
 0.0.0.0 donepnggoplus.site
 0.0.0.0 donerightlaw-1322273052.cos.sa-saopaulo.myqcloud.com
 0.0.0.0 donetest.com
+<<<<<<< HEAD
 0.0.0.0 dongtrunghathaotrangia.com
 0.0.0.0 dongycoach.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 doniesienie24h.click
 0.0.0.0 doniesienieinfo.click
 0.0.0.0 donkadunk.com
@@ -19736,7 +19787,10 @@
 0.0.0.0 elite-grid.net
 0.0.0.0 eliteappalling.cn
 0.0.0.0 eliteauto-24.pl
+<<<<<<< HEAD
 0.0.0.0 elitecars-polska24.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 eliteclickers.com
 0.0.0.0 eliteclubglobal.com
 0.0.0.0 elitedostav12.shop
@@ -19937,7 +19991,10 @@
 0.0.0.0 emiratescell.com
 0.0.0.0 emiratespost-po.top
 0.0.0.0 emisoraurbana.com
+<<<<<<< HEAD
 0.0.0.0 emission-online.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 emitrends.com
 0.0.0.0 eml4.worldfxlife.top
 0.0.0.0 eml5.worldfxlife.top
@@ -19954,7 +20011,10 @@
 0.0.0.0 emly.tradepeoplexf.top
 0.0.0.0 emmasinsights.com
 0.0.0.0 emocjegrozy.click
+<<<<<<< HEAD
 0.0.0.0 emodrzecka-gielda.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 emoji.fre.bond
 0.0.0.0 emonitoriing-pocztta-polsska.top
 0.0.0.0 emonitoriing-pooczta-pollska.top
@@ -22494,7 +22554,10 @@
 0.0.0.0 foorseaver.space
 0.0.0.0 foos.mmtsa.top
 0.0.0.0 footballabstract.com
+<<<<<<< HEAD
 0.0.0.0 footballbet19.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 footballongoal.com
 0.0.0.0 footballstorms.com
 0.0.0.0 footherallpo.online
@@ -26903,10 +26966,13 @@
 0.0.0.0 impost.lol
 0.0.0.0 impost.pics
 0.0.0.0 impost.run
+<<<<<<< HEAD
 0.0.0.0 impost.site
 0.0.0.0 impost.wiki
 0.0.0.0 impost.work
 0.0.0.0 impostonline.icu
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 impostpl.cc
 0.0.0.0 impostpl.info
 0.0.0.0 impostpl.shop
@@ -27122,8 +27188,11 @@
 0.0.0.0 ineshoppost.top
 0.0.0.0 inesmanila.com
 0.0.0.0 inet-ncer.sbs
+<<<<<<< HEAD
 0.0.0.0 ineupostlaw.top
 0.0.0.0 ineuposts.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 inevitrader.com
 0.0.0.0 inexperienceds.com
 0.0.0.0 inezpostlaw.top
@@ -27411,8 +27480,11 @@
 0.0.0.0 ininpost.top
 0.0.0.0 inipost-pl.top
 0.0.0.0 inipostl.online
+<<<<<<< HEAD
 0.0.0.0 iniqost.top
 0.0.0.0 iniqpost.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 inirposts.top
 0.0.0.0 init-a.web.app
 0.0.0.0 init-p.web.app
@@ -27509,7 +27581,10 @@
 0.0.0.0 inpest-pl.top
 0.0.0.0 inpest-pl.wiki
 0.0.0.0 inpest-pl.work
+<<<<<<< HEAD
 0.0.0.0 inpestalus.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 inpesteo.xyz
 0.0.0.0 inpestpl.top
 0.0.0.0 inpestpl.wiki
@@ -27760,8 +27835,11 @@
 0.0.0.0 inpost-uei.top
 0.0.0.0 inpost-unp.top
 0.0.0.0 inpost-up.life
+<<<<<<< HEAD
 0.0.0.0 inpost-ups.top
 0.0.0.0 inpost-usl.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 inpost-verify.top
 0.0.0.0 inpost-wysylki.com
 0.0.0.0 inpost-xcn.top
@@ -27862,7 +27940,10 @@
 0.0.0.0 inpostco.top
 0.0.0.0 inpostcpl.top
 0.0.0.0 inpostct.top
+<<<<<<< HEAD
 0.0.0.0 inpostdhl.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 inpostdm.top
 0.0.0.0 inpostdp.info
 0.0.0.0 inpostdp.top
@@ -27876,12 +27957,18 @@
 0.0.0.0 inposteo.shop
 0.0.0.0 inposteo.xyz
 0.0.0.0 inposteos.top
+<<<<<<< HEAD
 0.0.0.0 inposter.top
 0.0.0.0 inpostesa.top
 0.0.0.0 inpostespls.top
 0.0.0.0 inpostespol.top
 0.0.0.0 inpostfd.top
 0.0.0.0 inpostfedex.top
+=======
+0.0.0.0 inpostespls.top
+0.0.0.0 inpostespol.top
+0.0.0.0 inpostfd.top
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 inpostgc.top
 0.0.0.0 inposti.cc
 0.0.0.0 inposti.icu
@@ -27928,7 +28015,10 @@
 0.0.0.0 inpostoffice.shop
 0.0.0.0 inpostoffice.site
 0.0.0.0 inpostoffice.xyz
+<<<<<<< HEAD
 0.0.0.0 inpostoh.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 inpostoii.life
 0.0.0.0 inpostoii.top
 0.0.0.0 inpostomi.top
@@ -27956,7 +28046,10 @@
 0.0.0.0 inpostpl.icu
 0.0.0.0 inpostpl.info
 0.0.0.0 inpostpl.life
+<<<<<<< HEAD
 0.0.0.0 inpostpl.link
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 inpostpl.lol
 0.0.0.0 inpostpl.shop
 0.0.0.0 inpostpl.wiki
@@ -27987,7 +28080,10 @@
 0.0.0.0 inpostr.top
 0.0.0.0 inpostri.top
 0.0.0.0 inpostrls.top
+<<<<<<< HEAD
 0.0.0.0 inpostro.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 inpostrs.top
 0.0.0.0 inposts.buzz
 0.0.0.0 inposts.cc
@@ -28006,8 +28102,11 @@
 0.0.0.0 inposts.shop
 0.0.0.0 inposts.site
 0.0.0.0 inposts.xyz
+<<<<<<< HEAD
 0.0.0.0 inpostsaa.top
 0.0.0.0 inpostsaoo.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 inpostsb.top
 0.0.0.0 inpostse.shop
 0.0.0.0 inpostsl.xyz
@@ -28026,7 +28125,10 @@
 0.0.0.0 inpostts.shop
 0.0.0.0 inpostups.top
 0.0.0.0 inpostus.fun
+<<<<<<< HEAD
 0.0.0.0 inpostusa.buzz
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 inpostusa.icu
 0.0.0.0 inpostusa.life
 0.0.0.0 inpostusa.top
@@ -28040,7 +28142,10 @@
 0.0.0.0 inposty.xyz
 0.0.0.0 inpostyio.life
 0.0.0.0 inpostyio.top
+<<<<<<< HEAD
 0.0.0.0 inposyul.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 inposz.life
 0.0.0.0 inposz.top
 0.0.0.0 inposz.xyz
@@ -36588,7 +36693,10 @@
 0.0.0.0 news.celestialcerulean.com
 0.0.0.0 news.commercecraftersvap.com
 0.0.0.0 news.crazyideaco.com
+<<<<<<< HEAD
 0.0.0.0 news.curiocacophonycrafts.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 news.digitaldealdynamicstap.com
 0.0.0.0 news.ebutudan.com
 0.0.0.0 news.echangeglobalsubversif.com
@@ -36609,7 +36717,10 @@
 0.0.0.0 news.poprtueipeacznfdsak.com
 0.0.0.0 news.quantumquiver247.com
 0.0.0.0 news.silentstarlight.com
+<<<<<<< HEAD
 0.0.0.0 news.supplypoland.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 news.supplypoland.energy
 0.0.0.0 news.tytusandronicus321.com
 0.0.0.0 news.vision-glasses.fun
@@ -40424,7 +40535,10 @@
 0.0.0.0 pl-prywanta-sprzedaz2139.pl
 0.0.0.0 pl-prywanta-sprzedaz2140.pl
 0.0.0.0 pl-prywanta-sprzedaz2141.pl
+<<<<<<< HEAD
 0.0.0.0 pl-prywanta-sprzedaz3142.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 pl-prywanta-sprzedaz3144.pl
 0.0.0.0 pl-prywanta-sprzedaz3145.pl
 0.0.0.0 pl-prywatna-aukcja1293.pl
@@ -41597,7 +41711,10 @@
 0.0.0.0 polla.expobarrio.com
 0.0.0.0 pollainv.web.app
 0.0.0.0 pollasquit.com
+<<<<<<< HEAD
 0.0.0.0 pollinpostcrey.club
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 pollishinpg.site
 0.0.0.0 polll.lifepeoplexf.top
 0.0.0.0 pollppost.top
@@ -42032,7 +42149,10 @@
 0.0.0.0 post.kzbakkumz.site
 0.0.0.0 post.tex-prog.top
 0.0.0.0 post.usasptps.top
+<<<<<<< HEAD
 0.0.0.0 post.wewerew.site
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 posta-dhl.top
 0.0.0.0 posta-is.top
 0.0.0.0 posta-pl.com
@@ -42100,7 +42220,10 @@
 0.0.0.0 postid-79348548.justgreece.org
 0.0.0.0 postigfastnewsjoblers.tumblr.com
 0.0.0.0 postigjoblelivenews.tumblr.com
+<<<<<<< HEAD
 0.0.0.0 postin-ln.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 postin-pl.com
 0.0.0.0 postin-pl.top
 0.0.0.0 postinb.top
@@ -43239,7 +43362,10 @@
 0.0.0.0 puppiesandhugs.com
 0.0.0.0 puppypopo.xyz
 0.0.0.0 puprreme.com
+<<<<<<< HEAD
 0.0.0.0 puq.librprograms.xyz
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 purchasehh.info
 0.0.0.0 purchasehh.top
 0.0.0.0 purchasehh.xyz
@@ -50353,7 +50479,10 @@
 0.0.0.0 transcomhvac.net
 0.0.0.0 transdreamsbay.shop
 0.0.0.0 transferludnosci.click
+<<<<<<< HEAD
 0.0.0.0 transferwinddeluxe.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 transferwindhome.com
 0.0.0.0 transfilmapps.xyz
 0.0.0.0 transformandoseucorpo.online
@@ -50830,7 +50959,10 @@
 0.0.0.0 tut.newstradefx.site
 0.0.0.0 tutajdodaj.pl
 0.0.0.0 tutejszezagrozenia.click
+<<<<<<< HEAD
 0.0.0.0 tuu.znetvision.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 tuveterinariaencasa.com
 0.0.0.0 tuvisodep.com
 0.0.0.0 tuvpowerelectronics.com
@@ -52361,7 +52493,10 @@
 0.0.0.0 vintedcz.order8943.eu
 0.0.0.0 vintedcz.order9573.eu
 0.0.0.0 vintedcz.order9924.eu
+<<<<<<< HEAD
 0.0.0.0 vintedcz.pay553.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 vintedcz.pay812.online
 0.0.0.0 vintedcz.pay865.com
 0.0.0.0 vintedeuro.wixsite.com
@@ -53060,7 +53195,10 @@
 0.0.0.0 waznykomunikat.click
 0.0.0.0 waznytemat.click
 0.0.0.0 waznywatek.click
+<<<<<<< HEAD
 0.0.0.0 wbarton.witwrona.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 wbc0pf0571j7nttr25e7h354.quickmarketnow.me
 0.0.0.0 wbes.xlei-836.cfd
 0.0.0.0 wbg0d9fa2hv3aoor2hl9n3hm.quickmarketnow.me
@@ -53539,7 +53677,10 @@
 0.0.0.0 wiadomosci.click
 0.0.0.0 wiadomosci.hypnosisandfitness.com
 0.0.0.0 wiadomosci.ink
+<<<<<<< HEAD
 0.0.0.0 wiadomosci.nativosweb.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 wiadomosci.unixofficeequipment.com
 0.0.0.0 wiadomosci.wp.pl.32976516.cube-cologne.com
 0.0.0.0 wiadomosci.wp.pl.52867366.cube-cologne.com
@@ -55388,7 +55529,10 @@
 0.0.0.0 www.1172e9f8d86d60dcfbe756d510c788bc.vistvx.pl
 0.0.0.0 www.1209poqatyli9.pro
 0.0.0.0 www.1210quqaluukou6.pro
+<<<<<<< HEAD
 0.0.0.0 www.1234panda.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.1266.luckspire.xyz
 0.0.0.0 www.1292-52-136-116-243.ngrok.io
 0.0.0.0 www.1304zijnuvinii7.space
@@ -57496,6 +57640,7 @@
 0.0.0.0 www.allegrolokalnie.pl-oferta-sprzedazy651014.pl
 0.0.0.0 www.allegrolokalnie.pl-pay.pl
 0.0.0.0 www.allegrolokalnie.pl-platnosc-payu.pl
+<<<<<<< HEAD
 0.0.0.0 www.allegrolokalnie.pl-platnosci3465.pl
 0.0.0.0 www.allegrolokalnie.pl-platnosci3491.pl
 0.0.0.0 www.allegrolokalnie.pl-platnosci4072.pl
@@ -57510,6 +57655,8 @@
 0.0.0.0 www.allegrolokalnie.pl-platnosci8020.pl
 0.0.0.0 www.allegrolokalnie.pl-platnosci37649.pl
 0.0.0.0 www.allegrolokalnie.pl-platnosci407472.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.allegrolokalnie.pl-prywanta-sprzedaz2137.pl
 0.0.0.0 www.allegrolokalnie.pl-prywanta-sprzedaz2138.pl
 0.0.0.0 www.allegrolokalnie.pl-prywanta-sprzedaz2139.pl
@@ -58903,7 +59050,10 @@
 0.0.0.0 www.aspectjcookbook.com
 0.0.0.0 www.aspenholding.co
 0.0.0.0 www.aspenholding.com
+<<<<<<< HEAD
 0.0.0.0 www.asphaltnowco.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.aspipsl.top
 0.0.0.0 www.aspiretranslation.com
 0.0.0.0 www.aspn-ra-704753416-ch-dev.builderallwppro.com
@@ -59392,7 +59542,10 @@
 0.0.0.0 www.auto-tu24.pl
 0.0.0.0 www.auto-turowski24.pl
 0.0.0.0 www.auto-tutu24.pl
+<<<<<<< HEAD
 0.0.0.0 www.auto-wojakowskionline.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.autoareczka.pl
 0.0.0.0 www.autoautos.icu
 0.0.0.0 www.autobest-polska.pl
@@ -59418,22 +59571,31 @@
 0.0.0.0 www.autogielda-dabrowski.pl
 0.0.0.0 www.autogielda-drewniak.pl
 0.0.0.0 www.autogielda-glownski.pl
+<<<<<<< HEAD
 0.0.0.0 www.autogielda-janczar.pl
 0.0.0.0 www.autogielda-jastrzebska.pl
 0.0.0.0 www.autogielda-jaworski.pl
 0.0.0.0 www.autogielda-jenczewski.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.autogielda-kacperski.pl
 0.0.0.0 www.autogielda-kalinski.pl
 0.0.0.0 www.autogielda-karpinski.pl
 0.0.0.0 www.autogielda-kasztelan.pl
 0.0.0.0 www.autogielda-kawicka.pl
 0.0.0.0 www.autogielda-kedziorek.pl
+<<<<<<< HEAD
 0.0.0.0 www.autogielda-kolodzejczyk.pl
 0.0.0.0 www.autogielda-koscielny.pl
 0.0.0.0 www.autogielda-kostka.pl
 0.0.0.0 www.autogielda-kotulski.pl
 0.0.0.0 www.autogielda-krukowski.pl
 0.0.0.0 www.autogielda-kuczynski.pl
+=======
+0.0.0.0 www.autogielda-kostka.pl
+0.0.0.0 www.autogielda-kotulski.pl
+0.0.0.0 www.autogielda-krukowski.pl
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.autogielda-lugowski.pl
 0.0.0.0 www.autogielda-maciejczak.pl
 0.0.0.0 www.autogielda-majorczyk.pl
@@ -59445,8 +59607,11 @@
 0.0.0.0 www.autogielda-nowacki.pl
 0.0.0.0 www.autogielda-otto24.pl
 0.0.0.0 www.autogielda-pakulski.pl
+<<<<<<< HEAD
 0.0.0.0 www.autogielda-pekinski.pl
 0.0.0.0 www.autogielda-piaseczny.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.autogielda-skowyrski.pl
 0.0.0.0 www.autogielda-slawski.pl
 0.0.0.0 www.autogielda-staszewska.pl
@@ -59653,7 +59818,10 @@
 0.0.0.0 www.ayuanasolutions.com
 0.0.0.0 www.ayunointermitente365.com
 0.0.0.0 www.ayurhealthonline.com
+<<<<<<< HEAD
 0.0.0.0 www.ayushka.net
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.az-cars.com
 0.0.0.0 www.aza.lifepoppeople.info
 0.0.0.0 www.azahscrap.com
@@ -62273,7 +62441,10 @@
 0.0.0.0 www.brainhub-toub.cc
 0.0.0.0 www.brainiac.net
 0.0.0.0 www.brainoflnowledge.com
+<<<<<<< HEAD
 0.0.0.0 www.brainrehabacademy.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.brainscream.org
 0.0.0.0 www.brainsjlkr.space
 0.0.0.0 www.brainsqoyc.online
@@ -63384,7 +63555,10 @@
 0.0.0.0 www.cashplatplanetttformsforyou.site
 0.0.0.0 www.cashpluse1.site
 0.0.0.0 www.casianoco.com
+<<<<<<< HEAD
 0.0.0.0 www.casino365m.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.casino-cash-flow.com
 0.0.0.0 www.casinobonusar.io
 0.0.0.0 www.casinoonlinecalifornia.com
@@ -66332,7 +66506,10 @@
 0.0.0.0 www.daukhivn.com
 0.0.0.0 www.daurnlog.com
 0.0.0.0 www.dav.fostt.xyz
+<<<<<<< HEAD
 0.0.0.0 www.dave4afcsl.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.davefalkirk.com
 0.0.0.0 www.davefolts.com
 0.0.0.0 www.davemor1n.com
@@ -67006,16 +67183,23 @@
 0.0.0.0 www.dhd.neomai.site
 0.0.0.0 www.dhf54.cfd
 0.0.0.0 www.dhfghajgiugbnbnhueio.site
+<<<<<<< HEAD
 0.0.0.0 www.dhi24.com.pl
 0.0.0.0 www.dhi-express.pl
 0.0.0.0 www.dhi-poland.com.pl
+=======
+0.0.0.0 www.dhi-express.pl
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.dhiaader.top
 0.0.0.0 www.dhiarinacloset.com
 0.0.0.0 www.dhib3cxtfdjncfgy.vdl.pl
 0.0.0.0 www.dhideliveryfastfail.com
 0.0.0.0 www.dhideliveryfastfaill.com
 0.0.0.0 www.dhiexpress24.pl
+<<<<<<< HEAD
 0.0.0.0 www.dhiexpress.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.dhiexpressdeliveryfastfaill.com
 0.0.0.0 www.dhiexpressfaildeliveryfast.com
 0.0.0.0 www.dhiexpressfaildeliveryfastt.com
@@ -67783,8 +67967,11 @@
 0.0.0.0 www.donepnggoplus.site
 0.0.0.0 www.donerightlaw-1322273052.cos.sa-saopaulo.myqcloud.com
 0.0.0.0 www.donetest.com
+<<<<<<< HEAD
 0.0.0.0 www.dongtrunghathaotrangia.com
 0.0.0.0 www.dongycoach.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.doniesienie24h.click
 0.0.0.0 www.doniesienieinfo.click
 0.0.0.0 www.donkadunk.com
@@ -69140,7 +69327,10 @@
 0.0.0.0 www.elite-grid.net
 0.0.0.0 www.eliteappalling.cn
 0.0.0.0 www.eliteauto-24.pl
+<<<<<<< HEAD
 0.0.0.0 www.elitecars-polska24.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.eliteclickers.com
 0.0.0.0 www.eliteclubglobal.com
 0.0.0.0 www.elitedostav12.shop
@@ -69341,7 +69531,10 @@
 0.0.0.0 www.emiratescell.com
 0.0.0.0 www.emiratespost-po.top
 0.0.0.0 www.emisoraurbana.com
+<<<<<<< HEAD
 0.0.0.0 www.emission-online.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.emitrends.com
 0.0.0.0 www.eml4.worldfxlife.top
 0.0.0.0 www.eml5.worldfxlife.top
@@ -69358,7 +69551,10 @@
 0.0.0.0 www.emly.tradepeoplexf.top
 0.0.0.0 www.emmasinsights.com
 0.0.0.0 www.emocjegrozy.click
+<<<<<<< HEAD
 0.0.0.0 www.emodrzecka-gielda.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.emoji.fre.bond
 0.0.0.0 www.emonitoriing-pocztta-polsska.top
 0.0.0.0 www.emonitoriing-pooczta-pollska.top
@@ -71898,7 +72094,10 @@
 0.0.0.0 www.foorseaver.space
 0.0.0.0 www.foos.mmtsa.top
 0.0.0.0 www.footballabstract.com
+<<<<<<< HEAD
 0.0.0.0 www.footballbet19.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.footballongoal.com
 0.0.0.0 www.footballstorms.com
 0.0.0.0 www.footherallpo.online
@@ -76307,10 +76506,13 @@
 0.0.0.0 www.impost.lol
 0.0.0.0 www.impost.pics
 0.0.0.0 www.impost.run
+<<<<<<< HEAD
 0.0.0.0 www.impost.site
 0.0.0.0 www.impost.wiki
 0.0.0.0 www.impost.work
 0.0.0.0 www.impostonline.icu
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.impostpl.cc
 0.0.0.0 www.impostpl.info
 0.0.0.0 www.impostpl.shop
@@ -76526,8 +76728,11 @@
 0.0.0.0 www.ineshoppost.top
 0.0.0.0 www.inesmanila.com
 0.0.0.0 www.inet-ncer.sbs
+<<<<<<< HEAD
 0.0.0.0 www.ineupostlaw.top
 0.0.0.0 www.ineuposts.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.inevitrader.com
 0.0.0.0 www.inexperienceds.com
 0.0.0.0 www.inezpostlaw.top
@@ -76815,8 +77020,11 @@
 0.0.0.0 www.ininpost.top
 0.0.0.0 www.inipost-pl.top
 0.0.0.0 www.inipostl.online
+<<<<<<< HEAD
 0.0.0.0 www.iniqost.top
 0.0.0.0 www.iniqpost.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.inirposts.top
 0.0.0.0 www.init-a.web.app
 0.0.0.0 www.init-p.web.app
@@ -76913,7 +77121,10 @@
 0.0.0.0 www.inpest-pl.top
 0.0.0.0 www.inpest-pl.wiki
 0.0.0.0 www.inpest-pl.work
+<<<<<<< HEAD
 0.0.0.0 www.inpestalus.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.inpesteo.xyz
 0.0.0.0 www.inpestpl.top
 0.0.0.0 www.inpestpl.wiki
@@ -77164,8 +77375,11 @@
 0.0.0.0 www.inpost-uei.top
 0.0.0.0 www.inpost-unp.top
 0.0.0.0 www.inpost-up.life
+<<<<<<< HEAD
 0.0.0.0 www.inpost-ups.top
 0.0.0.0 www.inpost-usl.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.inpost-verify.top
 0.0.0.0 www.inpost-wysylki.com
 0.0.0.0 www.inpost-xcn.top
@@ -77266,7 +77480,10 @@
 0.0.0.0 www.inpostco.top
 0.0.0.0 www.inpostcpl.top
 0.0.0.0 www.inpostct.top
+<<<<<<< HEAD
 0.0.0.0 www.inpostdhl.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.inpostdm.top
 0.0.0.0 www.inpostdp.info
 0.0.0.0 www.inpostdp.top
@@ -77280,12 +77497,18 @@
 0.0.0.0 www.inposteo.shop
 0.0.0.0 www.inposteo.xyz
 0.0.0.0 www.inposteos.top
+<<<<<<< HEAD
 0.0.0.0 www.inposter.top
 0.0.0.0 www.inpostesa.top
 0.0.0.0 www.inpostespls.top
 0.0.0.0 www.inpostespol.top
 0.0.0.0 www.inpostfd.top
 0.0.0.0 www.inpostfedex.top
+=======
+0.0.0.0 www.inpostespls.top
+0.0.0.0 www.inpostespol.top
+0.0.0.0 www.inpostfd.top
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.inpostgc.top
 0.0.0.0 www.inposti.cc
 0.0.0.0 www.inposti.icu
@@ -77332,7 +77555,10 @@
 0.0.0.0 www.inpostoffice.shop
 0.0.0.0 www.inpostoffice.site
 0.0.0.0 www.inpostoffice.xyz
+<<<<<<< HEAD
 0.0.0.0 www.inpostoh.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.inpostoii.life
 0.0.0.0 www.inpostoii.top
 0.0.0.0 www.inpostomi.top
@@ -77360,7 +77586,10 @@
 0.0.0.0 www.inpostpl.icu
 0.0.0.0 www.inpostpl.info
 0.0.0.0 www.inpostpl.life
+<<<<<<< HEAD
 0.0.0.0 www.inpostpl.link
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.inpostpl.lol
 0.0.0.0 www.inpostpl.shop
 0.0.0.0 www.inpostpl.wiki
@@ -77391,7 +77620,10 @@
 0.0.0.0 www.inpostr.top
 0.0.0.0 www.inpostri.top
 0.0.0.0 www.inpostrls.top
+<<<<<<< HEAD
 0.0.0.0 www.inpostro.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.inpostrs.top
 0.0.0.0 www.inposts.buzz
 0.0.0.0 www.inposts.cc
@@ -77410,8 +77642,11 @@
 0.0.0.0 www.inposts.shop
 0.0.0.0 www.inposts.site
 0.0.0.0 www.inposts.xyz
+<<<<<<< HEAD
 0.0.0.0 www.inpostsaa.top
 0.0.0.0 www.inpostsaoo.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.inpostsb.top
 0.0.0.0 www.inpostse.shop
 0.0.0.0 www.inpostsl.xyz
@@ -77430,7 +77665,10 @@
 0.0.0.0 www.inpostts.shop
 0.0.0.0 www.inpostups.top
 0.0.0.0 www.inpostus.fun
+<<<<<<< HEAD
 0.0.0.0 www.inpostusa.buzz
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.inpostusa.icu
 0.0.0.0 www.inpostusa.life
 0.0.0.0 www.inpostusa.top
@@ -77444,7 +77682,10 @@
 0.0.0.0 www.inposty.xyz
 0.0.0.0 www.inpostyio.life
 0.0.0.0 www.inpostyio.top
+<<<<<<< HEAD
 0.0.0.0 www.inposyul.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.inposz.life
 0.0.0.0 www.inposz.top
 0.0.0.0 www.inposz.xyz
@@ -85992,7 +86233,10 @@
 0.0.0.0 www.news.celestialcerulean.com
 0.0.0.0 www.news.commercecraftersvap.com
 0.0.0.0 www.news.crazyideaco.com
+<<<<<<< HEAD
 0.0.0.0 www.news.curiocacophonycrafts.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.news.digitaldealdynamicstap.com
 0.0.0.0 www.news.ebutudan.com
 0.0.0.0 www.news.echangeglobalsubversif.com
@@ -86013,7 +86257,10 @@
 0.0.0.0 www.news.poprtueipeacznfdsak.com
 0.0.0.0 www.news.quantumquiver247.com
 0.0.0.0 www.news.silentstarlight.com
+<<<<<<< HEAD
 0.0.0.0 www.news.supplypoland.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.news.supplypoland.energy
 0.0.0.0 www.news.tytusandronicus321.com
 0.0.0.0 www.news.vision-glasses.fun
@@ -89826,7 +90073,10 @@
 0.0.0.0 www.pl-prywanta-sprzedaz2139.pl
 0.0.0.0 www.pl-prywanta-sprzedaz2140.pl
 0.0.0.0 www.pl-prywanta-sprzedaz2141.pl
+<<<<<<< HEAD
 0.0.0.0 www.pl-prywanta-sprzedaz3142.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.pl-prywanta-sprzedaz3144.pl
 0.0.0.0 www.pl-prywanta-sprzedaz3145.pl
 0.0.0.0 www.pl-prywatna-aukcja1293.pl
@@ -90911,7 +91161,10 @@
 0.0.0.0 www.polla.expobarrio.com
 0.0.0.0 www.pollainv.web.app
 0.0.0.0 www.pollasquit.com
+<<<<<<< HEAD
 0.0.0.0 www.pollinpostcrey.club
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.pollishinpg.site
 0.0.0.0 www.polll.lifepeoplexf.top
 0.0.0.0 www.pollppost.top
@@ -91346,7 +91599,10 @@
 0.0.0.0 www.post.kzbakkumz.site
 0.0.0.0 www.post.tex-prog.top
 0.0.0.0 www.post.usasptps.top
+<<<<<<< HEAD
 0.0.0.0 www.post.wewerew.site
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.posta-dhl.top
 0.0.0.0 www.posta-is.top
 0.0.0.0 www.posta-pl.com
@@ -91414,7 +91670,10 @@
 0.0.0.0 www.postid-79348548.justgreece.org
 0.0.0.0 www.postigfastnewsjoblers.tumblr.com
 0.0.0.0 www.postigjoblelivenews.tumblr.com
+<<<<<<< HEAD
 0.0.0.0 www.postin-ln.top
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.postin-pl.com
 0.0.0.0 www.postin-pl.top
 0.0.0.0 www.postinb.top
@@ -92553,7 +92812,10 @@
 0.0.0.0 www.puppiesandhugs.com
 0.0.0.0 www.puppypopo.xyz
 0.0.0.0 www.puprreme.com
+<<<<<<< HEAD
 0.0.0.0 www.puq.librprograms.xyz
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.purchasehh.info
 0.0.0.0 www.purchasehh.top
 0.0.0.0 www.purchasehh.xyz
@@ -99667,7 +99929,10 @@
 0.0.0.0 www.transcomhvac.net
 0.0.0.0 www.transdreamsbay.shop
 0.0.0.0 www.transferludnosci.click
+<<<<<<< HEAD
 0.0.0.0 www.transferwinddeluxe.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.transferwindhome.com
 0.0.0.0 www.transfilmapps.xyz
 0.0.0.0 www.transformandoseucorpo.online
@@ -100144,7 +100409,10 @@
 0.0.0.0 www.tut.newstradefx.site
 0.0.0.0 www.tutajdodaj.pl
 0.0.0.0 www.tutejszezagrozenia.click
+<<<<<<< HEAD
 0.0.0.0 www.tuu.znetvision.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.tuveterinariaencasa.com
 0.0.0.0 www.tuvisodep.com
 0.0.0.0 www.tuvpowerelectronics.com
@@ -101675,7 +101943,10 @@
 0.0.0.0 www.vintedcz.order8943.eu
 0.0.0.0 www.vintedcz.order9573.eu
 0.0.0.0 www.vintedcz.order9924.eu
+<<<<<<< HEAD
 0.0.0.0 www.vintedcz.pay553.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.vintedcz.pay812.online
 0.0.0.0 www.vintedcz.pay865.com
 0.0.0.0 www.vintedeuro.wixsite.com
@@ -102374,7 +102645,10 @@
 0.0.0.0 www.waznykomunikat.click
 0.0.0.0 www.waznytemat.click
 0.0.0.0 www.waznywatek.click
+<<<<<<< HEAD
 0.0.0.0 www.wbarton.witwrona.pl
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.wbc0pf0571j7nttr25e7h354.quickmarketnow.me
 0.0.0.0 www.wbes.xlei-836.cfd
 0.0.0.0 www.wbg0d9fa2hv3aoor2hl9n3hm.quickmarketnow.me
@@ -102853,7 +103127,10 @@
 0.0.0.0 www.wiadomosci.click
 0.0.0.0 www.wiadomosci.hypnosisandfitness.com
 0.0.0.0 www.wiadomosci.ink
+<<<<<<< HEAD
 0.0.0.0 www.wiadomosci.nativosweb.com
+=======
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 0.0.0.0 www.wiadomosci.unixofficeequipment.com
 0.0.0.0 www.wiadomosci.wp.pl.32976516.cube-cologne.com
 0.0.0.0 www.wiadomosci.wp.pl.52867366.cube-cologne.com

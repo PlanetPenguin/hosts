@@ -1,7 +1,13 @@
 # Title: hostsVN
+<<<<<<< HEAD
 # Last modified: 10 Jan 2024 11:18 UTC+7
 # Version: 2401101118
 # Blocked: 1,826 domains
+=======
+# Last modified: 05 Jan 2024 15:51 UTC+7
+# Version: 2401051551
+# Blocked: 1,812 domains
+>>>>>>> 810ad8c86009165c747262170e94858917c91dd7
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
