@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 18 Jan 2024 at 22:52:56 GMT
+# Last updated: Wed, 24 Jan 2024 at 06:10:49 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1990,6 +1990,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 deposit-cra2023.com
 0.0.0.0 depositphotos.fr
 0.0.0.0 depottool.bond
+0.0.0.0 details-update.com
 0.0.0.0 devguardmap.org
 0.0.0.0 dewinci.fr
 0.0.0.0 dfnac.fr
@@ -2615,6 +2616,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 neowordprss.fr
 0.0.0.0 netflix-updateinfo.com
 0.0.0.0 netflix.apple-green.net
+0.0.0.0 netflixca-updateprofilehelp.com
 0.0.0.0 new-vid-zone-1.blogspot.com.au
 0.0.0.0 newouest.fr
 0.0.0.0 newsmagic.net
@@ -2908,6 +2910,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 snscf.fr
 0.0.0.0 societegernerale.fr
 0.0.0.0 societergenerale.fr
+0.0.0.0 sofaglobal.best
 0.0.0.0 software-updates.co
 0.0.0.0 software-wenc.co.cc
 0.0.0.0 soidog.fr
@@ -9738,6 +9741,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 union.56.com
 0.0.0.0 union.6.cn
 0.0.0.0 union.baidu.com
+0.0.0.0 unityads.unity.cn
+0.0.0.0 unityads.unitychina.cn
 0.0.0.0 unser-en.de
 0.0.0.0 unstat.baidu.com
 0.0.0.0 uole.ad.uol.com.br
