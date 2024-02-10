@@ -1,6 +1,9 @@
-# Title: [REMOVE ME] Not on my shift!
-# Description: empty list that will not get any updates
-# Homepage: https://orca.pet/notonmyshift/
-# Licence: https://orca.pet/#license
-# Expires: 24h
-# Last update: 2023-07-10T20:00:00Z
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.57 (Debian) Server at orca.pet Port 443</address>
+</body></html>
