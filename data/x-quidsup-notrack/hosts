@@ -4,12 +4,11 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 19 Feb 2024
+# Updated: 16 Mar 2024
 # LatestVersion 24.01
-# Domain Count: 16817
+# Domain Count: 16808
 #===============================================================
 
-01mspmd5yalky8.com #AdMeasures - Advertising
 028708717f.com #ClickAdilla - Advertising
 03f128fb44.com #Unknown - Advertising
 0i0i0i0.com #Unknown - Advertising
@@ -39,7 +38,6 @@
 2bps53igop02.com #AdMeasures - Advertising
 2d77c9dd09.com #ClickAdilla - Advertising
 2iiyrxk0.com #AdMeasures - Advertising
-2llmonds4ehcr93nb.com #Unknown - Advertising
 2mdn.net #Google - Advertising
 2mdnsys.com #Unknown - Advertising
 2nyan.org #Unknown - Tracker
@@ -74,7 +72,6 @@
 6ujk8x9soxhm.com #AdMeasures - Advertising
 7eer.net #Impact Radius - Tracker
 8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com #Unknown - Advertising
-8gs4unh05aq6.com #AdMeasures - Advertising
 8s32e590un.com #AdMeasures - Advertising
 9mediaonline.com #9Media Online - Advertising
 9nl.com #ClickMeter - Tracker
@@ -102,8 +99,8 @@ aatkit.com #AddApptr - Advertising
 aax-us-iad.amazon.com #Amazon - Advertising
 aaxads.com #Acceptable Ads - Tracker
 aaxdetect.com #Acceptable Ads - Tracker
+abberantdoggie.com #AdMeasures - Advertising
 abmr.net #Unknown - Advertising
-abruptlyinstitution.com #AdMeasures - Advertising
 absoluteroute.com #Unknown - Tracker
 absolveparticlesanti.com #AdMeasures - Advertising
 abtasty.com #AB Tasty - Tracker
@@ -114,6 +111,7 @@ acacdn.com #Unknown - Advertising
 academyblocked.com #AdMeasures - Advertising
 accompanycollapse.com #AdMeasures - Advertising
 accordaudienceeducational.com #AdMeasures - Advertising
+accountantpacketassail.com #AdMeasures - Advertising
 accscdn.m.taobao.com #Taobao - Advertising
 accuracyswede.com #AdMeasures - Advertising
 accusationcollegeload.com #AdMeasures - Advertising
@@ -286,7 +284,6 @@ adp13a.com #Unknown - Tracker
 adpartner.pro #Unknown - Advertising
 adplace.cz #Grape Media - Advertising
 adpone.com #Adpone - Advertising
-adprimemedia.com #AdPrime - Advertising
 adprimemedia.net #AdPrime - Advertising
 adpushup.com #AdPushup - Advertising
 adready.com #CPXi - Advertising
@@ -492,7 +489,6 @@ adzip.co #Adbox Digital - Advertising
 aerialmistaken.com #AdMeasures - Advertising
 aerserv.com #AerServ - Advertising
 af.shalltry.com #Infinix Tracker - Tracker
-affairsmithbloke.com #AdMeasures - Advertising
 affec.tv #Unknown - Advertising
 affilbox.cz #AffilBox - Advertising
 affiliatewindow.com #Digital Window - Advertising
@@ -559,6 +555,7 @@ almostspend.com #AdMeasures - Advertising
 alooma.com #Google - Tracker
 alphonso.tv #Alphonso - Advertising
 alternativecpmgate.com #AdMeasures - Advertising
+alternativeprofitablegate.com #AdMeasures - Advertising
 altitude-arena.com #Altitude ARENA - Tracker
 altmetric.com #Altmetric - Tracker
 alxbgo.com #Unknown - Advertising
@@ -566,6 +563,7 @@ amdcopen.m.taobao.com #Taobao - Advertising
 amenityleisurelydays.com #AdMeasures - Advertising
 amgdgt.com #Amobee - Tracker
 amobee.com #Amobee - Tracker
+amountdonutproxy.com #AdMeasures - Advertising
 amp.services #Jemm media - Tracker
 amplience.com #Amplience - Tracker
 amplitude.com #Amplitude - Tracker
@@ -678,7 +676,6 @@ analytics.ns1.ff.avast.com #Avast - Tracker
 analytics.ostr.io #First Party - Tracker
 analytics.ovh.com #Ovh.Com - Tracker
 analytics.pinterest.com #pinterest.com - Tracker
-analytics.playinfinity.cn #playinfinity.cn - Tracker
 analytics.plex.tv #plex.tv - Tracker
 analytics.poperblocker.com #First Party - Tracker
 analytics.prod.mybuddy.ai #Mybuddy.Ai - Tracker
@@ -748,7 +745,6 @@ androidtvwatsonfe-pa.googleapis.com #Google Android TV - Advertising
 anglezinccompassionate.com #AdMeasures - Advertising
 aniview.com #Aniview - Advertising
 anm.co.uk #Associated Newspapers - Advertising
-annesuspense.com #AdMeasures - Advertising
 anomalousporch.com #AdMeasures - Advertising
 anrdoezrs.net #Anrdoezrs - Tracker
 answerscloud.com #ForeSee - Tracker
@@ -838,7 +834,6 @@ arithmeticshovel.com #AdMeasures - Advertising
 arity.com #Arity - Tracker
 arkfacialdaybreak.com #AdMeasures - Advertising
 armedtidying.com #AdMeasures - Advertising
-armisticeexpress.com #AdMeasures - Advertising
 arrearssturdyenthusiasm.com #AdMeasures - Advertising
 arrivedeuropean.com #AdMeasures - Advertising
 arsonexchangefly.com #AdMeasures - Advertising
@@ -868,7 +863,6 @@ atgsvcs.com #Unknown - Tracker
 ati-host.net #Unknown - Tracker
 atomz.com #Adobe - Tracker
 atonementimmersedlacerate.com #AdMeasures - Advertising
-attachtranquilizer.com #AdMeasures - Advertising
 attemptdruggedcarve.com #AdMeasures - Advertising
 attemptinghorace.com #AdMeasures - Advertising
 attentivemobile.com #Attentive - Tracker
@@ -907,7 +901,6 @@ ayads.co #Ayads - Advertising
 ayc0zsm69431gfebd.xyz #Unknown - Tracker
 azalead.com #Azalead - Tracker
 b0e8.com #Unknown - Tracker
-b3kyo0de1fr0.com #AdMeasures - Advertising
 b42rracj.com #AdMeasures - Advertising
 b73uszzq3g9h.com #AdMeasures - Advertising
 backstory.ebay.ca #eBay - Tracker
@@ -941,7 +934,6 @@ banquetunarmedgrater.com #AdMeasures - Advertising
 barefootedleisurelypizza.com #AdMeasures - Advertising
 bars.sapo.pt #PT Telecomunicacoes - Tracker
 basebanner.com #Basebanner - Tracker
-basheighthnumerous.com #AdMeasures - Advertising
 basis.net #Centro - Tracker
 bat.bing.com #Microsoft - Tracker
 bat.r.msn.com #Microsoft - Tracker
@@ -990,10 +982,12 @@ behavioralmailing.com #OnAudience - Tracker
 beintoo.net #Beintoo - Tracker
 believersheet.com #AdMeasures - Advertising
 belongedshark.com #AdMeasures - Advertising
+bendfrequency.com #AdMeasures - Advertising
 beop.io #BeOp - Tracker
 berlipurplin.com #Unknown - Advertising
 besmeargleor.com #Unknown - Advertising
 bestcpmnetwork.com #AdMeasures - Advertising
+bestdisplaycontent.com #AdMeasures - Advertising
 bestdisplayformats.com #AdMeasures - Advertising
 bestialvehemence.com #AdMeasures - Advertising
 bestrevenuenetwork.com #AdMeasures - Advertising
@@ -1186,7 +1180,6 @@ cassetteflask.com #AdMeasures - Advertising
 catapultx.com #Qortex - Advertising
 catastropheillusive.com #AdMeasures - Advertising
 catscanty.com #AdMeasures - Advertising
-cattledisplace.com #AdMeasures - Advertising
 cauly.co.kr #Cauly - Advertising
 causingguard.com #AdMeasures - Advertising
 cb-telemetry.academicmerit.com #academicmerit.com - Tracker
@@ -1337,12 +1330,12 @@ cobwebcomprehension.com #AdMeasures - Advertising
 cobweblockerdiana.com #AdMeasures - Advertising
 codigo.se #Codigo - Tracker
 cognateparsley.com #AdMeasures - Advertising
+cognizancesteepleelevate.com #AdMeasures - Advertising
 cogocast.net #CogoCast - Advertising
 collaboratemedaltrips.com #AdMeasures - Advertising
 collect.analytics.unity3d.com #Unity - Tracker
 collect.playdayy.com #First Party - Tracker
 collect.trendyol.com #First Party - Tracker
-collectionspriestcardiac.com #AdMeasures - Advertising
 collective-media.net #Collective - Tracker
 collective.com #Collective - Tracker
 collector.github.com #First Party - Tracker
@@ -1357,7 +1350,6 @@ commandersact.com #Commanders Act - Advertising
 commissionepochknuckle.com #AdMeasures - Advertising
 commonvivacious.com #AdMeasures - Advertising
 company-target.com #Demandbase - Tracker
-comparativevegetables.com #AdMeasures - Advertising
 comparedsilas.com #AdMeasures - Advertising
 compasspenitenthollow.com #AdMeasures - Advertising
 comprehendbighearted.com #AdMeasures - Advertising
@@ -1366,11 +1358,13 @@ compromiseadaptedspecialty.com #AdMeasures - Advertising
 compromisemammoth.com #AdMeasures - Advertising
 comscore.com #comScore - Tracker
 comscoreresearch.com #comScore - Tracker
+concealmentbrainpower.com #AdMeasures - Advertising
 concernederase.com #AdMeasures - Advertising
 concerninggills.com #AdMeasures - Advertising
 concertads-configs.vox-cdn.com #Vox - Advertising
 concisepressing.com #AdMeasures - Advertising
 condenastdigital.com #Conde Nast Digital - Tracker
+condolencespicturesquetracks.com #AdMeasures - Advertising
 condolencessumcomics.com #AdMeasures - Advertising
 conductmassage.com #AdMeasures - Advertising
 confidethirstyfrightful.com #AdMeasures - Advertising
@@ -1497,7 +1491,6 @@ cuckooretire.com #AdMeasures - Advertising
 cuebiq.com #Cubiq - Advertising
 cuesingle.com #AdMeasures - Advertising
 curalate.com #BazaarVoice - Tracker
-curbimpress.com #AdMeasures - Advertising
 curioushingefast.com #AdMeasures - Advertising
 curulate.com #Curulate - Advertising
 curvedheldideal.com #AdMeasures - Advertising
@@ -1557,7 +1550,6 @@ de17a.com #Delta Projects - Tracker
 dealer.com # - Tracker
 dealtale.com #Dealtale - Tracker
 dearestimmortality.com #AdMeasures - Advertising
-decemberpedalunfair.com #AdMeasures - Advertising
 decencyjessiebloom.com #AdMeasures - Advertising
 decenthat.com #SourcePoint - Tracker
 decentpatent.com #AdMeasures - Advertising
@@ -1624,14 +1616,12 @@ diningsovereign.com #AdMeasures - Advertising
 direct-aws-a1.com #Lead Forensics - Tracker
 directrev.com #Unknown - Tracker
 directservices.it #Unknown - Tracker
-disconnectedponder.com #AdMeasures - Advertising
 discovery.rudo.video #Rudo.video - Tracker
 dislanelibrar.top #Unknown - Advertising
 dismantlepenantiterrorist.com #AdMeasures - Advertising
 display.io #DisplayIO - Advertising
 displaycontentnetwork.com #AdMeasures - Advertising
 displaycontentprofit.com #AdMeasures - Advertising
-displayformatrevenue.com #AdMeasures - Advertising
 displaymarketplace.com #Unknown - Tracker
 displaynetworkcontent.com #AdMeasures - Advertising
 displaynetworkprofit.com #AdMeasures - Advertising
@@ -1639,13 +1629,11 @@ displayvertising.com #Unknown - Advertising
 disqusads.com #Disqus - Tracker
 disrespectpreceding.com #AdMeasures - Advertising
 dissimilarakin.com #AdMeasures - Advertising
-dissolveddittoteaspoon.com #AdMeasures - Advertising
 distinctlynobleprosecute.com #AdMeasures - Advertising
 distressedsoultabloid.com #AdMeasures - Advertising
 distributionrealmoth.com #AdMeasures - Advertising
 dit.whatsapp.net #WhatsApp De-identified Telemetry - Tracker
 divideoutdoors.com #AdMeasures - Advertising
-divorceseed.com #AdMeasures - Advertising
 dl-rms.com #Unknown - Tracker
 dlfvgndsdfsn.com #Unknown - Tracker
 dm.action-media.ru #action-media.ru - Tracker
@@ -1809,7 +1797,6 @@ england365.gr #Revive Adserver - Advertising
 enoughturtlecontrol.com #AdMeasures - Advertising
 enrichyummy.com #AdMeasures - Advertising
 ensighten.com #Ensighten - Tracker
-entirelysacrament.com #AdMeasures - Advertising
 envnxs.net #AppNexus Inc - Tracker
 eo62cocntx.com #AdMeasures - Advertising
 eprize.com #HelloWorld - Tracker
@@ -1825,7 +1812,6 @@ esomniture.com #Adobe - Tracker
 espionagegardenerthicket.com #AdMeasures - Advertising
 esprima.org #Esprima - Tracker
 esputnik.com #eSputnik - Tracker
-esvdigital.com #ESV Digital - Advertising
 et.lv #ET Mail - Advertising
 etahub.com #ETA Hub - Tracker
 etracker.de #eTracker - Tracker
@@ -1927,7 +1913,6 @@ featbankrupthide.com #AdMeasures - Advertising
 februarybogus.com #AdMeasures - Advertising
 februaryinjectionproudly.com #AdMeasures - Advertising
 februarynip.com #AdMeasures - Advertising
-federalcertainty.com #AdMeasures - Advertising
 federatedml-pa.googleapis.com #Google - Tracker
 feed.ff.avast.com #Avast - Tracker
 feedbackify.com #Feedbackify - Advertising
@@ -1955,6 +1940,7 @@ fireworkanalytics.com #fireworkapi - Tracker
 firstpromoter.com #First Promoter - Advertising
 fishermanslush.com #AdMeasures - Advertising
 fitanalytics.com #Fit Analytics - Tracker
+fittingcentermonday.com #AdMeasures - Advertising
 fixel.ai #Fixel - Tracker
 flagcounter.com #Flag Counter - Tracker
 flashtalking.com #Flashtalking - Advertising
@@ -2052,7 +2038,6 @@ gddghktygtmc.com #Unknown - Advertising
 gdrytrk.com #Performance Tracking - Tracker
 gecko-sg.byteoversea.com #Tiktok - Tracker
 gelclinchfranz.com #AdMeasures - Advertising
-gemlocomotivemid.com #AdMeasures - Advertising
 generalizebusinessman.com #AdMeasures - Advertising
 generashionvd.com #Unknown - Advertising
 genericlink.com #Unknown - Tracker
@@ -2080,6 +2065,7 @@ getsidekick.com #Hubspot - Tracker
 getsitecontrol.com #GetSiteControl - Tracker
 getsocial.io #GetSocial - Tracker
 gettraff.com #Getraff - Tracker
+giddinessscrewscandal.com #AdMeasures - Advertising
 giftedhazelsecond.com #AdMeasures - Advertising
 gigaonclick.com #Unknown - Advertising
 ginchoirblessed.com #AdMeasures - Advertising
@@ -2122,6 +2108,7 @@ govmetric.com #GovMetric - Tracker
 gracelessbrief.com #AdMeasures - Advertising
 grafana.org #Grafana - Tracker
 grandchildfee.com #AdMeasures - Advertising
+granddaughterrepresentationintroduce.com #AdMeasures - Advertising
 granify.com #Granify - Advertising
 grantedpigsunborn.com #AdMeasures - Advertising
 grapeshot.co.uk #Oracle - Advertising
@@ -2167,13 +2154,11 @@ h5v.eu #Highfivve - Advertising
 hagnutrient.com #AdMeasures - Advertising
 hailstonenerve.com #AdMeasures - Advertising
 halfmoonsights.com #AdMeasures - Advertising
-hallucinatepromise.com #AdMeasures - Advertising
 hammockpublisherillumination.com #AdMeasures - Advertising
 hamsterginger.com #AdMeasures - Advertising
 hanapinmarketing.com #Unknown - Advertising
 hand.bid #Handbid - Advertising
 handbid.com #Handbid - Advertising
-handymansurrender.com #AdMeasures - Advertising
 hannahdrovebible.com #AdMeasures - Advertising
 happyfoxchat.com #HappyFox Chat - Tracker
 harassinganticipation.com #AdMeasures - Advertising
@@ -2192,7 +2177,6 @@ hematery.buzz #Unknown - Advertising
 hermichermicfurnished.com #AdMeasures - Advertising
 hexagon-analytics.com #Hexagon - Tracker
 hf5rbejvpwds.com #AdMeasures - Advertising
-hgub2polye.com #AdMeasures - Advertising
 hibids10.com #AdMeasures - Advertising
 highconvertingformats.com #AdMeasures - Advertising
 highcpmcreativeformat.com #AdMeasures - Advertising
@@ -2270,7 +2254,6 @@ hyros.com #Hyros - Tracker
 hzr0dm28m17c.com #AdMeasures - Advertising
 i10c.net #instartlogic - Advertising
 i18n-pglstatp.com #TikTok - Advertising
-i4rsrcj6.top #AdMeasures - Advertising
 iadvize.com #iAdvize - Tracker
 iasds01.com #Unknown - Advertising
 ib-ibi.com #Trancos - Advertising
@@ -2299,7 +2282,6 @@ imedia.cz #Unknown - Advertising
 img-taboola.com #Taboola - Advertising
 imglnke.com #Unknown - Advertising
 imiclk.com #Media Math - Tracker
-immunepine.com #AdMeasures - Advertising
 imonomy.com #Imonomy - Tracker
 impact-ad.jp #Impact Advertising - Advertising
 impact.com #Impact - Tracker
@@ -2333,7 +2315,6 @@ indexexchange.com #Index Exchange - Advertising
 indexww.com #Index Exchange - Advertising
 indicative.com #Indicative - Tracker
 indigestionmarried.com #AdMeasures - Advertising
-indirectlatitudewomb.com #AdMeasures - Advertising
 industrybrains.com #IndustryBrains - Advertising
 inediblebedside.com #AdMeasures - Advertising
 inediblepollingbuzz.com #AdMeasures - Advertising
@@ -2359,7 +2340,6 @@ innovid.com #Innovid - Advertising
 inpage-push.com #Unknown - Advertising
 inpagepush.com #Unknown - Advertising
 inq.com #Touch Commerce - Advertising
-inquiryclank.com #AdMeasures - Advertising
 inrhyhorntor.com #Unknown - Advertising
 ins.shalltry.com #Infinix Tracker - Tracker
 inscname.net #instartlogic - Tracker
@@ -2436,6 +2416,7 @@ iwanttodeliver.com #Unknown - Tracker
 j6mn99mr0m2n.com #AdMeasures - Advertising
 ja2n2u30a6rgyd.com #Unknown - Advertising
 jads.co #Juicyads - Advertising
+jakescribble.com #AdMeasures - Advertising
 jampp.com #Jampp - Advertising
 jarquizslash.com #AdMeasures - Advertising
 jawconcealed.com #AdMeasures - Advertising
@@ -2497,7 +2478,6 @@ kickdyn.co.uk #Kickdynamic - Tracker
 kickdyn.com #Kickdynamic - Tracker
 kickfire.com #KickFire - Tracker
 kidoz.net #Kid-Safe Ad Network - Advertising
-kingfish.fishing.net.nz #Revive Adserver - Advertising
 kiosked.com #Unknown - Tracker
 kissmetrics.com #Unknown - Tracker
 kitchencafeso.com #AdMeasures - Advertising
@@ -2509,6 +2489,7 @@ klclick3.com #Klaviyo - Tracker
 klick2contact.com #Eckoh - Tracker
 klickly.com #Klickly - Tracker
 knobpredestinecontradiction.com #AdMeasures - Advertising
+knownwarn.com #AdMeasures - Advertising
 kochava.com #Kochava - Tracker
 komoona.com #Unknown - Tracker
 kontera.com #Amobee - Tracker
@@ -2587,7 +2568,6 @@ linksynergy.com #Unknown - Advertising
 linktrack.co.nz #Performance Tracking - Tracker
 lipperhey.com #Lipperhey - Tracker
 liqwid.net #Liqwid - Advertising
-lispaircraftcraziness.com #AdMeasures - Advertising
 listrakbi.com #Unknown - Tracker
 litix.io #Unknown - Tracker
 litrefloored.com #AdMeasures - Advertising
@@ -2704,6 +2684,7 @@ m6r.eu #MBR Targeting - Tracker
 madcpms.com #AdMeasures - Advertising
 madisonlogic.com #Unknown - Tracker
 madnessindians.com #AdMeasures - Advertising
+madsips.com #AdMeasures - Advertising
 magic1.info #Unknown Chinese - Tracker
 magistratehumorousjeep.com #AdMeasures - Advertising
 magnetmail.net #Real Magnet Media - Tracker
@@ -2723,7 +2704,6 @@ mandrillapp.com #MailChimp - Advertising
 mantis-prod-reach.cdn.appdomain.cloud #Unknown - Tracker
 map2.ssl.hwcdn.net #HWCDN - Tracker
 marchex.io #Marchex - Tracker
-marecreateddew.com #AdMeasures - Advertising
 marfeel.com #Marfeel - Advertising
 margarinereverend.com #AdMeasures - Advertising
 marinegruffexpecting.com #AdMeasures - Advertising
@@ -4619,6 +4599,7 @@ mkt11619.com #IBM Silverpop - Advertising
 mkt1162.com #IBM Silverpop - Advertising
 mkt11620.com #IBM Silverpop - Advertising
 mkt11621.com #IBM Silverpop - Advertising
+mkt11622.com #IBM Silverpop - Advertising
 mkt11623.com #IBM Silverpop - Advertising
 mkt11624.com #IBM Silverpop - Advertising
 mkt11625.com #IBM Silverpop - Advertising
@@ -4746,9 +4727,12 @@ mkt11737.com #IBM Silverpop - Advertising
 mkt11738.com #IBM Silverpop - Advertising
 mkt11739.com #IBM Silverpop - Advertising
 mkt1174.com #IBM Silverpop - Advertising
+mkt11740.com #IBM Silverpop - Advertising
 mkt11741.com #IBM Silverpop - Advertising
 mkt11742.com #IBM Silverpop - Advertising
 mkt11743.com #IBM Silverpop - Advertising
+mkt11744.com #IBM Silverpop - Advertising
+mkt11745.com #IBM Silverpop - Advertising
 mkt11746.com #IBM Silverpop - Advertising
 mkt11747.com #IBM Silverpop - Advertising
 mkt11749.com #IBM Silverpop - Advertising
@@ -4770,6 +4754,7 @@ mkt11762.com #IBM Silverpop - Advertising
 mkt11763.com #IBM Silverpop - Advertising
 mkt11768.com #IBM Silverpop - Advertising
 mkt1177.com #IBM Silverpop - Advertising
+mkt11771.com #IBM Silverpop - Advertising
 mkt11774.com #IBM Silverpop - Advertising
 mkt11778.com #IBM Silverpop - Advertising
 mkt11779.com #IBM Silverpop - Advertising
@@ -4791,6 +4776,7 @@ mkt11808.com #IBM Silverpop - Advertising
 mkt11809.com #IBM Silverpop - Advertising
 mkt1181.com #IBM Silverpop - Advertising
 mkt11810.com #IBM Silverpop - Advertising
+mkt11811.com #IBM Silverpop - Advertising
 mkt11812.com #IBM Silverpop - Advertising
 mkt11814.com #IBM Silverpop - Advertising
 mkt11815.com #IBM Silverpop - Advertising
@@ -4813,6 +4799,7 @@ mkt11833.com #IBM Silverpop - Advertising
 mkt11834.com #IBM Silverpop - Advertising
 mkt11836.com #IBM Silverpop - Advertising
 mkt11837.com #IBM Silverpop - Advertising
+mkt11838.com #IBM Silverpop - Advertising
 mkt1184.com #IBM Silverpop - Advertising
 mkt11840.com #IBM Silverpop - Advertising
 mkt11841.com #IBM Silverpop - Advertising
@@ -4828,8 +4815,10 @@ mkt1185.com #IBM Silverpop - Advertising
 mkt11850.com #IBM Silverpop - Advertising
 mkt11851.com #IBM Silverpop - Advertising
 mkt11852.com #IBM Silverpop - Advertising
+mkt11853.com #IBM Silverpop - Advertising
 mkt11854.com #IBM Silverpop - Advertising
 mkt11855.com #IBM Silverpop - Advertising
+mkt11856.com #IBM Silverpop - Advertising
 mkt11857.com #IBM Silverpop - Advertising
 mkt11858.com #IBM Silverpop - Advertising
 mkt11859.com #IBM Silverpop - Advertising
@@ -4840,6 +4829,8 @@ mkt11862.com #IBM Silverpop - Advertising
 mkt11863.com #IBM Silverpop - Advertising
 mkt11864.com #IBM Silverpop - Advertising
 mkt11865.com #IBM Silverpop - Advertising
+mkt11866.com #IBM Silverpop - Advertising
+mkt11867.com #IBM Silverpop - Advertising
 mkt11868.com #IBM Silverpop - Advertising
 mkt11869.com #IBM Silverpop - Advertising
 mkt1187.com #IBM Silverpop - Advertising
@@ -4849,6 +4840,7 @@ mkt11874.com #IBM Silverpop - Advertising
 mkt11875.com #IBM Silverpop - Advertising
 mkt11876.com #IBM Silverpop - Advertising
 mkt11877.com #IBM Silverpop - Advertising
+mkt11878.com #IBM Silverpop - Advertising
 mkt11879.com #IBM Silverpop - Advertising
 mkt1188.com #IBM Silverpop - Advertising
 mkt11880.com #IBM Silverpop - Advertising
@@ -4860,10 +4852,12 @@ mkt11885.com #IBM Silverpop - Advertising
 mkt11886.com #IBM Silverpop - Advertising
 mkt11887.com #IBM Silverpop - Advertising
 mkt11888.com #IBM Silverpop - Advertising
+mkt11889.com #IBM Silverpop - Advertising
 mkt1189.com #IBM Silverpop - Advertising
 mkt11890.com #IBM Silverpop - Advertising
 mkt11891.com #IBM Silverpop - Advertising
 mkt11893.com #IBM Silverpop - Advertising
+mkt11894.com #IBM Silverpop - Advertising
 mkt11895.com #IBM Silverpop - Advertising
 mkt11896.com #IBM Silverpop - Advertising
 mkt11897.com #IBM Silverpop - Advertising
@@ -4878,6 +4872,7 @@ mkt11905.com #IBM Silverpop - Advertising
 mkt11906.com #IBM Silverpop - Advertising
 mkt11907.com #IBM Silverpop - Advertising
 mkt11908.com #IBM Silverpop - Advertising
+mkt11909.com #IBM Silverpop - Advertising
 mkt1191.com #IBM Silverpop - Advertising
 mkt11910.com #IBM Silverpop - Advertising
 mkt11911.com #IBM Silverpop - Advertising
@@ -4893,27 +4888,34 @@ mkt11920.com #IBM Silverpop - Advertising
 mkt11922.com #IBM Silverpop - Advertising
 mkt11923.com #IBM Silverpop - Advertising
 mkt11924.com #IBM Silverpop - Advertising
+mkt11925.com #IBM Silverpop - Advertising
 mkt11926.com #IBM Silverpop - Advertising
 mkt11927.com #IBM Silverpop - Advertising
 mkt11928.com #IBM Silverpop - Advertising
 mkt11929.com #IBM Silverpop - Advertising
 mkt1193.com #IBM Silverpop - Advertising
 mkt11930.com #IBM Silverpop - Advertising
+mkt11931.com #IBM Silverpop - Advertising
 mkt11932.com #IBM Silverpop - Advertising
 mkt11933.com #IBM Silverpop - Advertising
 mkt11934.com #IBM Silverpop - Advertising
 mkt11935.com #IBM Silverpop - Advertising
 mkt11936.com #IBM Silverpop - Advertising
 mkt11937.com #IBM Silverpop - Advertising
+mkt11938.com #IBM Silverpop - Advertising
 mkt11939.com #IBM Silverpop - Advertising
 mkt1194.com #IBM Silverpop - Advertising
+mkt11941.com #IBM Silverpop - Advertising
 mkt11943.com #IBM Silverpop - Advertising
 mkt11945.com #IBM Silverpop - Advertising
 mkt11948.com #IBM Silverpop - Advertising
 mkt11949.com #IBM Silverpop - Advertising
 mkt1195.com #IBM Silverpop - Advertising
 mkt11950.com #IBM Silverpop - Advertising
+mkt11951.com #IBM Silverpop - Advertising
+mkt11959.com #IBM Silverpop - Advertising
 mkt1196.com #IBM Silverpop - Advertising
+mkt11963.com #IBM Silverpop - Advertising
 mkt1197.com #IBM Silverpop - Advertising
 mkt1198.com #IBM Silverpop - Advertising
 mkt1199.com #IBM Silverpop - Advertising
@@ -14025,7 +14027,6 @@ moodokay.com #AdMeasures - Advertising
 mookie1.com #Unknown - Tracker
 mopub.com #MoPub - Tracker
 morrowfreezer.com #AdMeasures - Advertising
-mostlytreasure.com #AdMeasures - Advertising
 motdgd.com #MOTDgd - Tracker
 motrixi.com #Motrixi - Tracker
 mountain.com #Mountain - Tracker
@@ -14071,6 +14072,7 @@ mybuys.com #Unknown - Tracker
 mydas.mobi #Unknown - Tracker
 mydatamanagerapp.com #data.ai - Tracker
 myfinance.com #MyFinance - Tracker
+mygoodlives.com #AdMeasures - Advertising
 mymarketingreports.com #NinjaCat - Tracker
 mynetreklam.com #mynet.com - Advertising
 myornamenti.com #AdMeasures - Advertising
@@ -14119,6 +14121,7 @@ netshelter.net #Unknown - Tracker
 network-n.com #Network N - Advertising
 networkad.net #NetworkAd - Advertising
 networkadvertising.org #Network Advertising - Advertising
+neverthelessdepression.com #AdMeasures - Advertising
 neverthelessgrandchildren.com #AdMeasures - Advertising
 newdisplayformats.com #cloud-dns-tech - Advertising
 newrelic.com #New Relic - Tracker
@@ -14136,7 +14139,6 @@ nextbigsound.com #Pandora Media - Advertising
 nextdocs.com #Aurea - Advertising
 nextplatform.com #Unknown - Tracker
 nextpsh.top #Unknown - Advertising
-nicesthoarfrostsooner.com #AdMeasures - Advertising
 nicestsame.com #AdMeasures - Advertising
 nigelmidnightrappers.com #Unknown - Advertising
 nighkclick.biz #Unknown - Advertising
@@ -14149,6 +14151,7 @@ nl00.net #NetLine - Advertising
 nl03.net #NetLine - Advertising
 nmp1.com #Email Vision - Advertising
 nobeta.com.br #NoBeta - Advertising
+nomadtricesurfing.com #AdMeasures - Advertising
 norma-external-collect.meizu.com #Meizu - Tracker
 nosto.com #Nosto - Tracker
 notes-analytics-events.apple.com #Apple - Tracker
@@ -14329,6 +14332,7 @@ parkdumbest.com #AdMeasures - Advertising
 parkingcrew.net #Parking Crew - Tracker
 parlorscenes.com #AdMeasures - Advertising
 parsely.com #Unknown - Tracker
+partieseclipse.com #AdMeasures - Advertising
 partnerlinks.io #Partner Links - Advertising
 passedofferundertake.com #AdMeasures - Advertising
 passeura.com #AdMeasures - Advertising
@@ -14445,7 +14449,6 @@ playground.xyz #Playground xyz - Tracker
 playgroundordinarilymess.com #AdMeasures - Advertising
 playwrightglancing.com #AdMeasures - Advertising
 plista.com #Plista - Tracker
-plqbxvnjxq92.com #AdMeasures - Advertising
 plugerr.com #Unknown - Tracker
 plymedia.com #Unknown - Tracker
 pnsdkapi.turktelekom.com.tr #First Party - Tracker
@@ -14454,6 +14457,7 @@ pointmediatracker.com #Unknown - Tracker
 pointroll.com #Unknown - Tracker
 polarbyte.com #Polarbyte - Tracker
 polarmobile.com #Unknown - Tracker
+politicianbusplate.com #AdMeasures - Advertising
 pollpublicly.com #AdMeasures - Advertising
 pomodoromedia.com #PomodoroMedia - Advertising
 ponderousmuffled.com #AdMeasures - Advertising
@@ -14474,6 +14478,7 @@ portbay.trade #Unknown Chinese - Tracker
 poshhateful.com #AdMeasures - Advertising
 possessedcrackinghart.com #AdMeasures - Advertising
 possessionaddictedflight.com #AdMeasures - Advertising
+possiblyinsufficientchecking.com #AdMeasures - Advertising
 postalfranticallyfriendship.com #AdMeasures - Advertising
 postrelease.com #Nativo - Tracker
 postsupport.net #RollerAds - Advertising
@@ -14491,7 +14496,6 @@ prebid.org #Prebid - Tracker
 premiumads.com.br #Premium - Advertising
 prepayproceedingsground.com #AdMeasures - Advertising
 presage.io #Ogury MJM - Tracker
-pretextunfinished.com #AdMeasures - Advertising
 prf.hn #Partnerize - Tracker
 prhzxq.com #Unknown - Advertising
 pricespider.com #Price Spider - Tracker
@@ -14518,6 +14522,7 @@ profitabledisplaycontent.com #Unknown - Advertising
 profitabledisplayformat.com #AdMeasures - Advertising
 profitabledisplaynetwork.com #AdMeasures - Advertising
 profitablegate.com #AdMeasures - Advertising
+profitablegatecpm.com #AdMeasures - Advertising
 profitablegatetocontent.com #AdMeasures - Advertising
 profitabletrustednetwork.com #AdMeasures - Advertising
 profitwell.com #ProfitWell - Tracker
@@ -14641,12 +14646,10 @@ questback.com #Questback - Advertising
 questionmarket.com #Unknown - Tracker
 qwerfdx.com #Unknown - Advertising
 r.i0.cz #centrum.cz - Tracker
-r023m83skv5v.com #AdMeasures - Advertising
 r1-cdn.net #RadiumOne - Tracker
 r42tag.com #Relay42 - Tracker
 r7ls.net #Impact Radius - Tracker
 rad.live.com #Microsoft - Tracker
-radarwitch.com #AdMeasures - Advertising
 radiantsands.com #Unknown Chinese - Tracker
 radiumone.com #RadiumOne - Tracker
 raggedstriking.com #AdMeasures - Advertising
@@ -14672,7 +14675,6 @@ reasonablelandmark.com #AdMeasures - Advertising
 rebelmouse.io #Rebelmouse - Tracker
 rebrandly.com #ClickMeter - Tracker
 rebuyengine.com #ReBuy - Tracker
-recedewell.com #AdMeasures - Advertising
 reciteassemble.com #AdMeasures - Advertising
 recordingperky.com #AdMeasures - Advertising
 redevents-bigdata.redefine.pl #First Party - Tracker
@@ -14680,7 +14682,6 @@ redeye.international #Unknown - Tracker
 redir.metaservices.microsoft.com #Microsoft - Tracker
 redirecting2.net #Unknown - Tracker
 redshell.io #Red Shell - Tracker
-reedsinterfering.com #AdMeasures - Advertising
 reedsonceoxbow.com #AdMeasures - Advertising
 rees46.com #REES46 - Tracker
 reevoo.com #Unknown - Tracker
@@ -14689,8 +14690,6 @@ refinedads.com #Unknown - Advertising
 refinery89.com #Refinery89 - Advertising
 regionalsurveying.com #AdMeasures - Advertising
 regioncolonel.com #AdMeasures - Advertising
-regioninaudibleafforded.com #AdMeasures - Advertising
-regionseffective.com #AdMeasures - Advertising
 register.collector.scopely.io #First Party - Tracker
 regulationprivilegescan.top #Unknown - Advertising
 reklama.silnet.pl #Revive Adserver - Advertising
@@ -14781,7 +14780,6 @@ rndmusharnar.com #Unknown - Advertising
 ro-up.vivoglobal.com #Vivo - Tracker
 roadmappenal.com #AdMeasures - Advertising
 robberyinscription.com #AdMeasures - Advertising
-robescampus.com #AdMeasures - Advertising
 rockabox.co #Scoota - Tracker
 roia.biz #Unknown - Tracker
 roistat.com #Unknown - Tracker
@@ -14813,6 +14811,7 @@ rum20.a.trbcdn.net #cdnvideo - Tracker
 runadtag.com #Unknown - Advertising
 runative-syndicate.com #Runative - Advertising
 rundsp.com #Unknown - Tracker
+runreferences.com #AdMeasures - Advertising
 ruralstring.com #Unknown - Advertising
 rustgenerations.com #AdMeasures - Advertising
 rwadx.com #Readwhere Advertising Exchange - Advertising
@@ -14829,7 +14828,6 @@ saa.paramountplus.com #Adobe - Tracker
 saas-eue-1.com #Lead Forensics - Tracker
 sabavision.com #Unknown - Tracker
 sacredperpetratorbasketball.com #AdMeasures - Advertising
-safereboundmiracle.com #AdMeasures - Advertising
 safestcontentgate.com #AdMeasures - Advertising
 safestgatetocontent.com #AdMeasures - Advertising
 sagedeportflorist.com #AdMeasures - Advertising
@@ -14882,7 +14880,6 @@ sdkconfig.ad.xiaomi.com #Xiaomi - Tracker
 sdsjweb.com #Unknown - Tracker
 se05.biz #Unknown - Advertising
 se07.biz #Unknown - Advertising
-seafoodclickwaited.com #AdMeasures - Advertising
 seaofads.com #AdSupply - Advertising
 search-log-1.tapatalk.com #First Party - Tracker
 searchanalytics.turkcell.com.tr #First Party - Tracker
@@ -14955,7 +14952,6 @@ shop2market.com #Unknown - Tracker
 shoppingshadow.com #ebay - Tracker
 shore.uno #Shore - Tracker
 shortssibilantcrept.com #AdMeasures - Advertising
-shovedrailwaynurse.com #AdMeasures - Advertising
 showcasethat.com #Unknown - Tracker
 shrfbdg004.com #Lead Forensics - Tracker
 shukriya90.com #Unknown - Advertising
@@ -15899,7 +15895,6 @@ sojern.com #Sojern - Tracker
 solemnvine.com #AdMeasures - Advertising
 solestudious.com #AdMeasures - Advertising
 solutionshindsight.net #Unknown - Advertising
-somewhatwideslimy.com #AdMeasures - Advertising
 somplo.com #Somplo - Advertising
 sonataplatform.com #Sonata - Tracker
 sonobi.com #Sonobi - Advertising
@@ -16066,16 +16061,15 @@ streamrail.net #StreamRail - Advertising
 streamsend.com #Unknown - Tracker
 streetmonumentemulate.com #AdMeasures - Advertising
 stretchedcreepy.com #AdMeasures - Advertising
-stretchingwicked.com #AdMeasures - Advertising
 strikead.com #Unknown - Advertising
 struq.com #Unknown - Tracker
 stsdk.vivo.com.cn #Vivo - Tracker
 stsdk.vivoglobal.com #Vivo - Tracker
 stunthedge.com #AdMeasures - Advertising
+stupiditydecision.com #AdMeasures - Advertising
 stylitics.com #Stylitics - Tracker
 sub2tech.com #Unknown - Tracker
 subscribestormyapprobation.com #AdMeasures - Advertising
-suburbincriminatesubdue.com #AdMeasures - Advertising
 successfulpatience.com #AdMeasures - Advertising
 successfultogether.co.uk #Unknown - Tracker
 successionflimsy.com #AdMeasures - Advertising
@@ -16089,6 +16083,7 @@ sumologic.com #Sumo Logic - Advertising
 sumome.com #SumoMe - Advertising
 sunglassesmentallyproficient.com #AdMeasures - Advertising
 sunmedia.tv #AdTech - Advertising
+sunnyseries.com #AdMeasures - Advertising
 sunsetpersuadeaffectionately.com #AdMeasures - Advertising
 superads.cn #SuperADS - Advertising
 superawesome.com #SuperAwesome - Advertising
@@ -16128,7 +16123,6 @@ systemhostess.com #AdMeasures - Advertising
 t.dailymail.co.uk #First Party - Tracker
 t17service.com #Unknown - Advertising
 t4p-upd.info #Sergii Mykolaenko - Tracker
-t5lxz7dtq4iz.com #AdMeasures - Advertising
 t84c3srgclc9.com #Unknown - Advertising
 t85itha3nitde.com #Unknown - Advertising
 tabloidquantitycosts.com #AdMeasures - Advertising
@@ -16229,14 +16223,11 @@ themeillogical.com #AdMeasures - Advertising
 themoneytizer.com #Moneytizer - Tracker
 thenceextremeeyewitness.com #AdMeasures - Advertising
 theoremreach.com #Unknown - Advertising
-therapistpopulationcommentary.com #AdMeasures - Advertising
 thereforetreadvoluntarily.com #AdMeasures - Advertising
 thescv.team #Unknown - Tracker
 thetacdn.net #Verizon - Tracker
-thinksabashmolly.com #AdMeasures - Advertising
 thisisarray.com #Array Digital - Tracker
 thisiswaldo.com #Newor Media - Advertising
-thrilloffer.com #AdMeasures - Advertising
 thriveradioactivecheers.com #AdMeasures - Advertising
 thrtle.com #Throtle - Tracker
 ticketswinning.com #AdMeasures - Advertising
@@ -16280,6 +16271,7 @@ topdisplaynetwork.com #AdMeasures - Advertising
 toprevenuecpmnetwork.com #AdMeasures - Advertising
 toprevenuegate.com #AdMeasures - Advertising
 toprevenuenetwork.com #AdMeasures - Advertising
+toretimeout.com #AdMeasures - Advertising
 touchcommerce.com #Touch Commerce - Tracker
 touchstoneresearch.com #Touchstone Research - Tracker
 tp1jcgl644jk.com #AdMeasures - Advertising
@@ -16451,7 +16443,6 @@ tuplogpublic.bangcdn.net #Unknown - Advertising
 turmoilragcrutch.com #AdMeasures - Advertising
 turn.com #Unknown - Tracker
 tutoads.tv #Inicio - Advertising
-tv1s4d6klh4n.com #AdMeasures - Advertising
 tvpixel.com #LiveRamp - Tracker
 tvsquared.com #Unknown - Tracker
 twibida.com #Infinix Tracker - Advertising
@@ -16495,11 +16486,11 @@ uniqueflatlysorting.com #AdMeasures - Advertising
 unityads.unity3d.com #Unity - Advertising
 univide.com #Unknown - Tracker
 unoadsrv.com #Adtelligent - Tracker
+unpackjanuary.com #AdMeasures - Advertising
 unruly.co #Unruly - Advertising
 unruly.systems #Unruly - Advertising
 unrulymedia.com #Unruly - Advertising
 unseenreport.com #AdMeasures - Advertising
-unskilfulwalkerpolitician.com #AdMeasures - Advertising
 unspeakablepurebeings.com #AdMeasures - Advertising
 uobsoe.com #Unknown - Tracker
 uod2quk646.com #AdMeasures - Advertising
@@ -16666,7 +16657,6 @@ watson.microsoft.com #Microsoft - Tracker
 watson.telemetry.microsoft.com #Microsoft - Tracker
 waudit.cz #WAudit - Tracker
 waufooke.com #Unknown - Advertising
-wavermerchandiseweird.com #AdMeasures - Advertising
 wayin.com #Cheetah Digital - Tracker
 wbtrk.net #Index Exchange - Tracker
 wcsvjqcrpqqft.com #AdMeasures - Advertising
@@ -16679,7 +16669,6 @@ web-metrica.yandex.ru #Yandex - Tracker
 web3ads.net #Web3 Ads - Advertising
 webads.eu #WebAds - Advertising
 webads.nl #WebAds - Advertising
-webcollage.com #Webcollage - Tracker
 webcollage.net #Webcollage - Tracker
 webcontentassessor.com #Web Content Assessor - Tracker
 webed.dm-event.net #Daily Motion - Tracker
@@ -16710,6 +16699,7 @@ weekli.systems #Weekli - Advertising
 welfarefit.com #AdMeasures - Advertising
 wesmallproclaim.com #AdMeasures - Advertising
 wgplayer.com #WG Player - Advertising
+whackaggressive.com #AdMeasures - Advertising
 whairtoa.com #Unknown - Advertising
 whiteinflammablejaws.com #AdMeasures - Advertising
 whizduly.com #AdMeasures - Advertising
@@ -16718,7 +16708,6 @@ whoisvisiting.com #Unknown - Tracker
 wickedhumankindbarrel.com #AdMeasures - Advertising
 widespace.com #Widespace Mobile - Advertising
 widezealconstant.com #AdMeasures - Advertising
-wildlifeeventlean.com #AdMeasures - Advertising
 windingnegotiation.com #AdMeasures - Advertising
 wingify.com #Wingify - Tracker
 wisepops.com #WisePops - Tracker
@@ -16730,6 +16719,7 @@ wmgroup.us #WMG - Advertising
 wmgtr.com #Unknown - Advertising
 wogaa.sg #Singapore Government - Tracker
 wombalayah.com #Unknown - Advertising
+wombjingle.com #AdMeasures - Advertising
 woodpecker.uc.cn #First Party - Advertising
 woollenthawewe.com #AdMeasures - Advertising
 woopra.com #Unknown - Tracker
@@ -16792,6 +16782,7 @@ yieldoptimizer.com #Yield - Advertising
 yieldrealistic.com #AdMeasures - Advertising
 yim3eyv5.top #AdMeasures - Advertising
 yjtag.jp #Unknown - Tracker
+yjwtolgjjeky.com #AdMeasures - Advertising
 ykvlen.com #Unknown - Tracker
 yldbt.com #YeildBot - Tracker
 ymmobi.com #Yeahmobi - Tracker
