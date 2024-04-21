@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 13 Apr 2024
+# Updated: 20 Apr 2024
 # LatestVersion 24.01
-# Domain Count: 16713
+# Domain Count: 16711
 #===============================================================
 
 028708717f.com #ClickAdilla - Advertising
@@ -78,7 +78,6 @@ a-mo.net #Unknown - Advertising
 a.mobify.com #Mobify - Advertising
 a1.api.bbc.co.uk #BBC - Tracker
 a1webstats.com #A1Webstats - Tracker
-a2dfp.net #Unknown - Tracker
 a3cloud.net #a3cloud - Tracker
 a8723.com #Admedo - Advertising
 a9.com #Amazon - Advertising
@@ -235,6 +234,7 @@ adlegend.com #Adlegend - Advertising
 adlightning.com #Ad Lightning - Advertising
 adlook.me #Adlook - Advertising
 adlooxtracking.com #Adloox - Advertising
+adlooxtracking.ru #Unknown - Tracker
 adlucent.com #Adlucent - Advertising
 admailtiser.com #Admailtiser - Advertising
 admanmedia.com #ADman Media - Advertising
@@ -667,6 +667,7 @@ analytics.qumucloud.com #First Party - Tracker
 analytics.realestate.com.au #First Party - Tracker
 analytics.recastsoftware.com #First Party - Tracker
 analytics.regex101.com #First Party - Tracker
+analytics.renderbetter.net #First Party - Tracker
 analytics.rodpub.com #First Party - Tracker
 analytics.rover.io #First Party - Tracker
 analytics.samsungknox.com #Samsung - Tracker
@@ -697,6 +698,7 @@ analytics.twitter.com #Twitter - Tracker
 analytics.typedream.com #First Party - Tracker
 analytics.us.algolia.com #First Party - Tracker
 analytics.valiuz.com #First Party - Tracker
+analytics.voissa.fr #First Party - Tracker
 analytics.webpushr.com #First Party - Tracker
 analytics.wildlifestudios.com #First Party - Tracker
 analytics.xcal.tv #First Party - Tracker
@@ -706,9 +708,6 @@ analytics.yinxiang.com #First Party - Tracker
 analytics.yiyouliao.com #First Party - Tracker
 analytics.yolacdn.net #First Party - Tracker
 analytics.yongjinbao.com.cn #First Party - Tracker
-analytics.zenly-app.com #First Party - Tracker
-analytics.zpbt.uk #First Party - Tracker
-analyticsdcs.ccs.mcafee.com #McAfee - Tracker
 analyticsmsp.com #MSP - Tracker
 analyticspixel.microsoft.com #Microsoft - Tracker
 analyticssystems.net #Unknown - Tracker
@@ -752,11 +751,8 @@ api.us-west-2.aiv-delivery.net #Amazon - Tracker
 api64.com #Unknown - Advertising
 apien.ldmnq.com #First Party - Tracker
 apnanalytics.com #Ask Toolbar - Tracker
-app-analytics-cn.huami.com #First Party - Tracker
 app-analytics-de.huami.com #First Party - Tracker
-app-analytics-in.huami.com #First Party - Tracker
 app-analytics-ru.huami.com #First Party - Tracker
-app-analytics-sg.huami.com #First Party - Tracker
 app-analytics-us.huami.com #First Party - Tracker
 app-analytics-v2.snapchat.com #Snapchat - Tracker
 app-analytics.huami.com #First Party - Tracker
@@ -805,7 +801,6 @@ arcpublishing.com #Arcpublishing - Advertising
 arcquestioningjersey.com #AdMeasures - Advertising
 arcspire.io #Arcspire - Tracker
 arenalitteraccommodation.com #AdMeasures - Advertising
-arg.redgiant.com #Red Giant - Tracker
 argumentsmaymadly.com #AdMeasures - Advertising
 arithmeticshovel.com #AdMeasures - Advertising
 arity.com #Arity - Tracker
@@ -874,7 +869,6 @@ awstrack.me #awstrack.me - Tracker
 ay.delivery #Assertive Yield - Tracker
 ayads.co #Ayads - Advertising
 ayc0zsm69431gfebd.xyz #Unknown - Tracker
-azalead.com #Azalead - Tracker
 b0e8.com #Unknown - Tracker
 b42rracj.com #AdMeasures - Advertising
 b73uszzq3g9h.com #AdMeasures - Advertising
@@ -2625,7 +2619,6 @@ lyricslocusvaried.com #AdMeasures - Advertising
 lyris.com #Aurea - Advertising
 lyris.net #Aurea - Advertising
 lytics.io #Lytics - Tracker
-m-counter.ru #m-counter - Tracker
 m1dnightclubx.com #Unknown - Advertising
 m2.ai #Monetizemore - Tracker
 m2track.co #Unknown - Tracker
@@ -14315,6 +14308,10 @@ petrolgraphcredibility.com #AdMeasures - Advertising
 pf.newegg.com #Newegg - Tracker
 pghub.io #Tapad - Advertising
 pglstatp-toutiao.com #Unknown - Advertising
+pgteu1-excel-telemetry-vip.officeapps.live.com #Microsoft - Tracker
+pgteu2-word-telemetry-vip.officeapps.live.com #Microsoft - Tracker
+pgteu3-powerpoint-telemetry-vip.officeapps.live.com #Microsoft - Tracker
+pgteu4-excel-telemetry-vip.officeapps.live.com #Microsoft - Tracker
 phluant.com #Phluant - Tracker
 phone.igexin.com #Igexin Spyware - Tracker
 phonograph2.voxmedia.com #Vox - Tracker
@@ -16099,6 +16096,7 @@ telemetry.api.wmcdp.io #Warner Media - Tracker
 telemetry.appex.bing.net #Microsoft - Tracker
 telemetry.art19.com #First Party - Tracker
 telemetry.battle.net #Blizzard - Tracker
+telemetry.canva.com #First Party - Tracker
 telemetry.dropbox.com #Dropbox - Tracker
 telemetry.gfe.nvidia.com #Nvidia - Tracker
 telemetry.intel.com #Intel - Tracker
