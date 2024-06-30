@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 15 Jun 2024 21:16 UTC+7
-# Version: 2406152116
-# Blocked: 1,860 domains
+# Last modified: 29 Jun 2024 23:15 UTC+7
+# Version: 2406292315
+# Blocked: 1,864 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -98,6 +98,7 @@
 0.0.0.0 rec.admicro.vn
 0.0.0.0 sspapi.admicro.vn
 0.0.0.0 static-cmsads.admicro.vn
+0.0.0.0 supply-sspapi.admicro.vn
 0.0.0.0 systracking.admicro.vn
 0.0.0.0 wcc.admicro.vn
 0.0.0.0 www.admicro.vn
@@ -1396,6 +1397,7 @@
 0.0.0.0 dev.embed.wiinvent.tv
 0.0.0.0 embed.wiinvent.tv
 0.0.0.0 games.wiinvent.tv
+0.0.0.0 pubads.wiinvent.tv
 0.0.0.0 static1.wiinvent.tv
 0.0.0.0 tv360-gametet.wiinvent.tv
 0.0.0.0 wiinvent.tv
@@ -1548,6 +1550,7 @@
 0.0.0.0 adchoice.com
 0.0.0.0 adclient.vietnamnetjsc.vn
 0.0.0.0 addtop.trangvangvietnam.com
+0.0.0.0 adhub.mobifone.vn
 0.0.0.0 adjusts.info
 0.0.0.0 adm.phunusuckhoe.vn
 0.0.0.0 adm.phunuvagiadinh.vn
@@ -2040,6 +2043,7 @@
 0.0.0.0 traffic.vietnhan.co
 0.0.0.0 trk.123c.vn
 0.0.0.0 trk.staging.123c.vn
+0.0.0.0 upl.net-solutions.vn
 0.0.0.0 userstats.shopee.vn
 0.0.0.0 vieon-tracking.vieon.vn
 0.0.0.0 vn.alexajstrack.com
