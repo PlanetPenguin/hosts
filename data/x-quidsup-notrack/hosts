@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 20 Jul 2024
+# Updated: 27 Jul 2024
 # LatestVersion 24.01
-# Domain Count: 15951
+# Domain Count: 15954
 #===============================================================
 
 01mspmd5yalky8.com #AdMeasures - Advertising
@@ -287,6 +287,7 @@ ads.securityweek.com #First Party - Advertising
 ads.sportradar.com #First Party - Advertising
 ads.sportslocalmedia.com #First Party - Advertising
 ads.superawesome.tv #SuperAwesome Kids - Advertising
+ads.the-sun.com #First Party - Advertising
 ads.thescottishsun.co.uk #First Party - Advertising
 ads.thesun.co.uk #First Party - Advertising
 ads.thesun.ie #First Party - Advertising
@@ -796,7 +797,6 @@ banner.ws.pho.to #First Party - Advertising
 bannerflow.com #Bannerflow - Tracker
 bannersnack.com #Bannersnack - Advertising
 banquetunarmedgrater.com #AdMeasures - Advertising
-barefootedleisurelypizza.com #AdMeasures - Advertising
 bars.sapo.pt #PT Telecomunicacoes - Tracker
 basebanner.com #Basebanner - Tracker
 basis.net #Centro - Tracker
@@ -1416,7 +1416,6 @@ effectivedisplaycontent.com #AdMeasures - Advertising
 effectivedisplayformat.com #AdMeasures - Advertising
 effectivedisplayformats.com #AdMeasures - Advertising
 effectivegatetocontent.com #AdMeasures - Advertising
-effectivemeasure.com #Effective Measure - Tracker
 effectivemeasure.net #Effective Measure - Tracker
 effectiveperformanceformat.com #AdMeasures - Advertising
 effectiveperformancenetwork.com #AdMeasures - Advertising
@@ -1453,7 +1452,6 @@ emerse.com #Emerse - Tracker
 emetriq.de #emetriq - Tracker
 emlfiles.com #dotmailer - Advertising
 emlfiles1.com #dotmailer - Advertising
-emlfiles2.com #dotmailer - Advertising
 emlfiles3.com #dotmailer - Advertising
 emlfiles4.com #dotmailer - Advertising
 emlfiles5.com #dotmailer - Advertising
@@ -1516,7 +1514,6 @@ exoclick.com #ExoClick - Advertising
 exosrv.com #Exosrv - Advertising
 exoticads.com #ExoticAds - Advertising
 experimentalconcerningsuck.com #AdMeasures - Advertising
-exploredefinitely.com #AdMeasures - Advertising
 explorerpurity.com #AdMeasures - Advertising
 exponential.com #Exponential - Tracker
 extole.com #Extole - Tracker
@@ -1664,7 +1661,6 @@ geoadnxs.com #AppNexus Inc - Tracker
 geocomply.com #Unknown - Tracker
 geoedge.be #GeoEdge - Advertising
 geoedge.com #GeoEdge - Advertising
-geoiplookup.wikimedia.org #Wikipedia - Tracker
 geoloc.hurriyet.com.tr #First Party - Tracker
 georiot.com #Unknown - Tracker
 get.venmo.com #Branch CNAME - Tracker
@@ -4516,17 +4512,27 @@ mkt12095.com #IBM Silverpop - Advertising
 mkt12096.com #IBM Silverpop - Advertising
 mkt12097.com #IBM Silverpop - Advertising
 mkt12098.com #IBM Silverpop - Advertising
+mkt12099.com #IBM Silverpop - Advertising
 mkt1210.com #IBM Silverpop - Advertising
 mkt12100.com #IBM Silverpop - Advertising
 mkt12101.com #IBM Silverpop - Advertising
+mkt12102.com #IBM Silverpop - Advertising
 mkt12103.com #IBM Silverpop - Advertising
 mkt12105.com #IBM Silverpop - Advertising
 mkt12106.com #IBM Silverpop - Advertising
 mkt1211.com #IBM Silverpop - Advertising
 mkt12110.com #IBM Silverpop - Advertising
+mkt12111.com #IBM Silverpop - Advertising
+mkt12112.com #IBM Silverpop - Advertising
 mkt12115.com #IBM Silverpop - Advertising
+mkt12117.com #IBM Silverpop - Advertising
+mkt12118.com #IBM Silverpop - Advertising
 mkt12119.com #IBM Silverpop - Advertising
 mkt1212.com #IBM Silverpop - Advertising
+mkt12121.com #IBM Silverpop - Advertising
+mkt12123.com #IBM Silverpop - Advertising
+mkt12124.com #IBM Silverpop - Advertising
+mkt12125.com #IBM Silverpop - Advertising
 mkt1213.com #IBM Silverpop - Advertising
 mkt1214.com #IBM Silverpop - Advertising
 mkt1215.com #IBM Silverpop - Advertising
@@ -15120,7 +15126,6 @@ smetrics.visitsingapore.com #Adobe - Tracker
 smetrics.vitacost.com #Adobe - Tracker
 smetrics.vitamix.com #Adobe - Tracker
 smetrics.vodafone.co.uk #Vodafone - Tracker
-smetrics.vodafone.com.gh #Adobe - Tracker
 smetrics.vodafone.com.tr #Adobe - Tracker
 smetrics.vodafone.es #Adobe - Tracker
 smetrics.vodafone.gr #Adobe - Tracker
@@ -15189,11 +15194,9 @@ soom.la #IronSource - Advertising
 sophomoreguessingestrange.com #AdMeasures - Advertising
 sophus3.com #Unknown - Tracker
 sortable.com #Unknown - Tracker
-sounddelegate.com #AdMeasures - Advertising
 sovrn.com #Unknown - Tracker
 spaceio.xyz #SpaceIO - Tracker
 sparkflow.net #Undertone - Tracker
-sparrowaboveaveragedefence.com #AdMeasures - Advertising
 spatterjointposition.com #AdMeasures - Advertising
 specificclick.net #Unknown - Tracker
 speedcurve.com #SpeedCurve - Tracker
@@ -15353,6 +15356,7 @@ survio.com #Survio - Tracker
 svibeacon.onezapp.com #First Party - Tracker
 swa.vodafone.pt #Adobe - Tracker
 swaptrap.live #Unknown - Advertising
+sweetanalytics.com #Sweet Analytics - Tracker
 switchadhub.com #Unknown - Advertising
 switchads.com #Unknown - Advertising
 swoop.com #Unknown - Tracker
@@ -15507,7 +15511,6 @@ track.pmosvc.io #First Party - Tracker
 track.saygames.io #First Party - Tracker
 track.searchiq.co #SearchIQ - Tracker
 track.sohu.com #First Party - Tracker
-track.sublytics-5be5edecc10bf.com #Sublytics - Tracker
 track.sublytics-5cffe909e69e6.com #Sublytics - Tracker
 track.sublytics-5db9e5dd1b2c2.com #Sublytics - Tracker
 track.sublytics-5df8eec4bca66.com #Sublytics - Tracker
