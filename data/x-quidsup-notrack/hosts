@@ -4,14 +4,13 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 02 Aug 2024
+# Updated: 10 Aug 2024
 # LatestVersion 24.01
-# Domain Count: 15936
+# Domain Count: 15926
 #===============================================================
 
 01mspmd5yalky8.com #AdMeasures - Advertising
 0i0i0i0.com #Unknown - Advertising
-0sntp7dnrr.com #AdMeasures - Advertising
 0w1rqq69fi0e.com #AdMeasures - Advertising
 0x01n2ptpuz3.com #AdMeasures - Advertising
 1010data.com #1010data - Tracker
@@ -329,7 +328,6 @@ adservice.google.com.pk #Google - Advertising
 adservice.google.pt #Google - Advertising
 adservice.google.ru #Google - Tracker
 adservings.ru #Unknown - Advertising
-adsessionserv.com #Unknown - Advertising
 adsfac.eu #Unknown - Advertising
 adsgainer.com #Unknown - Advertising
 adskeeper.co.uk #Adskeeper - Advertising
@@ -748,7 +746,6 @@ attributionapp.com #Attribution - Tracker
 atwola.com #AOL - Advertising
 audienceinsights.net #Adthink - Tracker
 audiencemanager.de #Nano Interactive - Tracker
-audioeye.com #AudioEye - Tracker
 auditioningborder.com #AdMeasures - Advertising
 auditude.com #Auditude - Advertising
 audrte.com #Audiencerate - Advertising
@@ -893,7 +890,6 @@ bnhtml.com #AdMeasures - Advertising
 bnserving.com #AdMeasures - Advertising
 bntrace.com #Unknown - Tracker
 bombora.com #Bombora - Tracker
-bonfiresaltymilk.com #AdMeasures - Advertising
 bongacash.com #BongaCash - Tracker
 bonzai.co #Bonzai - Advertising
 boo-box.com #Boo Box - Advertising
@@ -1037,7 +1033,6 @@ cj.com #Conversant Media - Advertising
 clarity.ms #Microsoft Clarity - Tracker
 clarium.io #ClarityAd - Advertising
 claspedtwelve.com #AdMeasures - Advertising
-claspluke.com #AdMeasures - Advertising
 clc.stackoverflow.com #Stack Overflow - Tracker
 clean.gg #Index Exchange - Advertising
 clear-reports.com #ClearReports - Tracker
@@ -1130,7 +1125,6 @@ compresssavvydetected.com #AdMeasures - Advertising
 compromiseadaptedspecialty.com #AdMeasures - Advertising
 comscore.com #comScore - Tracker
 comscoreresearch.com #comScore - Tracker
-concernederase.com #AdMeasures - Advertising
 concertads-configs.vox-cdn.com #Vox - Advertising
 condenastdigital.com #Conde Nast Digital - Tracker
 condolencessumcomics.com #AdMeasures - Advertising
@@ -1141,7 +1135,6 @@ config.toto.zipoapps.com #First Party - Tracker
 config.uca.cloud.unity3d.com #First Party - Tracker
 confinementpleabotany.com #AdMeasures - Advertising
 confirmsubscription.com #Campaign Monitor Pty - Tracker
-confrontationdrunk.com #AdMeasures - Advertising
 conjunctionrepresentativepowerless.com #AdMeasures - Advertising
 connatedresspint.com #AdMeasures - Advertising
 connatix.com #Connatix - Tracker
@@ -1153,7 +1146,6 @@ content.ad #Unknown - Advertising
 contentexchange.me #ContentExchange - Advertising
 contentsquare.net #Contentsquare - Tracker
 contextweb.com #Unknown - Advertising
-continuousformula.com #AdMeasures - Advertising
 convers.link #RollerAds - Advertising
 conversionlogic.net #Conversion Logic - Tracker
 convertexperiments.com #Convert Experiences - Tracker
@@ -1278,7 +1270,6 @@ dealtale.com #Dealtale - Tracker
 decenthat.com #SourcePoint - Tracker
 decibelinsight.com #Decibel Insight - Tracker
 decibelinsight.net #Decibel Insight - Tracker
-declinedmildlyreckon.com #AdMeasures - Advertising
 dedicated.domains #ClickMeter - Tracker
 deema.agency #Deema - Advertising
 deepintent.com #DeepIntent - Advertising
@@ -1418,7 +1409,6 @@ effectiveperformanceformat.com #AdMeasures - Advertising
 effectiveperformancenetwork.com #AdMeasures - Advertising
 effectslacybulb.com #AdMeasures - Advertising
 eighthpowerfully.com #AdMeasures - Advertising
-ekomi-pl.com #eKomi - Tracker
 ekomi-us.com #eKomi - Tracker
 ekomi.com #eKomi - Tracker
 ekomi.de #eKomi - Tracker
@@ -1736,7 +1726,6 @@ gslb.com #AppNexus Inc - Tracker
 gslb.shalltry.com #Infinix Tracker - Tracker
 gssprt.jp #GENIEE - Advertising
 gu-web.net #Guardian - Tracker
-gumbolersgthb.com #Unknown - Tracker
 gumgum.com #GumGum - Tracker
 gwallet.com #RadiumOne - Advertising
 gwmtracking.com #GlobalWide Media - Tracker
@@ -1841,6 +1830,7 @@ igodigital.com #Salesforce - Advertising
 iljmp.com #Improvely - Tracker
 illuminatelocks.com #AdMeasures - Advertising
 ilo134ulih.com #AdMeasures - Advertising
+im-sentry.sportmaster.ru #Sentry - Tracker
 imageadv.ccb.com #First Party - Advertising
 imedia.cz #Unknown - Advertising
 img-taboola.com #Taboola - Advertising
@@ -4423,6 +4413,7 @@ mkt1201.com #IBM Silverpop - Advertising
 mkt12010.com #IBM Silverpop - Advertising
 mkt12013.com #IBM Silverpop - Advertising
 mkt12014.com #IBM Silverpop - Advertising
+mkt12015.com #IBM Silverpop - Advertising
 mkt12017.com #IBM Silverpop - Advertising
 mkt12018.com #IBM Silverpop - Advertising
 mkt12019.com #IBM Silverpop - Advertising
@@ -4445,6 +4436,7 @@ mkt12035.com #IBM Silverpop - Advertising
 mkt12036.com #IBM Silverpop - Advertising
 mkt12037.com #IBM Silverpop - Advertising
 mkt1204.com #IBM Silverpop - Advertising
+mkt12043.com #IBM Silverpop - Advertising
 mkt12044.com #IBM Silverpop - Advertising
 mkt12045.com #IBM Silverpop - Advertising
 mkt12046.com #IBM Silverpop - Advertising
@@ -4524,6 +4516,7 @@ mkt12123.com #IBM Silverpop - Advertising
 mkt12124.com #IBM Silverpop - Advertising
 mkt12125.com #IBM Silverpop - Advertising
 mkt1213.com #IBM Silverpop - Advertising
+mkt12130.com #IBM Silverpop - Advertising
 mkt1214.com #IBM Silverpop - Advertising
 mkt1215.com #IBM Silverpop - Advertising
 mkt1216.com #IBM Silverpop - Advertising
@@ -13752,7 +13745,6 @@ omgpl.com #Optimise - Tracker
 omgt1.com #Optimise - Tracker
 omgt3.com #Optimise - Tracker
 omgt4.com #Optimise - Tracker
-omgt5.com #Optimise - Tracker
 omgt6.com #Optimise - Tracker
 omguk.com #Optimise - Tracker
 omnitagjs.com #Adobe - Tracker
@@ -14322,6 +14314,8 @@ sensors.yodo1api.com #First Party - Tracker
 sentifi.com #Unknown - Tracker
 sentkey.com #New Relic - Tracker
 sentry-api.sberdevices.ru #Sentry - Tracker
+sentry-do.x5.ru #Sentry - Tracker
+sentry-dsn-customers.megamarket.tech #Sentry - Tracker
 sentry.archive.org #Sentry - Tracker
 sentry.ozon.ru #Sentry - Tracker
 sentry.platform24.tv #Sentry - Tracker
@@ -14361,7 +14355,6 @@ sidekickopen04.com #Hubspot - Tracker
 sidekickopen06.com #Hubspot - Tracker
 sidekickopen07.com #Hubspot - Tracker
 sidekickopen08.com #Hubspot - Tracker
-sidekickopen09.com #Hubspot - Tracker
 sidekickopen10.com #Hubspot - Tracker
 sidekickopen13.com #Hubspot - Tracker
 sidekickopen24.com #Hubspot - Tracker
@@ -15285,7 +15278,6 @@ statsig.com #Statsig - Tracker
 statsproxy-public-service-live.ol.epicgames.com #Epic Games - Tracker
 statsy.net #Unknown - Tracker
 statuscake.com #Traffic Cake - Tracker
-steakeffort.com #AdMeasures - Advertising
 steelhousemedia.com #Unknown - Tracker
 steepto.com #Unknown - Tracker
 stickerchapelsailing.com #AdMeasures - Advertising
@@ -15312,7 +15304,6 @@ stsdk.vivo.com.cn #Vivo - Tracker
 stsdk.vivoglobal.com #Vivo - Tracker
 stylitics.com #Stylitics - Tracker
 sub2tech.com #Unknown - Tracker
-successfulpatience.com #AdMeasures - Advertising
 successionflimsy.com #AdMeasures - Advertising
 sugarcrm.com #SugarCRM - Tracker
 suibyuming.com #Suibmob - Advertising
@@ -15830,7 +15821,6 @@ weborama.fr #Weborama - Tracker
 weborama.io #Weborama - Tracker
 webserviceaward.com #Web Service Award - Tracker
 webspectator.com #WebSpectator - Tracker
-webstat.channel4.com #Channel4 - Tracker
 webstats1.com #Unknown - Tracker
 webtradehub.com #Unknown - Advertising
 webtraffic.se #Schibsted - Tracker
