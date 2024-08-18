@@ -4,14 +4,14 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 10 Aug 2024
+# Updated: 16 Aug 2024
 # LatestVersion 24.01
-# Domain Count: 15926
+# Domain Count: 15927
 #===============================================================
 
 01mspmd5yalky8.com #AdMeasures - Advertising
 0i0i0i0.com #Unknown - Advertising
-0w1rqq69fi0e.com #AdMeasures - Advertising
+0sntp7dnrr.com #AdMeasures - Advertising
 0x01n2ptpuz3.com #AdMeasures - Advertising
 1010data.com #1010data - Tracker
 123count.com #SpidersWatchp - Tracker
@@ -569,6 +569,7 @@ analytics.mercadolibre.com.ve #MercadoLibre - Tracker
 analytics.mercadolivre.com.br #MercadoLibre - Tracker
 analytics.mercadopago.com #MercadoPago - Tracker
 analytics.midwesternmac.com #First Party - Tracker
+analytics.mightyape.co.nz #First Party - Tracker
 analytics.mlstatic.com #MercadoLibre - Tracker
 analytics.mobile.walmart.com #First Party - Tracker
 analytics.move.ru #First Party - Tracker
@@ -960,7 +961,6 @@ c.msn.com #Microsoft - Tracker
 c.riskified.com #Riskified - Tracker
 c0cd2idcl5.com #AdMeasures - Advertising
 c1exchange.com #C1 Exchange - Advertising
-c3metrics.com #C3 Metrics - Tracker
 c3tag.com #Unknown - Advertising
 cachegorilla.com #cachegorilla - Advertising
 cadreon.com #IPG Mediabrands - Advertising
@@ -1592,7 +1592,6 @@ formalityunjustclown.com #AdMeasures - Advertising
 formalyzer.com #Unknown - Tracker
 forter.com #Forter - Tracker
 forwardtomyfriend.com #Campaign Monitor Pty - Tracker
-fostereminent.com #AdMeasures - Advertising
 foundationhorny.com #AdMeasures - Advertising
 fourier.taobao.com #Taobao - Tracker
 foxpush.com #Foxpush - Advertising
@@ -1732,11 +1731,9 @@ gwmtracking.com #GlobalWide Media - Tracker
 h5v.eu #Highfivve - Advertising
 hagnutrient.com #AdMeasures - Advertising
 hailstonenerve.com #AdMeasures - Advertising
-halfmoonsights.com #AdMeasures - Advertising
 hand.bid #Handbid - Advertising
 handbid.com #Handbid - Advertising
 happyfoxchat.com #HappyFox Chat - Tracker
-harassinganticipation.com #AdMeasures - Advertising
 hc-analytics.idp.clogin.att.com #ATT - Tracker
 headerlift.com #Headerlift - Advertising
 heapanalytics.com #Heap Analytics - Tracker
@@ -1747,7 +1744,6 @@ hellobar.com #Crazy Egg - Tracker
 hellosmpl.com #smpl - Advertising
 helloworld.com #HelloWorld - Tracker
 hexagon-analytics.com #Hexagon - Tracker
-hf5rbejvpwds.com #AdMeasures - Advertising
 hibids10.com #AdMeasures - Advertising
 highconvertingformats.com #AdMeasures - Advertising
 highcpmcreativeformat.com #AdMeasures - Advertising
@@ -1776,7 +1772,6 @@ hitsteps.net #Hitsteps - Tracker
 hlog.hiido.com #First Party - Tracker
 hlserve.com #Hotline Communications - Tracker
 holdingwager.com #AdMeasures - Advertising
-holdsoutset.com #AdMeasures - Advertising
 hoodentangle.com #AdMeasures - Advertising
 horizontallypolluteembroider.com #AdMeasures - Advertising
 hotjar.com #Hotjar - Tracker
@@ -2119,6 +2114,7 @@ logrocket.io #LogRocket - Tracker
 logs.amap.com #First Party - Tracker
 logs.dashlane.com #First Party - Tracker
 logs.game.qq.com #QQ - Tracker
+logs.guardianapis.com #First Party - Tracker
 logs.psm.wmcdp.io #Warner Media - Advertising
 logs.roku.com #First Party - Tracker
 logs.unchecky.com #First Party - Tracker
@@ -4198,6 +4194,7 @@ mkt1178.com #IBM Silverpop - Advertising
 mkt11783.com #IBM Silverpop - Advertising
 mkt11789.com #IBM Silverpop - Advertising
 mkt1179.com #IBM Silverpop - Advertising
+mkt11796.com #IBM Silverpop - Advertising
 mkt11799.com #IBM Silverpop - Advertising
 mkt1180.com #IBM Silverpop - Advertising
 mkt11800.com #IBM Silverpop - Advertising
@@ -4391,6 +4388,7 @@ mkt11981.com #IBM Silverpop - Advertising
 mkt11982.com #IBM Silverpop - Advertising
 mkt11983.com #IBM Silverpop - Advertising
 mkt11984.com #IBM Silverpop - Advertising
+mkt11985.com #IBM Silverpop - Advertising
 mkt11986.com #IBM Silverpop - Advertising
 mkt11987.com #IBM Silverpop - Advertising
 mkt11988.com #IBM Silverpop - Advertising
@@ -4411,6 +4409,7 @@ mkt12007.com #IBM Silverpop - Advertising
 mkt12008.com #IBM Silverpop - Advertising
 mkt1201.com #IBM Silverpop - Advertising
 mkt12010.com #IBM Silverpop - Advertising
+mkt12011.com #IBM Silverpop - Advertising
 mkt12013.com #IBM Silverpop - Advertising
 mkt12014.com #IBM Silverpop - Advertising
 mkt12015.com #IBM Silverpop - Advertising
@@ -13596,7 +13595,6 @@ monkeysloveyou.com #Unknown - Advertising
 monkeytracker.cz #Monkey - Tracker
 monsido.com #Optimere - Tracker
 monumentsmaterialeasel.com #AdMeasures - Advertising
-moodokay.com #AdMeasures - Advertising
 mookie1.com #Unknown - Tracker
 mopub.com #MoPub - Tracker
 motdgd.com #MOTDgd - Tracker
@@ -13905,6 +13903,7 @@ piwikpro.com #Piwik PRO - Tracker
 pixanalytics.pixnet.net #First Party - Tracker
 pixel-static.spotify.com #Spotify - Tracker
 pixel.ad #Rubicon - Tracker
+pixel.archive.today #First Party - Tracker
 pixel.cfspx.digitalriver.com #First Party - Tracker
 pixel.cornercart.io #First Party - Tracker
 pixel.facebook.com #Facebook - Tracker
@@ -14412,6 +14411,7 @@ smadex.com #Smadex - Tracker
 smart.link #Kochava - Tracker
 smartad.10010.com #Unknown - Advertising
 smartadserver.com #Smart Ad Server - Advertising
+smartanalytics.io #SmartAnalytics - Tracker
 smartclip.net #Smartclip - Tracker
 smartlook.cloud #Smartlook - Tracker
 smartlook.com #Smartlook - Tracker
@@ -14519,7 +14519,6 @@ smetrics.bingle.com.au #Adobe - Tracker
 smetrics.biomedtracker.com #Adobe - Tracker
 smetrics.bjs.com #Adobe - Tracker
 smetrics.bkstr.com #Adobe - Tracker
-smetrics.bloombergtax.com #Adobe - Tracker
 smetrics.bmc.com #Adobe - Tracker
 smetrics.bmo.com #Adobe - Tracker
 smetrics.bmspaf.org #Adobe - Tracker
@@ -15231,8 +15230,10 @@ statcounter.com #StatCounter - Tracker
 static.clmbtech.com #Times Internet - Advertising
 static.cloudflareinsights.com #Cloudflare - Tracker
 statistic.live.126.net #First Party - Tracker
+statistics-bt.wildberries.ru #First Party - Tracker
 stats.addsearch.com #Addsearch - Tracker
 stats.adobe.com #Adobe CNAME - Tracker
+stats.avito.ru #First Party - Tracker
 stats.bbc.co.uk #BBC - Tracker
 stats.brave.com #First Party - Tracker
 stats.ctvnews.ca #First Party - Tracker
@@ -15532,6 +15533,7 @@ tracking.miui.com #Xiaomi - Tracker
 tracking.olx-st.com #First Party - Tracker
 tracking.onap.io #First Party - Tracker
 tracking.ott.yandex.net #Yandex - Tracker
+tracking.ott.yandex.ru #First Party - Tracker
 tracking.overwolf.com #First Party - Tracker
 tracking.prd.mz.internal.unity3d.com #unity3d.com - Tracker
 tracking.resortsandlodges.com #First Party - Tracker
@@ -15918,7 +15920,6 @@ youradexchange.com #Popups - Advertising
 youramigo.com #Unknown - Tracker
 yourwebbars.com #Unknown - Advertising
 yr9n47004g.com #AdMeasures - Advertising
-yuhuads.com #Unknown - Advertising
 zatnoh.com #Unknown - Advertising
 zbuckz.com #zBUCKz - Advertising
 zdbb.net #ZiffDavis - Advertising
