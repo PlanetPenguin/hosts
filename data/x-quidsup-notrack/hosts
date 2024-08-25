@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 16 Aug 2024
+# Updated: 24 Aug 2024
 # LatestVersion 24.01
-# Domain Count: 15927
+# Domain Count: 15921
 #===============================================================
 
 01mspmd5yalky8.com #AdMeasures - Advertising
@@ -1224,7 +1224,6 @@ cuckooretire.com #AdMeasures - Advertising
 cuebiq.com #Cubiq - Advertising
 curalate.com #BazaarVoice - Tracker
 curioushingefast.com #AdMeasures - Advertising
-curulate.com #Curulate - Advertising
 curvedheldideal.com #AdMeasures - Advertising
 cusperbid.com #Unknown - Tracker
 custobar.com #Custobar - Tracker
@@ -1911,7 +1910,6 @@ intersectionweigh.com #AdMeasures - Advertising
 interstitial-07.com #Unknown - Advertising
 intorterraon.com #Unknown - Advertising
 invitemedia.com #Unknown - Tracker
-invoc.us #Unknown - Tracker
 ioam.de #Unknown - Tracker
 iocnt.net #INFOnline - Tracker
 iot-eu-logser.realme.com #First Party - Tracker
@@ -4516,7 +4514,9 @@ mkt12124.com #IBM Silverpop - Advertising
 mkt12125.com #IBM Silverpop - Advertising
 mkt1213.com #IBM Silverpop - Advertising
 mkt12130.com #IBM Silverpop - Advertising
+mkt12136.com #IBM Silverpop - Advertising
 mkt1214.com #IBM Silverpop - Advertising
+mkt12140.com #IBM Silverpop - Advertising
 mkt1215.com #IBM Silverpop - Advertising
 mkt1216.com #IBM Silverpop - Advertising
 mkt1217.com #IBM Silverpop - Advertising
@@ -14202,7 +14202,6 @@ rkdms.com #Merkle - Tracker
 rlcdn.com #Unknown - Tracker
 rlog.popin.cc #First Party - Tracker
 rm0001.net #IBM Silverpop - Advertising
-rm0004.net #IBM Silverpop - Advertising
 rm0005.net #IBM Silverpop - Advertising
 rm02.net #IBM Silverpop - Advertising
 rm04.net #IBM Silverpop - Advertising
@@ -14231,7 +14230,6 @@ rudderstack.com #RudderStack - Tracker
 rum.kobo.com #First Party - Tracker
 rum.layer0.co #First Party - Tracker
 rum.ngenix.net #First Party - Tracker
-runadtag.com #Unknown - Advertising
 runative-syndicate.com #Runative - Advertising
 rundsp.com #Unknown - Tracker
 ruralstring.com #Unknown - Advertising
@@ -14331,7 +14329,6 @@ serving-sys.com #Microsoft - Tracker
 sessionamateur.com #AdMeasures - Advertising
 sessioncam.com #SessionCam - Tracker
 settings-sandbox.data.microsoft.com #Microsoft - Tracker
-sevokop.com #Unknown - Advertising
 shaggyselectmast.com #AdMeasures - Advertising
 shareaholic.com #Shareaholic - Tracker
 shareaholic.net #Shareaholic - Tracker
@@ -14573,7 +14570,6 @@ smetrics.cisco.com #Adobe - Tracker
 smetrics.citibank.com.au #Adobe - Tracker
 smetrics.citibank.com.hk #Adobe - Tracker
 smetrics.citibank.com.sg #Adobe - Tracker
-smetrics.citibank.com.vn #Adobe - Tracker
 smetrics.citibank.pl #Adobe - Tracker
 smetrics.citizensbank.com #Adobe - Tracker
 smetrics.cloudera.com #Adobe - Tracker
@@ -14588,7 +14584,6 @@ smetrics.consumerreports.org #Adobe - Tracker
 smetrics.converse.com #Adobe - Tracker
 smetrics.convivacarecenters.com #Adobe - Tracker
 smetrics.coolray.com #Adobe - Tracker
-smetrics.cooltoday.com #Adobe - Tracker
 smetrics.copart.com #Adobe - Tracker
 smetrics.correos.es #Adobe - Tracker
 smetrics.cortefiel.com #Adobe - Tracker
@@ -14641,7 +14636,6 @@ smetrics.eiu.com #Adobe - Tracker
 smetrics.eki-net.com #Adobe - Tracker
 smetrics.el-mundo.net #Adobe - Tracker
 smetrics.element14.com #Adobe - Tracker
-smetrics.elgallomasgallo.com.gt #Adobe - Tracker
 smetrics.eliquis.com #Adobe - Tracker
 smetrics.elpais.com #Adobe - Tracker
 smetrics.elsevier.com #Elsevier - Tracker
