@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 24 Aug 2024
+# Updated: 31 Aug 2024
 # LatestVersion 24.01
-# Domain Count: 15921
+# Domain Count: 15919
 #===============================================================
 
 01mspmd5yalky8.com #AdMeasures - Advertising
@@ -714,7 +714,6 @@ aptrinsic.com #Gainsight PX - Tracker
 apxlv.com #Unknown - Tracker
 aqua-adserver.com #Revive Adserver - Advertising
 arbourrenewal.com #AdMeasures - Advertising
-archyads.net #Unknown - Tracker
 arcpublishing.com #Arcpublishing - Advertising
 arcspire.io #Arcspire - Tracker
 arity.com #Arity - Tracker
@@ -1078,7 +1077,6 @@ clinch.co #Clinch - Tracker
 clixgalore.com #ClixGalore - Tracker
 clk.asia #Unknown - Advertising
 clkdeals.com #RevenueHits - Tracker
-clkfeed.com #RevenueHits - Tracker
 clkmon.com #RevenueHits - Tracker
 clksite.com #RevenueHits - Tracker
 clog.geniex.com #Geniex - Tracker
@@ -4517,6 +4515,9 @@ mkt12130.com #IBM Silverpop - Advertising
 mkt12136.com #IBM Silverpop - Advertising
 mkt1214.com #IBM Silverpop - Advertising
 mkt12140.com #IBM Silverpop - Advertising
+mkt12143.com #IBM Silverpop - Advertising
+mkt12145.com #IBM Silverpop - Advertising
+mkt12147.com #IBM Silverpop - Advertising
 mkt1215.com #IBM Silverpop - Advertising
 mkt1216.com #IBM Silverpop - Advertising
 mkt1217.com #IBM Silverpop - Advertising
@@ -14757,7 +14758,6 @@ smetrics.johnfrieda.com #Adobe - Tracker
 smetrics.jre-travel.com #Adobe - Tracker
 smetrics.kaercher.com #Adobe - Tracker
 smetrics.kaiserpermanente.org #Adobe - Tracker
-smetrics.kanen-net.info #Adobe - Tracker
 smetrics.kao.co.jp #Adobe - Tracker
 smetrics.kao.com #Adobe - Tracker
 smetrics.kawai-juku.ac.jp #Adobe - Tracker
@@ -14988,7 +14988,6 @@ smetrics.shinseibank.com #Adobe - Tracker
 smetrics.shopmyexchange.com #Adobe - Tracker
 smetrics.shoppersdrugmart.ca #Adobe - Tracker
 smetrics.shoppremiumoutlets.com #Adobe - Tracker
-smetrics.showtime.com #Adobe - Tracker
 smetrics.singlife.com #Adobe - Tracker
 smetrics.siriusxm.com #Adobe - Tracker
 smetrics.sivasdescalzo.com #Adobe - Tracker
@@ -15566,7 +15565,6 @@ trashyepochabsorbing.com #AdMeasures - Advertising
 travelaudience.com #Amadeus - Advertising
 trckrry.com #Trackerry - Tracker
 treasuredata.com #Treasure Data - Tracker
-treasureravenvulgar.com #AdMeasures - Advertising
 treehouse.wwoz.org #Revive Adserver - Advertising
 tremorhub.com #Tremor Video - Advertising
 tremorvideo.com #Tremor Video - Advertising
