@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 28 Sep 2024
+# Updated: 05 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15931
+# Domain Count: 15918
 #===============================================================
 
 01mspmd5yalky8.com #AdMeasures - Advertising
@@ -1278,7 +1278,6 @@ digital-metric.com #Digital Metrick - Tracker
 digitaldoughnut.com #Digital Doughnut - Advertising
 digitaldoughnut.email #Digital Doughnut - Advertising
 digitalproserver.com #Digitalproserver - Advertising
-digitalreflectionpanel.com #Digital Reflection - Tracker
 digitaltarget.ru #Digital Target - Advertising
 digitalturbine.com #Digital Turbine - Advertising
 digitalwindow.com #Digital Window - Tracker
@@ -1608,7 +1607,6 @@ gaug.es #Gauges - Tracker
 gdrytrk.com #Performance Tracking - Tracker
 gecko-sg.byteoversea.com #Tiktok - Tracker
 generalizebusinessman.com #AdMeasures - Advertising
-genericlink.com #Unknown - Tracker
 geniusonclick.com #Unknown - Advertising
 geo.query.yahoo.com #Yahoo - Tracker
 geoadnxs.com #AppNexus Inc - Tracker
@@ -2004,7 +2002,6 @@ lightningbarrelwretch.com #AdMeasures - Advertising
 lijit.com #Lijit - Tracker
 likedstring.com #AdMeasures - Advertising
 lilystyle.ai #Lily - Tracker
-limitationvolleyballdejected.com #AdMeasures - Advertising
 limurol.com #Unknown - Advertising
 linkbucks.com #Unknown - Advertising
 linkis.com #Linkis - Tracker
@@ -2107,7 +2104,6 @@ m6r.eu #MBR Targeting - Tracker
 madcpms.com #AdMeasures - Advertising
 madisonlogic.com #Unknown - Tracker
 magic1.info #Unknown Chinese - Tracker
-magistratehumorousjeep.com #AdMeasures - Advertising
 magnetmail.net #Real Magnet Media - Tracker
 magreprints.com #Unknown - Tracker
 magsrv.com #Unknown - Advertising
@@ -4558,6 +4554,7 @@ mkt12208.com #IBM Silverpop - Advertising
 mkt12209.com #IBM Silverpop - Advertising
 mkt1221.com #IBM Silverpop - Advertising
 mkt12210.com #IBM Silverpop - Advertising
+mkt12211.com #IBM Silverpop - Advertising
 mkt1222.com #IBM Silverpop - Advertising
 mkt1223.com #IBM Silverpop - Advertising
 mkt1224.com #IBM Silverpop - Advertising
@@ -13671,7 +13668,6 @@ mydatamanagerapp.com #data.ai - Tracker
 myfinance.com #MyFinance - Tracker
 mymarketingreports.com #NinjaCat - Tracker
 mynetreklam.com #mynet.com - Advertising
-myornamenti.com #AdMeasures - Advertising
 mypush.io #Unknown - Advertising
 myswitchads.com #Unknown - Advertising
 myvisualiq.net #My Visual IQ - Tracker
@@ -13754,7 +13750,6 @@ nyltx.com #Nyltx - Tracker
 nzme-ads.co.nz #Unknown - Advertising
 o333o.com #AdSpyglass - Advertising
 obnoxiousstackderide.com #AdMeasures - Advertising
-occurclaimed.com #AdMeasures - Advertising
 oclaserver.com #Unknown - Tracker
 oclasrv.com #Unknown - Advertising
 octotracker-clients.net #Octo Tracker - Tracker
@@ -13770,7 +13765,6 @@ omeda.com #Omeda - Tracker
 omessage.com #Unknown - Tracker
 ometria.com #Ometria - Tracker
 ometria.email #Ometria - Tracker
-omgpl.com #Optimise - Tracker
 omgt1.com #Optimise - Tracker
 omgt3.com #Optimise - Tracker
 omgt4.com #Optimise - Tracker
@@ -14075,7 +14069,6 @@ pubs2.latinspots.com #Revive Adserver - Advertising
 pubstack.io #Pubstack - Advertising
 pubtrack.co #Performance Tracking - Tracker
 pubwise.io #PubWise - Advertising
-puddingdefeated.com #AdMeasures - Advertising
 puhtml.com #AdMeasures - Advertising
 pulsemgr.com #Unknown - Tracker
 pupok.link #RollerAds - Advertising
@@ -14097,7 +14090,6 @@ pushnetwork.com #Digital Media Solutions - Advertising
 pushnow.net #RollerAds - Advertising
 pushpad.xyz #PushPad - Advertising
 pushprofit.net #PushProfit - Advertising
-pushprofit.ru #PushProfit - Advertising
 pushspring.com #TMobile - Advertising
 pushub.net #PusHub - Advertising
 pushwoosh.com #Pushwoosh - Advertising
@@ -14177,7 +14169,6 @@ reklama.silnet.pl #Revive Adserver - Advertising
 rekmob.com #Rekmob - Advertising
 relap.io #Relap - Advertising
 relateddigital.com #Related Digital - Tracker
-relationsquiver.com #AdMeasures - Advertising
 relay.bid #Kevel - Advertising
 relentlo.com #Relentlo - Advertising
 relevant-digital.com #Relevant Digital - Advertising
@@ -14278,7 +14269,6 @@ salecycle.com #SafeCycle - Tracker
 salesfire.co.uk #Salesfire - Tracker
 salesloft.com #SalesLoft - Tracker
 salesmanago.pl #SalesManago - Advertising
-salutationcheerlessdemote.com #AdMeasures - Advertising
 samsungadhub.com #Samsung - Advertising
 samsungads.com #Samsung - Advertising
 sanalytics.disneyplus.com #Adobe - Tracker
@@ -14296,7 +14286,6 @@ scarabresearch.com #Unknown - Tracker
 schibsted.io #Schibsted - Advertising
 schibsted.media #Schibsted - Advertising
 schibsted.se #Schibsted - Advertising
-schoolboyfingernail.com #AdMeasures - Advertising
 scoota.co #Unknown - Advertising
 scorecardresearch.com #Scorecard Research - Tracker
 scramblerun.com #AdMeasures - Advertising
@@ -14967,7 +14956,6 @@ smetrics.rejuvenation.com #Adobe - Tracker
 smetrics.rentprogress.com #Adobe - Tracker
 smetrics.repco.co.nz #Adobe - Tracker
 smetrics.repco.com.au #Adobe - Tracker
-smetrics.rinpashu.jp #Adobe - Tracker
 smetrics.riteaid.com #Adobe - Tracker
 smetrics.robeco.com #Adobe - Tracker
 smetrics.rockandpop.cl #Adobe - Tracker
@@ -15496,7 +15484,6 @@ track.saygames.io #First Party - Tracker
 track.searchiq.co #SearchIQ - Tracker
 track.sohu.com #First Party - Tracker
 track.sublytics-5cffe909e69e6.com #Sublytics - Tracker
-track.sublytics-5db9e5dd1b2c2.com #Sublytics - Tracker
 track.sublytics-5df8eec4bca66.com #Sublytics - Tracker
 track.sublytics-600afc6bd3e89.com #Sublytics - Tracker
 track.thesaurus.com #First Party - Tracker
