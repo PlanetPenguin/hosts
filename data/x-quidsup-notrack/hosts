@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 05 Oct 2024
+# Updated: 12 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15918
+# Domain Count: 15912
 #===============================================================
 
 01mspmd5yalky8.com #AdMeasures - Advertising
@@ -17,7 +17,6 @@
 123count.com #SpidersWatchp - Tracker
 152media.com #152Media - Advertising
 1push.io #RollerAds - Advertising
-1r8435gsqldr.com #AdMeasures - Advertising
 1rx.io #Unknown - Advertising
 1ts19.top #TrafficShop - Advertising
 2020mustang.com #Unknown - Advertising
@@ -408,7 +407,6 @@ adxpansion.com #Gammae - Advertising
 adxpose.com #ComScore - Advertising
 adxpremium.services #ADX Premium - Advertising
 adxserve.com #Ad Invent - Advertising
-adzerk.com #Adzerk - Advertising
 adzerk.net #Adzerk - Advertising
 adzip.co #Adbox Digital - Advertising
 aemetrics.aliexpress.ru #First Party - Tracker
@@ -429,7 +427,6 @@ afftrk.altex.ro #First Party - Tracker
 afsanalytics.com #Unknown - Tracker
 agafurretor.com #Unknown - Advertising
 agkn.com #Neustar - Tracker
-agriculturalproshereby.com #AdMeasures - Advertising
 ahalogy.com #Ahalogy - Tracker
 aiactiv.io #Unknown - Advertising
 aidata.io #Aidata - Tracker
@@ -946,7 +943,6 @@ c-ctrip.com #Unknown - Tracker
 c.hit.ua #First Party - Advertising
 c.msn.com #Microsoft - Tracker
 c.riskified.com #Riskified - Tracker
-c0cd2idcl5.com #AdMeasures - Advertising
 c3tag.com #Unknown - Advertising
 cachegorilla.com #cachegorilla - Advertising
 cadreon.com #IPG Mediabrands - Advertising
@@ -1292,7 +1288,6 @@ display.io #DisplayIO - Advertising
 displaycontentnetwork.com #AdMeasures - Advertising
 displaycontentprofit.com #AdMeasures - Advertising
 displaymarketplace.com #Unknown - Tracker
-displaynetworkcontent.com #AdMeasures - Advertising
 displayvertising.com #Unknown - Advertising
 disqusads.com #Disqus - Tracker
 disrespectpreceding.com #AdMeasures - Advertising
@@ -1309,7 +1304,6 @@ dmvbdfblevxvx.com #Unknown - Tracker
 dmxleo.com #DailyMotion - Advertising
 dmxleo.dailymotion.com #Dailymotion - Tracker
 doceree.com #Doceree - Advertising
-dollsdeclare.com #AdMeasures - Advertising
 domdex.com #Domdex - Tracker
 doomdefender.com #AdMeasures - Advertising
 dotandad.com #Dot - Tracker
@@ -1502,7 +1496,6 @@ f-log-test.grammarly.io #Grammarly - Tracker
 f-log-win-extension.grammarly.io #Grammarly - Tracker
 f-log.grammarly.io #Grammarly - Tracker
 facesnotebook.com #AdMeasures - Advertising
-facilitategovernor.com #AdMeasures - Advertising
 failover-telemetry-eu.tradingview.com #First Party - Tracker
 faintestlogic.com #AdMeasures - Advertising
 falsifylilac.com #AdMeasures - Advertising
@@ -1546,7 +1539,6 @@ flx1.com #Teradata - Tracker
 flxpxl.com #Teradata - Tracker
 fmpub.net #Federated Media - Advertising
 fmv9kweoe06r.com #AdMeasures - Advertising
-followmalnutritionjeanne.com #AdMeasures - Advertising
 fomo.com #Fomo - Advertising
 footprintpredict.com #Microsoft - Tracker
 forcefulpacehauled.com #AdMeasures - Advertising
@@ -1586,7 +1578,6 @@ ftjcfx.com #Conversant - Tracker
 fullstory.com #Unknown - Tracker
 functional.events.data.microsoft.com #Microsoft - Tracker
 funnelytics.io #Unknown - Tracker
-furiousfar.com #AdMeasures - Advertising
 futureocto.com #Unknown - Advertising
 fwmrm.net #FreeWheel - Advertising
 fwpixel.com #Unknown - Advertising
@@ -4555,6 +4546,11 @@ mkt12209.com #IBM Silverpop - Advertising
 mkt1221.com #IBM Silverpop - Advertising
 mkt12210.com #IBM Silverpop - Advertising
 mkt12211.com #IBM Silverpop - Advertising
+mkt12212.com #IBM Silverpop - Advertising
+mkt12213.com #IBM Silverpop - Advertising
+mkt12214.com #IBM Silverpop - Advertising
+mkt12215.com #IBM Silverpop - Advertising
+mkt12216.com #IBM Silverpop - Advertising
 mkt1222.com #IBM Silverpop - Advertising
 mkt1223.com #IBM Silverpop - Advertising
 mkt1224.com #IBM Silverpop - Advertising
@@ -15284,7 +15280,6 @@ steepto.com #Unknown - Tracker
 stickerchapelsailing.com #AdMeasures - Advertising
 stickervillain.com #AdMeasures - Advertising
 stickyadstv.com #StickyAdsTV - Advertising
-stickywhereaboutsspoons.com #AdMeasures - Advertising
 stimulateartificial.com #AdMeasures - Advertising
 stocks-analytics-events.apple.com #Apple - Tracker
 storeen.ldmnq.com #First Party - Advertising
@@ -15579,7 +15574,6 @@ trk.justanswer.com #First Party - Tracker
 trk.lcn.com #First Party - Tracker
 trk.pinterest.com #Pinterest - Tracker
 trk2.pinterest.com #Pinterest - Tracker
-trkme.net #Unknown - Tracker
 trkn.us #Claritas - Tracker
 trknex.com #Unknown - Tracker
 trkr.duckdns.org #First Party - Tracker
