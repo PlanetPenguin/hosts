@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 12 Oct 2024
+# Updated: 18 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15912
+# Domain Count: 15923
 #===============================================================
 
 01mspmd5yalky8.com #AdMeasures - Advertising
@@ -1947,6 +1947,7 @@ krxd.net #Krux - Tracker
 ksehinkitw.hair #Unknown - Advertising
 ksmobile.com #Unknown - Tracker
 ku2d3a7pa8mdi.com #Unknown - Advertising
+kueezrtb.com #Kueez - Tracker
 kz-onrt-stsdk.vivoglobal.com #Vivo - Tracker
 kzt2afc1rp52.com #CloudDnsTech - Advertising
 l9bjkkhaycw6f8f4.soundcloud.com #First Party - Tracker
@@ -2177,6 +2178,7 @@ metaxads.com #Unknown - Advertising
 meteora.us #Unknown - Tracker
 metric.ipv6test.com #Unknown - Tracker
 metric.ipv6test.net #Unknown - Tracker
+metricellcollect.tele2.ru #First Party - Tracker
 metricool.com #Metricool - Tracker
 metrics.aetn.com #Adobe - Tracker
 metrics.articulate.com #First Party - Tracker
@@ -2239,6 +2241,7 @@ mkt030.com #IBM Silverpop - Advertising
 mkt038.com #IBM Silverpop - Advertising
 mkt042.com #IBM Silverpop - Advertising
 mkt044.com #IBM Silverpop - Advertising
+mkt05.com #IBM Silverpop - Advertising
 mkt059.com #IBM Silverpop - Advertising
 mkt062.com #IBM Silverpop - Advertising
 mkt063.com #IBM Silverpop - Advertising
@@ -2255,6 +2258,7 @@ mkt096.com #IBM Silverpop - Advertising
 mkt096329.com #IBM Silverpop - Advertising
 mkt097.com #IBM Silverpop - Advertising
 mkt098.com #IBM Silverpop - Advertising
+mkt099.com #IBM Silverpop - Advertising
 mkt1000.com #IBM Silverpop - Advertising
 mkt10000.com #IBM Silverpop - Advertising
 mkt10001.com #IBM Silverpop - Advertising
@@ -4551,7 +4555,12 @@ mkt12213.com #IBM Silverpop - Advertising
 mkt12214.com #IBM Silverpop - Advertising
 mkt12215.com #IBM Silverpop - Advertising
 mkt12216.com #IBM Silverpop - Advertising
+mkt12217.com #IBM Silverpop - Advertising
+mkt12218.com #IBM Silverpop - Advertising
+mkt12219.com #IBM Silverpop - Advertising
 mkt1222.com #IBM Silverpop - Advertising
+mkt12220.com #IBM Silverpop - Advertising
+mkt12221.com #IBM Silverpop - Advertising
 mkt1223.com #IBM Silverpop - Advertising
 mkt1224.com #IBM Silverpop - Advertising
 mkt1225.com #IBM Silverpop - Advertising
@@ -13696,7 +13705,6 @@ network-n.com #Network N - Advertising
 networkad.net #NetworkAd - Advertising
 networkadvertising.org #Network Advertising - Advertising
 new-sentry.gitlab.net #Sentry - Tracker
-newdisplayformats.com #CloudDnsTech - Advertising
 newrelic.com #New Relic - Tracker
 newrrb.bid #Unknown - Advertising
 news.iadsdk.apple.com #Apple - Advertising
@@ -13916,14 +13924,19 @@ pingback.giphy.com #Giphy - Tracker
 pingdom.net #Unknown - Tracker
 pinpoll.com #Pinpoll - Tracker
 pippio.com #Arbor - Tracker
-pitchedfurs.com #AdMeasures - Advertising
 piwik.com-online.com #PIWIK - Tracker
 piwik.pro #Piwik PRO - Tracker
 piwikpro.com #Piwik PRO - Tracker
 pixanalytics.pixnet.net #First Party - Tracker
 pixel-static.spotify.com #Spotify - Tracker
 pixel.ad #Rubicon - Tracker
+pixel.archive.fo #First Party - Tracker
+pixel.archive.is #First Party - Tracker
+pixel.archive.li #First Party - Tracker
+pixel.archive.md #First Party - Tracker
+pixel.archive.ph #First Party - Tracker
 pixel.archive.today #First Party - Tracker
+pixel.archive.vn #First Party - Tracker
 pixel.cfspx.digitalriver.com #First Party - Tracker
 pixel.cornercart.io #First Party - Tracker
 pixel.facebook.com #Facebook - Tracker
@@ -15216,7 +15229,6 @@ stat.domainrecover.com #First Party - Tracker
 stat.media #Stat - Tracker
 stat.mixi.media #First Party - Tracker
 stat.okko.tv #First Party - Tracker
-stat.techtimes.com #First Party - Tracker
 stat.tiara.daum.net #First Party - Tracker
 stat.tiara.melon.com #First Party - Tracker
 stat.tildacdn.com #First Party - Tracker
@@ -15259,7 +15271,6 @@ stats.ryzeo.com #Ryzeo - Tracker
 stats.sa-as.com #Unknown - Tracker
 stats.safeway.com #First Party - Tracker
 stats.schoolholidays.com.au #First Party - Tracker
-stats.videodelivery.net #Cloudflare - Tracker
 stats.videoseyred.in #First Party - Tracker
 stats.vk-portal.net #VK - Tracker
 stats.wikimedia.org #First Party - Tracker
@@ -15526,6 +15537,7 @@ tracking.ott.yandex.ru #First Party - Tracker
 tracking.overwolf.com #First Party - Tracker
 tracking.prd.mz.internal.unity3d.com #unity3d.com - Tracker
 tracking.resortsandlodges.com #First Party - Tracker
+tracking.retailrocket.ru #RetailRocket - Tracker
 tracking.rus.miui.com #Miui - Tracker
 tracking.sezzle.com #First Party - Tracker
 tracking.shopstyle.co.uk #First Party - Tracker
@@ -15610,7 +15622,6 @@ twinrdsyn.com #Unknown - Advertising
 twinrdsyte.com #Unknown - Advertising
 twisto.cz #Unknown - Tracker
 tynt.com #33Across - Tracker
-typescoordinate.com #AdMeasures - Advertising
 tyroo.com #Unknown - Tracker
 tyroodr.com #Unknown - Tracker
 uadx.com #Unknown - Advertising
