@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 15 Nov 2024
+# Updated: 22 Nov 2024
 # LatestVersion 24.01
-# Domain Count: 15919
+# Domain Count: 15918
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -201,7 +201,6 @@ admedo.com #Admedo - Advertising
 admeld.com #Google - Advertising
 admetricspro.com #AdMetricsPro - Advertising
 admicro.vn #Admicro - Advertising
-admiredexcrete.com #AdMeasures - Advertising
 admixer.co.kr #Admixer - Advertising
 admixer.com #Admixer - Advertising
 admixer.net #Admixer - Advertising
@@ -4578,7 +4577,9 @@ mkt12244.com #IBM Silverpop - Advertising
 mkt12245.com #IBM Silverpop - Advertising
 mkt12246.com #IBM Silverpop - Advertising
 mkt12247.com #IBM Silverpop - Advertising
+mkt12248.com #IBM Silverpop - Advertising
 mkt1225.com #IBM Silverpop - Advertising
+mkt12252.com #IBM Silverpop - Advertising
 mkt1226.com #IBM Silverpop - Advertising
 mkt1227.com #IBM Silverpop - Advertising
 mkt1228.com #IBM Silverpop - Advertising
@@ -13648,7 +13649,6 @@ monsido.com #Optimere - Tracker
 monumentsmaterialeasel.com #AdMeasures - Advertising
 mookie1.com #Unknown - Tracker
 mopub.com #MoPub - Tracker
-motdgd.com #MOTDgd - Tracker
 mountain.com #Mountain - Tracker
 mouseflow.com #Mouseflow - Tracker
 movcpm.com #AdMeasures - Advertising
@@ -15293,7 +15293,6 @@ stocks-analytics-events.apple.com #Apple - Tracker
 storeen.ldmnq.com #First Party - Advertising
 stores-counters.wix.com #Wix - Tracker
 stormiq.com #Unknown - Tracker
-stormperpetual.com #AdMeasures - Advertising
 storygize.net #Storygize - Tracker
 storyly.io #Storyly - Tracker
 strack.collegeboard.org #Adobe - Tracker
