@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 30 Nov 2024
+# Updated: 06 Dec 2024
 # LatestVersion 24.01
-# Domain Count: 15916
+# Domain Count: 15931
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -1321,7 +1321,6 @@ dttrk.com #Dovetale - Tracker
 duba.com #Unknown - Tracker
 duba.net #Unknown - Tracker
 dugapiece.com #AdMeasures - Advertising
-dumedia.ru #Dumedia - Tracker
 dwin1.com #Digital Window - Tracker
 dwin2.com #Digital Window - Tracker
 dynad.net #dynad - Advertising
@@ -4574,6 +4573,8 @@ mkt1225.com #IBM Silverpop - Advertising
 mkt12250.com #IBM Silverpop - Advertising
 mkt12251.com #IBM Silverpop - Advertising
 mkt12252.com #IBM Silverpop - Advertising
+mkt12253.com #IBM Silverpop - Advertising
+mkt12254.com #IBM Silverpop - Advertising
 mkt12255.com #IBM Silverpop - Advertising
 mkt12256.com #IBM Silverpop - Advertising
 mkt12257.com #IBM Silverpop - Advertising
@@ -4583,8 +4584,24 @@ mkt1226.com #IBM Silverpop - Advertising
 mkt12260.com #IBM Silverpop - Advertising
 mkt12261.com #IBM Silverpop - Advertising
 mkt12262.com #IBM Silverpop - Advertising
+mkt12263.com #IBM Silverpop - Advertising
+mkt12264.com #IBM Silverpop - Advertising
+mkt12265.com #IBM Silverpop - Advertising
+mkt12266.com #IBM Silverpop - Advertising
+mkt12267.com #IBM Silverpop - Advertising
+mkt12268.com #IBM Silverpop - Advertising
+mkt12269.com #IBM Silverpop - Advertising
 mkt1227.com #IBM Silverpop - Advertising
+mkt12270.com #IBM Silverpop - Advertising
+mkt12271.com #IBM Silverpop - Advertising
+mkt12273.com #IBM Silverpop - Advertising
+mkt12274.com #IBM Silverpop - Advertising
+mkt12275.com #IBM Silverpop - Advertising
+mkt12276.com #IBM Silverpop - Advertising
+mkt12277.com #IBM Silverpop - Advertising
+mkt12278.com #IBM Silverpop - Advertising
 mkt1228.com #IBM Silverpop - Advertising
+mkt12283.com #IBM Silverpop - Advertising
 mkt1229.com #IBM Silverpop - Advertising
 mkt1230.com #IBM Silverpop - Advertising
 mkt1231.com #IBM Silverpop - Advertising
@@ -14235,6 +14252,7 @@ rm0001.net #IBM Silverpop - Advertising
 rm0005.net #IBM Silverpop - Advertising
 rm02.net #IBM Silverpop - Advertising
 rm04.net #IBM Silverpop - Advertising
+rmhfrtnd.com #Unknown - Advertising
 ro-up.vivoglobal.com #Vivo - Tracker
 rockabox.co #Scoota - Tracker
 roia.biz #Unknown - Tracker
@@ -14287,7 +14305,6 @@ samsungads.com #Samsung - Advertising
 sanalytics.disneyplus.com #Adobe - Tracker
 sanalytics.verizon.com #Verizon - Tracker
 sanalytics.verizonwireless.com #Verizon - Tracker
-sas15k01.com #Lead Forensics - Tracker
 sascdn.com #Smart Ad Server - Advertising
 saymedia.com #Unknown - Tracker
 sayu.co.uk #Sayu - Advertising
@@ -14315,7 +14332,6 @@ searchlinks.com #PartnetLinks - Tracker
 searchmarketing.com #Unknown - Tracker
 seat.it #Seat PG - Tracker
 secureanalytic.com #Push Ads - Tracker
-securecd-smnd.com #Unknown - Advertising
 securedvisit.com #4cite - Tracker
 securemetrics.apple.com #Adobe - Tracker
 securepaths.com #Forensiq - Tracker
@@ -14607,7 +14623,6 @@ smetrics.comparethemarket.com #Adobe - Tracker
 smetrics.consumerreports.org #Adobe - Tracker
 smetrics.converse.com #Adobe - Tracker
 smetrics.convivacarecenters.com #Adobe - Tracker
-smetrics.coolray.com #Adobe - Tracker
 smetrics.copart.com #Adobe - Tracker
 smetrics.correos.es #Adobe - Tracker
 smetrics.cortefiel.com #Adobe - Tracker
