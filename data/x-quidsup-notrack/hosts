@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 13 Dec 2024
+# Updated: 21 Dec 2024
 # LatestVersion 24.01
-# Domain Count: 15930
+# Domain Count: 15895
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -906,7 +906,6 @@ brunettemattersrefused.com #AdMeasures - Advertising
 bstats.org #bStats - Tracker
 btloader.com #Unknown - Tracker
 btrll.com #BrightRoll - Advertising
-btserve.com #Blockthrough - Advertising
 btstatic.com #Btstatic - Tracker
 bttrack.com #Bidtellect - Tracker
 btttag.com #Blue Triangle Tech - Tracker
@@ -1046,7 +1045,6 @@ clksite.com #RevenueHits - Tracker
 clog.geniex.com #Geniex - Tracker
 clog.weverse.io #First Party - Tracker
 closealert.com #CloseAlert - Tracker
-clouddecrease.com #AdMeasures - Advertising
 clouderrorreporting.googleapis.com #Google - Tracker
 cloudservice14.kingsoft-office-service.com #First Party - Tracker
 cluep.com #Cluep - Tracker
@@ -1216,14 +1214,12 @@ dc.services.visualstudio.com #Microsoft - Tracker
 de.coremetrics.com #Coremetrics - Tracker
 de17a.com #Delta Projects - Tracker
 dealer.com # - Tracker
-dealtale.com #Dealtale - Tracker
 decenthat.com #SourcePoint - Tracker
 decibelinsight.com #Decibel Insight - Tracker
 decibelinsight.net #Decibel Insight - Tracker
 dedicated.domains #ClickMeter - Tracker
 deema.agency #Deema - Advertising
 deepintent.com #DeepIntent - Advertising
-deeprootedstranded.com #AdMeasures - Advertising
 deliverimp.com #Unknown - Tracker
 demand.supply #Sulvo - Advertising
 demandbase.com #Demandbase - Advertising
@@ -1265,7 +1261,6 @@ dismantlepenantiterrorist.com #AdMeasures - Advertising
 display.io #DisplayIO - Advertising
 displaycontentnetwork.com #AdMeasures - Advertising
 displaycontentprofit.com #AdMeasures - Advertising
-displaymarketplace.com #Unknown - Tracker
 displayvertising.com #Unknown - Advertising
 disqusads.com #Disqus - Tracker
 disrespectpreceding.com #AdMeasures - Advertising
@@ -1626,7 +1621,6 @@ grafana.org #Grafana - Tracker
 granify.com #Granify - Advertising
 grantedpigsunborn.com #AdMeasures - Advertising
 grapeshot.co.uk #Oracle - Advertising
-grapeshot.com #Oracle - Advertising
 graph.accountkit.com #Facebook - Tracker
 graphiq.com #Graphiq - Advertising
 gravity.com #Gravity - Tracker
@@ -1664,7 +1658,6 @@ hc-analytics.idp.clogin.att.com #ATT - Tracker
 headerlift.com #Headerlift - Advertising
 heapanalytics.com #Heap Analytics - Tracker
 heartbeat.dm.origin.com #EA - Tracker
-heartbeat.flickr.com #Flickr - Tracker
 heatmap.it #Heatmap - Tracker
 hellobar.com #Crazy Egg - Tracker
 hellosmpl.com #smpl - Advertising
@@ -1691,7 +1684,6 @@ hiprofitnetworks.com #AdMeasures - Advertising
 hisavana.com #Hisavana - Advertising
 histats.com #Histats - Tracker
 hit.gemius.pl #Gemius - Tracker
-hit.skrz.cz #First Party - Tracker
 hitbox.com #Adobe - Tracker
 hitslink.com #HitsLink - Tracker
 hitsteps.net #Hitsteps - Tracker
@@ -2038,7 +2030,6 @@ logs.roku.com #First Party - Tracker
 logs.unchecky.com #First Party - Tracker
 logservice-dra.platform.hicloud.com #First Party - Tracker
 logservice-dre.platform.hicloud.com #Huawei - Tracker
-logservice-drru.dt.hicloud.com #First Party - Tracker
 logsss.com #Unknown - Tracker
 longabeach.com #Unknown Chinese - Tracker
 loopaautomate.com #Loopa Automate - Advertising
@@ -4596,6 +4587,7 @@ mkt12282.com #IBM Silverpop - Advertising
 mkt12283.com #IBM Silverpop - Advertising
 mkt12284.com #IBM Silverpop - Advertising
 mkt12285.com #IBM Silverpop - Advertising
+mkt12286.com #IBM Silverpop - Advertising
 mkt12287.com #IBM Silverpop - Advertising
 mkt12288.com #IBM Silverpop - Advertising
 mkt12289.com #IBM Silverpop - Advertising
@@ -13694,7 +13686,6 @@ mxcdn.net #Unknown - Tracker
 mxlogic.com #Unknown - Tracker
 mxpnl.com #Mixpanel - Advertising
 mxptint.net #Unknown - Tracker
-my-tracking.info #Unknown - Tracker
 my.w.tt #Branch CNAME - Tracker
 myadmessenger.com #Zapp360 - Advertising
 myads.com #Rubicon - Advertising
@@ -13784,7 +13775,6 @@ nw-rail-03.com #Lead Forensics - Tracker
 nyltx.com #Nyltx - Tracker
 nzme-ads.co.nz #Unknown - Advertising
 o333o.com #AdSpyglass - Advertising
-obnoxiousstackderide.com #AdMeasures - Advertising
 oclaserver.com #Unknown - Tracker
 oclasrv.com #Unknown - Advertising
 octotracker-clients.net #Octo Tracker - Tracker
@@ -13975,10 +13965,8 @@ pixel.nine.com.au #First Party - Tracker
 pixel.nur.kz #First Party - Tracker
 pixel.nymag.com #First Party - Tracker
 pixel.patch.com #First Party - Tracker
-pixel.redditmedia.com #Reddit - Tracker
 pixel.smr8.ru #First Party - Tracker
 pixel.spotify.com #Spotify - Tracker
-pixel.staticworld.net #First Party - Tracker
 pixel.watch #ClickMeter - Tracker
 pixel.web.roku.com #First Party - Tracker
 pixel.wenxuecity.com #First Party - Tracker
@@ -14038,10 +14026,8 @@ prebid.org #Prebid - Tracker
 premiumads.com.br #Premium - Advertising
 presage.io #Ogury MJM - Tracker
 prf.hn #Partnerize - Tracker
-prhzxq.com #Unknown - Advertising
 pricespider.com #Price Spider - Tracker
 primis.tech #Primis - Advertising
-privacity.se #Unknown - Advertising
 privacy.aol.com #AOL - Advertising
 privacymanager.io #LiveRamp - Tracker
 privacytrck.com #Unknown - Tracker
@@ -14052,7 +14038,6 @@ prmutv.co #Permutive - Tracker
 prnx.net #Unknown - Tracker
 pro-market.net #Unknown - Tracker
 prod-telemetry.paradox-interactive.com #First Party - Tracker
-prod.telemetry.ros.rockstargames.com #Rockstar Games - Tracker
 productserve.com #Digital Window - Tracker
 profitablecpmgate.com #AdMeasures - Advertising
 profitablecpmnetwork.com #AdMeasures - Advertising
@@ -14275,7 +14260,6 @@ ru4.com #Unknown - Tracker
 rubiconproject.com #Rubicon - Tracker
 rudderlabs.com #RudderStack - Tracker
 rudderstack.com #RudderStack - Tracker
-rum.kobo.com #First Party - Tracker
 rum.layer0.co #First Party - Tracker
 rum.ngenix.net #First Party - Tracker
 runative-syndicate.com #Runative - Advertising
@@ -14359,7 +14343,6 @@ sentry.archive.org #Sentry - Tracker
 sentry.ozon.ru #Sentry - Tracker
 sentry.platform24.tv #Sentry - Tracker
 sentry.prusa3d.com #Sentry - Tracker
-sentry.rustore.ru #Sentry - Tracker
 sentry.srv.habr.com #Sentry - Tracker
 seoab.io #SEMRush - Tracker
 servebom.com #Unknown - Tracker
@@ -14411,7 +14394,6 @@ sidekickopen90.com #Hubspot - Tracker
 siftscience.com #SiftScience - Tracker
 sigma-statistics-push.proxima.nie.easebar.com #First Party - Tracker
 signcalamity.com #AdMeasures - Advertising
-significantoperativeclearance.com #AdMeasures - Advertising
 siliconanalytics.com #Silicon Analytics - Tracker
 silktide.com #Silk Tide - Tracker
 sillinessinterfere.com #AdMeasures - Advertising
@@ -14666,7 +14648,6 @@ smetrics.dreamlabdata.com #Adobe - Tracker
 smetrics.drschollsshoes.com #Adobe - Tracker
 smetrics.eastwestbank.com #Adobe - Tracker
 smetrics.edc.ca #Adobe - Tracker
-smetrics.eddiebauer.com #Adobe - Tracker
 smetrics.edge.ca #Adobe - Tracker
 smetrics.ee.co.uk #Adobe - Tracker
 smetrics.ehealthinsurance.com #Adobe - Tracker
@@ -14699,7 +14680,6 @@ smetrics.ey.com #Adobe - Tracker
 smetrics.famousfootwear.ca #Adobe - Tracker
 smetrics.famousfootwear.com #Adobe - Tracker
 smetrics.farnell.com #Adobe - Tracker
-smetrics.fatface.com #Adobe - Tracker
 smetrics.faz.net #Adobe - Tracker
 smetrics.fcacert.com #Adobe - Tracker
 smetrics.fcbarcelona.cat #Adobe - Tracker
@@ -14771,12 +14751,10 @@ smetrics.hypedc.com #Adobe - Tracker
 smetrics.hyundaiusa.com #Adobe - Tracker
 smetrics.i-law.com #Adobe - Tracker
 smetrics.ibfd.org #Adobe - Tracker
-smetrics.ice.gov #Adobe - Tracker
 smetrics.ifc.org #Adobe - Tracker
 smetrics.ig.ca #Adobe - Tracker
 smetrics.illinois.gov #Adobe - Tracker
 smetrics.illumina.com #Adobe - Tracker
-smetrics.ilsole24ore.com #Adobe - Tracker
 smetrics.insight.com #Adobe - Tracker
 smetrics.intact.ca #Adobe - Tracker
 smetrics.interbank.pe #Adobe - Tracker
@@ -14869,7 +14847,6 @@ smetrics.moneymarketing.co.uk #Adobe - Tracker
 smetrics.monsanto.com #Adobe - Tracker
 smetrics.moodys.com #Adobe - Tracker
 smetrics.morganstanley.com #Adobe - Tracker
-smetrics.motortrend.com #Adobe - Tracker
 smetrics.moving.com #Adobe - Tracker
 smetrics.mphasis.com #Adobe - Tracker
 smetrics.msg.com #Adobe - Tracker
@@ -14877,7 +14854,6 @@ smetrics.mtu-solutions.com #Adobe - Tracker
 smetrics.murata.com #Adobe - Tracker
 smetrics.mutua.es #Adobe - Tracker
 smetrics.myspringfield.com #Adobe - Tracker
-smetrics.myvi.in #Adobe - Tracker
 smetrics.nab.com.au #Adobe - Tracker
 smetrics.nabbroker.com.au #Adobe - Tracker
 smetrics.nabtrade.com.au #Adobe - Tracker
@@ -14891,7 +14867,6 @@ smetrics.nationwide.co.uk #Adobe - Tracker
 smetrics.naturalizer.com #Adobe - Tracker
 smetrics.nba.com #Adobe - Tracker
 smetrics.nesn.com #Adobe - Tracker
-smetrics.netspend.com #Adobe - Tracker
 smetrics.newark.com #Adobe - Tracker
 smetrics.newbalance.com #Adobe - Tracker
 smetrics.newport.com #Adobe - Tracker
@@ -14904,8 +14879,6 @@ smetrics.northernterritory.com #Adobe - Tracker
 smetrics.nowtv.com #Adobe - Tracker
 smetrics.nowtv.it #Adobe - Tracker
 smetrics.nvidia.com #Adobe - Tracker
-smetrics.nykaafashion.com #Adobe - Tracker
-smetrics.nyulangone.org #Adobe - Tracker
 smetrics.o2online.de #Adobe - Tracker
 smetrics.oakley.com #Adobe - Tracker
 smetrics.officeworks.com.au #Adobe - Tracker
@@ -15097,7 +15070,6 @@ smetrics.tractorsupply.com #Adobe - Tracker
 smetrics.traderonline.com #Adobe - Tracker
 smetrics.travelchannel.com #Adobe - Tracker
 smetrics.travelmoneyonline.co.uk #Adobe - Tracker
-smetrics.travelzoo.com #Adobe - Tracker
 smetrics.trilliumhealthplan.com #Adobe - Tracker
 smetrics.tryg.dk #Adobe - Tracker
 smetrics.trygghansa.se #Adobe - Tracker
@@ -15194,7 +15166,6 @@ sortable.com #Unknown - Tracker
 sovrn.com #Unknown - Tracker
 spaceio.xyz #SpaceIO - Tracker
 sparkflow.net #Undertone - Tracker
-spatterjointposition.com #AdMeasures - Advertising
 specificclick.net #Unknown - Tracker
 speedcurve.com #SpeedCurve - Tracker
 speedshiftmedia.com #Unknown - Tracker
@@ -15294,12 +15265,9 @@ statsfe2.ws.microsoft.com #Microsoft - Tracker
 statsforads.com #Unknown - Advertising
 statsig.com #Statsig - Tracker
 statsproxy-public-service-live.ol.epicgames.com #Epic Games - Tracker
-statsy.net #Unknown - Tracker
 statuscake.com #Traffic Cake - Tracker
 steelhousemedia.com #Unknown - Tracker
 steepto.com #Unknown - Tracker
-stickerchapelsailing.com #AdMeasures - Advertising
-stickervillain.com #AdMeasures - Advertising
 stickyadstv.com #StickyAdsTV - Advertising
 stocks-analytics-events.apple.com #Apple - Tracker
 storeen.ldmnq.com #First Party - Advertising
@@ -15491,7 +15459,6 @@ track.libii.cn #First Party - Tracker
 track.magictavern.com #First Party - Tracker
 track.news.bg #First Party - Tracker
 track.oasis.magictavern.com #First Party - Tracker
-track.pcgh.io #First Party - Tracker
 track.pmosvc.io #First Party - Tracker
 track.saygames.io #First Party - Tracker
 track.searchiq.co #SearchIQ - Tracker
@@ -15538,7 +15505,6 @@ tracking.markethero.io #First Party - Tracker
 tracking.minitool.com #MiniTool - Tracker
 tracking.miui.com #Xiaomi - Tracker
 tracking.olx-st.com #First Party - Tracker
-tracking.onap.io #First Party - Tracker
 tracking.ott.yandex.net #Yandex - Tracker
 tracking.ott.yandex.ru #First Party - Tracker
 tracking.overwolf.com #First Party - Tracker
@@ -15707,6 +15673,7 @@ varietyofdisplayformats.com #AdMeasures - Advertising
 variouscreativeformats.com #AdMeasures - Advertising
 variousformatscontent.com #AdMeasures - Advertising
 vcardsdkservice.vivo.com.cn #Vivo - Tracker
+vcmdiawe.com #Unknown - Advertising
 vcmedia.vn #Unknown - Tracker
 vcommission.com #vCommission - Tracker
 vdna-assets.com #Imagini Holdings - Tracker
@@ -15849,7 +15816,6 @@ who.nie.easebar.com #First Party - Tracker
 whoisvisiting.com #Unknown - Tracker
 wickedhumankindbarrel.com #AdMeasures - Advertising
 widespace.com #Widespace Mobile - Advertising
-widezealconstant.com #AdMeasures - Advertising
 windingnegotiation.com #AdMeasures - Advertising
 wingify.com #Wingify - Tracker
 wisepops.com #WisePops - Tracker
@@ -15877,7 +15843,6 @@ wup.browser.qq.com #QQ - Tracker
 wup.imtt.qq.com #QQ - Tracker
 wuzbhjpvsf.com #Unknown - Advertising
 wvhba6470p.com #AdMeasures - Advertising
-www3.convergenciadigital.com.br #Revive Adserver - Advertising
 wwwpromoter.com #WWWPromoter - Advertising
 wzrkt.com #CleverTap - Tracker
 xclicks.net #Unknown - Tracker
