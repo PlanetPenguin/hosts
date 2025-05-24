@@ -1,4 +1,4 @@
 {
-    "name": "OSINT.digitalside.it",
-    "url": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt"
+    "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt"
 }
