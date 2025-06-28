@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 15 Jun 2025
+# Updated: 25 Jun 2025
 # LatestVersion 24.01
-# Domain Count: 15758
+# Domain Count: 15752
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -70,7 +70,6 @@ aatkit.com #AddApptr - Advertising
 aax-us-iad.amazon.com #Amazon - Advertising
 aaxads.com #Acceptable Ads - Tracker
 abmr.net #Unknown - Advertising
-absolveparticlesanti.com #AdMeasures - Advertising
 abtasty.com #AB Tasty - Tracker
 abtest.mistat.xiaomi.com #Xiaomi - Tracker
 ac24horas.com #Revive Adserver - Advertising
@@ -1642,7 +1641,6 @@ hitsteps.net #Hitsteps - Tracker
 hlog.hiido.com #First Party - Tracker
 hlserve.com #Hotline Communications - Tracker
 holdingwager.com #AdMeasures - Advertising
-hoodentangle.com #AdMeasures - Advertising
 horizontallypolluteembroider.com #AdMeasures - Advertising
 hotjar.com #Hotjar - Tracker
 hotlog.ru #HotLog - Tracker
@@ -1897,7 +1895,6 @@ linkbucks.com #Unknown - Advertising
 linkis.com #Linkis - Tracker
 linkonclick.com #Unknown - Advertising
 linksynergy.com #Unknown - Advertising
-linktrack.co.nz #Performance Tracking - Tracker
 lipperhey.com #Lipperhey - Tracker
 liqwid.net #Liqwid - Advertising
 listrakbi.com #Unknown - Tracker
@@ -14013,7 +14010,6 @@ purpleads.io #PurpleAds - Advertising
 push-ad.com #PushAd - Advertising
 push-link.duowan.com #First Party - Advertising
 push-sdk.net #Unknown - Advertising
-pushagim.com #Unknown - Advertising
 pushclk.com #Push Ads - Tracker
 pushcrew.com #VWO Engage - Tracker
 pusherapp.com #Pusher - Advertising
@@ -14983,7 +14979,6 @@ smetrics.viega.us #Adobe - Tracker
 smetrics.virginatlantic.com #Adobe - Tracker
 smetrics.virginmediabusiness.co.uk #Adobe - Tracker
 smetrics.virginmoney.com.au #Adobe - Tracker
-smetrics.visitsingapore.com #Adobe - Tracker
 smetrics.vitacost.com #Adobe - Tracker
 smetrics.vitamix.com #Adobe - Tracker
 smetrics.vodafone.co.uk #Vodafone - Tracker
@@ -14997,7 +14992,6 @@ smetrics.vw.com #Adobe - Tracker
 smetrics.vwfs-service-plans.io #Adobe - Tracker
 smetrics.vwfs.de #Adobe - Tracker
 smetrics.walgreens.com #Adobe - Tracker
-smetrics.waseda-ac.co.jp #Adobe - Tracker
 smetrics.waters.com #Adobe - Tracker
 smetrics.webex.com #Adobe - Tracker
 smetrics.westelm.com #Adobe - Tracker
