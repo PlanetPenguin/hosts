@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 25 Jun 2025
+# Updated: 02 Jul 2025
 # LatestVersion 24.01
-# Domain Count: 15752
+# Domain Count: 15751
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -69,6 +69,7 @@ aarth.net #Aarth - Advertising
 aatkit.com #AddApptr - Advertising
 aax-us-iad.amazon.com #Amazon - Advertising
 aaxads.com #Acceptable Ads - Tracker
+ab1n.net #Unknown - Advertising
 abmr.net #Unknown - Advertising
 abtasty.com #AB Tasty - Tracker
 abtest.mistat.xiaomi.com #Xiaomi - Tracker
@@ -231,7 +232,6 @@ adrequest.net #Adrequest - Advertising
 adriver.ru #Adriver - Advertising
 adrizer.com #Adrizer Cortex - Tracker
 adroll.com #AdRoll - Advertising
-adrsp.net #Unknown - Advertising
 adrta.com #Pixalate - Advertising
 adrtx.net #Ascio Technologies - Advertising
 adrunnr.com #Unknown - Advertising
@@ -359,6 +359,7 @@ adv.ccb.com #First Party - Advertising
 adv.ettoday.net #ETtoday - Advertising
 adv.r7.com #First Party - Advertising
 adv.sec.intl.miui.com #Xiaomi - Advertising
+adv.widdimo.com #Third Party - Advertising
 advanced-web-analytics.com #Unknown - Tracker
 advcake.com #Adv.Cake - Advertising
 adventive.com #Adventive - Advertising
@@ -472,6 +473,7 @@ analytics.adcanvas.com #First Party - Tracker
 analytics.algolia.com #First Party - Tracker
 analytics.apache.org #First Party - Tracker
 analytics.archive.org #First Party - Tracker
+analytics.audioeye.com #First Party - Tracker
 analytics.autodesk.com #First Party - Tracker
 analytics.bigdata.samsung.com #Samsung - Tracker
 analytics.binaryfortress.com #First Party - Tracker
@@ -740,7 +742,6 @@ backstory.ebay.nl #eBay - Tracker
 backstory.ebay.ph #eBay - Tracker
 backstory.ebay.pl #eBay - Tracker
 bam-x.com #Narrativ - Tracker
-bande2az.com #Unknown - Advertising
 bankerconcludeshare.com #AdMeasures - Advertising
 banner.ws.pho.to #First Party - Advertising
 bannerflow.com #Bannerflow - Tracker
@@ -13948,7 +13949,6 @@ pricespider.com #Price Spider - Tracker
 primis.tech #Primis - Advertising
 privacy.aol.com #AOL - Advertising
 privacymanager.io #LiveRamp - Tracker
-privacytrck.com #Unknown - Tracker
 privatestats.whatsapp.net #Whatsapp - Tracker
 privy.com #Privy - Advertising
 privymktg.com #Privy - Advertising
@@ -14444,7 +14444,6 @@ smetrics.bncollege.com #Adobe - Tracker
 smetrics.bnymellon.com #Adobe - Tracker
 smetrics.boostmobile.com #Adobe - Tracker
 smetrics.boozallen.com #Adobe - Tracker
-smetrics.boss.info #Adobe - Tracker
 smetrics.boston.com #Adobe - Tracker
 smetrics.bostonglobe.com #Adobe - Tracker
 smetrics.britishgas.co.uk #Adobe - Tracker
