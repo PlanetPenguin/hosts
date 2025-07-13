@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 02 Jul 2025
+# Updated: 12 Jul 2025
 # LatestVersion 24.01
-# Domain Count: 15751
+# Domain Count: 15746
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -85,7 +85,6 @@ acquaintedpostman.com #AdMeasures - Advertising
 acscdn.com #Unknown - Advertising
 active-agent.com #Active Agent - Tracker
 activeconversion.com #Active Conversion - Tracker
-activelysmileintimate.com #AdMeasures - Advertising
 actuallyhierarchyjudgement.com #AdMeasures - Advertising
 acuityplatform.com #Acuityads - Advertising
 acxiom-online.com #Acxiom - Tracker
@@ -415,7 +414,6 @@ agkn.com #Neustar - Tracker
 ahalogy.com #Ahalogy - Tracker
 aiactiv.io #Unknown - Advertising
 aidata.io #Aidata - Tracker
-aidspectacle.com #AdMeasures - Advertising
 aiir.net #Aiir - Advertising
 aimatch.com #aiMatch - Tracker
 aimtell.com #Aimtell - Advertising
@@ -637,9 +635,7 @@ api.us-west-2.aiv-delivery.net #Amazon - Tracker
 api64.com #Unknown - Advertising
 apien.ldmnq.com #First Party - Tracker
 apnanalytics.com #Ask Toolbar - Tracker
-app-analytics-us.huami.com #First Party - Tracker
 app-analytics-v2.snapchat.com #Snapchat - Tracker
-app-analytics.huami.com #First Party - Tracker
 app-analytics.snapchat.com #Snapchat - Tracker
 app-measurement.com #Google - Tracker
 app.link #Branch - Tracker
@@ -693,7 +689,6 @@ asia-monitor-stsdk.vivoglobal.com #Vivo - Tracker
 asia-vcode-od.vivoglobal.com #Vivo - Tracker
 assemblyexchange.com #Assembly Exchange - Advertising
 assets.emarsys.net #Unknown - Advertising
-astutemetrics.com #Astute - Tracker
 at-o.net #AT Internet - Tracker
 atdmt.com #Facebook - Advertising
 atemda.com #WO Programmatic Digital - Tracker
