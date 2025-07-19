@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 12 Jul 2025
+# Updated: 18 Jul 2025
 # LatestVersion 24.01
-# Domain Count: 15746
+# Domain Count: 15742
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -1649,9 +1649,7 @@ hs-scripts.com #Hubspot - Tracker
 hsadspixel.net #Hubspot - Tracker
 hscollectedforms.net #Hubspot - Tracker
 hsforms.com #Hubspot - Tracker
-hskwq.com #Unknown - Tracker
 hsleadflows.net #Hubspot - Tracker
-hsms04.com #Hubspot - Tracker
 hsstatic.net #Hubspot - Tracker
 hstats.hepsiburada.com #CedexisRadar CNAME - Tracker
 html5-ads.vk-apps.com #VK - Advertising
@@ -15675,11 +15673,9 @@ whairtoa.com #Unknown - Advertising
 who.nie.easebar.com #First Party - Tracker
 whoisvisiting.com #Unknown - Tracker
 widespace.com #Widespace Mobile - Advertising
-windingnegotiation.com #AdMeasures - Advertising
 wingify.com #Wingify - Tracker
 wisepops.com #WisePops - Tracker
 wistia.net #Unknown - Tracker
-witalfieldt.com #Unknown - Advertising
 wmgroup.us #WMG - Advertising
 wmgtr.com #Unknown - Advertising
 wogaa.sg #Singapore Government - Tracker
