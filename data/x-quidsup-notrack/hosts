@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 18 Jul 2025
+# Updated: 23 Jul 2025
 # LatestVersion 24.01
-# Domain Count: 15742
+# Domain Count: 15735
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -540,7 +540,6 @@ analytics.mightyape.co.nz #First Party - Tracker
 analytics.mlstatic.com #MercadoLibre - Tracker
 analytics.mobile.walmart.com #First Party - Tracker
 analytics.netdirector.auto #NetDirector - Tracker
-analytics.ngs.ru #First Party - Tracker
 analytics.nike.com #First Party - Tracker
 analytics.ninjakiwi.com #First Party - Tracker
 analytics.ostr.io #First Party - Tracker
@@ -1348,7 +1347,6 @@ engageya.com #Engageya - Advertising
 engagio.com #Demandbase - Tracker
 enginecorruptiontrice.com #AdMeasures - Advertising
 england365.gr #Revive Adserver - Advertising
-enoughturtlecontrol.com #AdMeasures - Advertising
 enrichyummy.com #AdMeasures - Advertising
 ensighten.com #Ensighten - Tracker
 eprize.com #HelloWorld - Tracker
@@ -1365,7 +1363,6 @@ esputnik.com #eSputnik - Tracker
 etahub.com #ETA Hub - Tracker
 etracker.de #eTracker - Tracker
 eum-appdynamics.com #AppDynamics - Tracker
-evasiondemandedlearning.com #AdMeasures - Advertising
 event-analytics-backend.skyeng.ru #First Party - Tracker
 eventlog.willow.tv #First Party - Tracker
 events.gfe.nvidia.com #Nvidia - Tracker
@@ -1446,7 +1443,6 @@ fixel.ai #Fixel - Tracker
 flagcounter.com #Flag Counter - Tracker
 flashtalking.com #Flashtalking - Advertising
 flat-ads.com #Flat Ads - Advertising
-flawerosion.com #Unknown - Advertising
 flexlinks.com #Unknown - Advertising
 flickerbridge.com #AdMeasures - Advertising
 flix360.com #Flix 360 - Advertising
@@ -13718,7 +13714,6 @@ oms.norton.com #Adobe CNAME - Tracker
 omtrdc.net #Adobe - Tracker
 onaudience.com #OnAudience - Tracker
 onautcatholi.xyz #Unknown - Advertising
-onclasrv.com #Unknown - Tracker
 onclickads.net #PropellerAds - Advertising
 onclickalgo.com #Unknown - Advertising
 onclickgenius.com #Unknown - Advertising
@@ -13784,7 +13779,6 @@ ox.autolive.be #Revive Adserver - Advertising
 p-cg64-slinganalytics.movetv.com #First Party - Tracker
 p.typekit.net #Adobe - Tracker
 p.yotpo.com #Yotpo - Tracker
-paas-vpc01-dms-edge-fk.easy4ipcloud.com #First Party - Advertising
 padsims.com #AdMeasures - Advertising
 pagefair.com #Pagefair - Advertising
 pages01.net #IBM Silverpop - Advertising
@@ -14662,7 +14656,6 @@ smetrics.kbb.com #Adobe - Tracker
 smetrics.kerry.com #Adobe - Tracker
 smetrics.keysight.com #Adobe - Tracker
 smetrics.kone.com #Adobe - Tracker
-smetrics.labaie.com #Adobe - Tracker
 smetrics.lakeshorelearning.com #Adobe - Tracker
 smetrics.lambweston.com #Adobe - Tracker
 smetrics.landa.com #Adobe - Tracker
