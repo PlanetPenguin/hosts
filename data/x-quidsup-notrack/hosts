@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 23 Jul 2025
+# Updated: 27 Jul 2025
 # LatestVersion 24.01
-# Domain Count: 15735
+# Domain Count: 15732
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -85,7 +85,6 @@ acquaintedpostman.com #AdMeasures - Advertising
 acscdn.com #Unknown - Advertising
 active-agent.com #Active Agent - Tracker
 activeconversion.com #Active Conversion - Tracker
-actuallyhierarchyjudgement.com #AdMeasures - Advertising
 acuityplatform.com #Acuityads - Advertising
 acxiom-online.com #Acxiom - Tracker
 ad-delivery.net #Ad Delivery - Advertising
@@ -13763,7 +13762,6 @@ orbmatchingenough.com #AdMeasures - Advertising
 origunix.com #Unknown - Advertising
 ort-stsdk.vivo.com.cn #Vivo - Tracker
 os-code.shalltry.com #Infinix Tracker - Tracker
-ostlon.com #Performance Tracking - Tracker
 ota.lokalise.co #First Party - Tracker
 oth.eve.mdt.qq.com #QQ - Tracker
 oth.str.mdt.qq.com #QQ - Tracker
@@ -14353,7 +14351,6 @@ smetrics.agillink.com #Adobe - Tracker
 smetrics.aia.com #Adobe - Tracker
 smetrics.aida.de #Adobe - Tracker
 smetrics.aircanada.com #Adobe - Tracker
-smetrics.ajinomoto.co.jp #Adobe - Tracker
 smetrics.alka.dk #Adobe - Tracker
 smetrics.allegion.com #Adobe - Tracker
 smetrics.allenedmonds.com #Adobe - Tracker
