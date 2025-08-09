@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 27 Jul 2025
+# Updated: 07 Aug 2025
 # LatestVersion 24.01
-# Domain Count: 15732
+# Domain Count: 15727
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -561,7 +561,6 @@ analytics.samsungknox.com #Samsung - Tracker
 analytics.santander.co.uk #First Party - Tracker
 analytics.schoolwires.com #First Party - Tracker
 analytics.sendsafely.com #First Party - Tracker
-analytics.site123.io #First Party - Tracker
 analytics.sketchup.com #First Party - Tracker
 analytics.skyscanner.net #First Party - Tracker
 analytics.slashdotmedia.com #Slash dot - Tracker
@@ -589,7 +588,6 @@ analytics.xcal.tv #First Party - Tracker
 analytics.xl.pt #First Party - Tracker
 analytics.yahoo.com #Yahoo - Tracker
 analytics.yinxiang.com #First Party - Tracker
-analytics.yiyouliao.com #First Party - Tracker
 analytics.yolacdn.net #First Party - Tracker
 analytics64.techsmith.com #First Party - Tracker
 analyticsmsp.com #MSP - Tracker
@@ -1146,7 +1144,6 @@ customer.io #Customer.io - Tracker
 customerevents.dradis.netflix.com #Netflix - Tracker
 customerevents.netflix.com #Netflix - Tracker
 customize.cz #Customize.cz - Tracker
-customshirelingcrushing.com #AdMeasures - Advertising
 cxaff.com #Unknown - Tracker
 cxense.com #Cxsense - Tracker
 d41.co #Dun and Bradstreet - Tracker
@@ -1178,7 +1175,6 @@ dc.services.visualstudio.com #Microsoft - Tracker
 de.coremetrics.com #Coremetrics - Tracker
 de17a.com #Delta Projects - Tracker
 dealer.com # - Tracker
-decenthat.com #SourcePoint - Tracker
 decibelinsight.com #Decibel Insight - Tracker
 decibelinsight.net #Decibel Insight - Tracker
 dedicated.domains #ClickMeter - Tracker
@@ -1677,7 +1673,6 @@ iesnare.com #Iovation - Tracker
 igodigital.com #Salesforce - Advertising
 iljmp.com #Improvely - Tracker
 illuminatelocks.com #AdMeasures - Advertising
-ilo134ulih.com #AdMeasures - Advertising
 im-sentry.sportmaster.ru #Sentry - Tracker
 imageadv.ccb.com #First Party - Advertising
 imedia.cz #Unknown - Advertising

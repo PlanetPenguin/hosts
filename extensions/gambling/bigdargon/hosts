@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 30 Jul 2025 16:01 UTC+7
-# Version: 2507301601
-# Blocked: 3.970 domains
+# Last modified: 09 Aug 2025 23:34 UTC+7
+# Version: 2508092334
+# Blocked: 3.979 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -533,6 +533,7 @@
 0.0.0.0 b29.pub
 0.0.0.0 b369.com
 0.0.0.0 b4.big88.com
+0.0.0.0 b4.big88.net
 0.0.0.0 b4.pum88.com
 0.0.0.0 b4.qibet.com
 0.0.0.0 b4.vibet.com
@@ -606,6 +607,7 @@
 0.0.0.0 biendo3.com
 0.0.0.0 biendo9.com
 0.0.0.0 big88.com
+0.0.0.0 big88.net
 0.0.0.0 big88.one
 0.0.0.0 bigboss23.com
 0.0.0.0 bigboss93.com
@@ -1209,6 +1211,10 @@
 0.0.0.0 gnbet.vip
 0.0.0.0 go.12fifa2018.com
 0.0.0.0 go789.nl
+0.0.0.0 go8.lv
+0.0.0.0 go8.plus
+0.0.0.0 go8.pub
+0.0.0.0 go8.pw
 0.0.0.0 go88-vn.com
 0.0.0.0 go88.ca
 0.0.0.0 go88.cam
@@ -1520,6 +1526,7 @@
 0.0.0.0 k8.social
 0.0.0.0 k801k.com
 0.0.0.0 k81206.com
+0.0.0.0 k88.pro
 0.0.0.0 k89bet.com
 0.0.0.0 k8asia.com
 0.0.0.0 k8asia12.com
@@ -2030,6 +2037,7 @@
 0.0.0.0 man.vip
 0.0.0.0 man1.club
 0.0.0.0 man79.org
+0.0.0.0 man88.net
 0.0.0.0 manclub.fun
 0.0.0.0 manclub.live
 0.0.0.0 manclub.us
@@ -2224,6 +2232,7 @@
 0.0.0.0 nt.choiwon88.info
 0.0.0.0 nuoigada.com
 0.0.0.0 nxb8.com
+0.0.0.0 o4.oxbet.in
 0.0.0.0 ok388.tv
 0.0.0.0 okcado.com
 0.0.0.0 okcado.org
