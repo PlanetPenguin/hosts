@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 10 Aug 2025
+# Updated: 15 Aug 2025
 # LatestVersion 24.01
-# Domain Count: 15725
+# Domain Count: 15716
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -738,7 +738,6 @@ banner.ws.pho.to #First Party - Advertising
 bannerflow.com #Bannerflow - Tracker
 bannersnack.com #Bannersnack - Advertising
 banquetunarmedgrater.com #AdMeasures - Advertising
-bars.sapo.pt #PT Telecomunicacoes - Tracker
 basebanner.com #Basebanner - Tracker
 basis.net #Centro - Tracker
 bat.bing.com #Microsoft - Tracker
@@ -14115,7 +14114,6 @@ ricewaterhou.xyz #Unknown - Advertising
 richaudience.com #Rich Audience - Advertising
 richmedia.cz #Grape Media - Tracker
 richrelevance.com #Unknown - Tracker
-riotousunspeakablestreet.com #AdMeasures - Advertising
 riotpixels.net #riotpixels.net - Advertising
 ripewhining.com #AdMeasures - Advertising
 rivne.space #Unknown - Tracker
@@ -15005,7 +15003,6 @@ snigelweb.com #Snigel - Advertising
 sniperlog.ru #Unknown - Tracker
 snmmd.nl #Unknown - Tracker
 snoop.minecraft.net #Microsoft - Tracker
-snorefamiliarsiege.com #AdMeasures - Advertising
 snowplow-pixel.tradingview.com #First Party - Tracker
 snt1.net #Sentori - Advertising
 sntr.avito.ru #Sentry - Tracker
@@ -15261,7 +15258,6 @@ thetacdn.net #Verizon - Tracker
 thisisarray.com #Array Digital - Tracker
 thisiswaldo.com #Newor Media - Advertising
 thrtle.com #Throtle - Tracker
-ticketswinning.com #AdMeasures - Advertising
 tidaltv.com #Unknown - Tracker
 tifbs.net #United Internet Media - Tracker
 tilanalytics.timesinternet.in #Times Internet - Tracker
@@ -15430,7 +15426,6 @@ tsyndicate.com #Unknown - Advertising
 ttgtmedia.com #Tech Target - Tracker
 ttxm.co.uk #Unknown - Tracker
 tubemogul.com #Unknown - Tracker
-tubfurryhen.com #AdMeasures - Advertising
 tuesdayfetidlit.com #AdMeasures - Advertising
 tumri.net #Unknown - Tracker
 tuplogpublic.bangcdn.net #Unknown - Advertising
@@ -15448,7 +15443,6 @@ tyroo.com #Unknown - Tracker
 tyroodr.com #Unknown - Tracker
 ubbfpm.com #Unknown - Advertising
 ubembed.com #Unbounce - Advertising
-ubimo.com #Ubimo - Advertising
 udc.yahoo.com #Yahoo - Tracker
 udmserve.net #Unknown - Tracker
 ufpcdn.com #Unknown - Advertising
@@ -15530,7 +15524,6 @@ velou.com #Velou - Tracker
 velti.com #Velti - Tracker
 venatusmedia.com #Venatus Media - Advertising
 vendemore.com #Vendemore - Tracker
-veneeringextremely.com #AdMeasures - Advertising
 venetrigni.com #Unknown - Tracker
 venturead.com #Unknown - Advertising
 venueitemmagic.com #AdMeasures - Advertising
@@ -15655,7 +15648,6 @@ wgplayer.com #WG Player - Advertising
 whairtoa.com #Unknown - Advertising
 who.nie.easebar.com #First Party - Tracker
 whoisvisiting.com #Unknown - Tracker
-widespace.com #Widespace Mobile - Advertising
 wingify.com #Wingify - Tracker
 wisepops.com #WisePops - Tracker
 wistia.net #Unknown - Tracker
@@ -15706,7 +15698,6 @@ yieldlove-ad-serving.net #Yieldlove - Advertising
 yieldmanager.com #Yield - Advertising
 yieldmo.com #Yieldmo - Tracker
 yieldoptimizer.com #Yield - Advertising
-yieldrealistic.com #AdMeasures - Advertising
 yjtag.jp #Unknown - Tracker
 ykvlen.com #Unknown - Tracker
 yldbt.com #YeildBot - Tracker
