@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 28 Aug 2025
+# Updated: 04 Sep 2025
 # LatestVersion 24.01
-# Domain Count: 15678
+# Domain Count: 15667
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -329,7 +329,6 @@ adstir.com #Adstir - Advertising
 adsupply.com #AdSupply - Advertising
 adsupplyssl.com #AdSupply - Advertising
 adswizz.com #AdsWizz - Advertising
-adsxyz.com #AdsXyz - Advertising
 adsymptotic.com #Drawbridge - Advertising
 adtarget.com.tr #AdTarget - Advertising
 adtarget.me #Adtarget - Advertising
@@ -464,7 +463,6 @@ analytics-static.ugc.bazaarvoice.com #BazaarVoice - Tracker
 analytics-tracker.thescore.com #First Party - Tracker
 analytics.163.com #First Party - Tracker
 analytics.300624.com #Wondershare - Tracker
-analytics.74.ru #First Party - Tracker
 analytics.adcanvas.com #First Party - Tracker
 analytics.algolia.com #First Party - Tracker
 analytics.apache.org #First Party - Tracker
@@ -667,7 +665,6 @@ aqua-adserver.com #Revive Adserver - Advertising
 arcpublishing.com #Arcpublishing - Advertising
 arcspire.io #Arcspire - Tracker
 arity.com #Arity - Tracker
-arkfacialdaybreak.com #AdMeasures - Advertising
 artfut.com #Admitad - Tracker
 asacdn.com #Unknown - Advertising
 ase.clmbtech.com #Times Internet - Advertising
@@ -788,7 +785,6 @@ betweenx.com #Between Exchange - Advertising
 bg4nxu2u5t.com #Unknown - Advertising
 bgelmedia.com #Unknown - Advertising
 bid.glass #Bid Glass - Advertising
-bid.wikihow.com #First Party - Advertising
 bidderstack.com #Unknown - Advertising
 bidence.net #Unknown - Advertising
 bidgear.com #BidGear - Tracker
@@ -845,7 +841,6 @@ brandmetrics.com #Brandmetrics - Tracker
 brandturbo.vip #Unknown - Advertising
 braze.com #Braze - Advertising
 braze.eu #Braze - Tracker
-breakfastinvitingdetergent.com #AdMeasures - Advertising
 brealtime.com #bRealTime - Tracker
 brid.tv #brid - Advertising
 bridgetrack.com #Bridge Track - Tracker
@@ -912,7 +907,6 @@ casalemedia.com #Index Exchange - Advertising
 case.clmbtech.com #Times Internet - Advertising
 catapultx.com #Qortex - Advertising
 cauly.co.kr #Cauly - Advertising
-causingguard.com #AdMeasures - Advertising
 cb-telemetry.academicmerit.com #First Party - Tracker
 cbdatatracker.com #Clickback - Tracker
 ccmp.eu #Experian - Advertising
@@ -1035,7 +1029,6 @@ commander1.com #CommandersAct - Tracker
 commandersact.com #Commanders Act - Advertising
 commonvivacious.com #AdMeasures - Advertising
 company-target.com #Demandbase - Tracker
-compresssavvydetected.com #AdMeasures - Advertising
 comscore.com #comScore - Tracker
 comscoreresearch.com #comScore - Tracker
 concertads-configs.vox-cdn.com #Vox - Advertising
@@ -1408,7 +1401,6 @@ februarybogus.com #AdMeasures - Advertising
 februaryinjectionproudly.com #AdMeasures - Advertising
 federatedml-pa.googleapis.com #Google - Tracker
 feedbackify.com #Feedbackify - Advertising
-feelsjet.com #AdMeasures - Advertising
 femetrics.grammarly.io #Grammarly - Tracker
 fidelity-media.com #Fidelity Media - Advertising
 fieldtest.cc #Horizon Next - Tracker
@@ -14042,7 +14034,6 @@ rebuyengine.com #ReBuy - Tracker
 redevents-bigdata.redefine.pl #First Party - Tracker
 redeye.international #Unknown - Tracker
 redir.metaservices.microsoft.com #Microsoft - Tracker
-redirecting2.net #Unknown - Tracker
 redshell.io #Red Shell - Tracker
 rees46.com #REES46 - Tracker
 reevoo.com #Unknown - Tracker
@@ -14182,7 +14173,6 @@ securedvisit.com #4cite - Tracker
 securemetrics.apple.com #Adobe - Tracker
 securepaths.com #Forensiq - Tracker
 seedtag.com #Seedtag - Advertising
-seeyoufarm.com #Hits - Tracker
 segment.com #Segment - Tracker
 segment.io #Segment - Tracker
 sekindo.com #Sekindo - Advertising
@@ -15388,7 +15378,6 @@ tsyndicate.com #Unknown - Advertising
 ttgtmedia.com #Tech Target - Tracker
 ttxm.co.uk #Unknown - Tracker
 tubemogul.com #Unknown - Tracker
-tuesdayfetidlit.com #AdMeasures - Advertising
 tumri.net #Unknown - Tracker
 tuplogpublic.bangcdn.net #Unknown - Advertising
 turn.com #Unknown - Tracker
