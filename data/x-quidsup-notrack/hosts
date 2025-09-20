@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 11 Sep 2025
+# Updated: 19 Sep 2025
 # LatestVersion 24.01
-# Domain Count: 15660
+# Domain Count: 15654
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -872,7 +872,6 @@ bugly.weplayer.cc #First Party - Tracker
 bugsnag.com #Bugsnag - Tracker
 bumlam.com #Unknown - Tracker
 bunintruder.com #AdMeasures - Advertising
-buoydeparturediscontent.com #AdMeasures - Advertising
 buysellads.com #BuySellAds - Advertising
 buysellads.net #BuySellAds - Advertising
 buysub.com #Unknown - Tracker
@@ -13973,7 +13972,6 @@ pushy.ai #Pushy - Tracker
 pussycash.com #Unknown - Advertising
 putrr7.com #AdMeasures - Advertising
 pvclouds.com #AdMeasures - Advertising
-pwieu.com #Unknown - Tracker
 px.spiceworks.com #Spiceworks - Tracker
 px.srvcs.tumblr.com #Tumblr - Tracker
 px.staticfiles.at #First Party - Tracker
@@ -14081,7 +14079,6 @@ richaudience.com #Rich Audience - Advertising
 richmedia.cz #Grape Media - Tracker
 richrelevance.com #Unknown - Tracker
 riotpixels.net #riotpixels.net - Advertising
-ripewhining.com #AdMeasures - Advertising
 rivne.space #Unknown - Tracker
 rkdms.com #Merkle - Tracker
 rlcdn.com #Unknown - Tracker
@@ -14612,9 +14609,7 @@ smetrics.landolakes.com #Adobe - Tracker
 smetrics.lanebryant.com #Adobe - Tracker
 smetrics.laredoute.fr #Adobe - Tracker
 smetrics.lasexta.com #Adobe - Tracker
-smetrics.latitudefinancial.co.nz #Adobe - Tracker
 smetrics.latitudefinancial.com #Adobe - Tracker
-smetrics.latitudefinancial.com.au #Adobe - Tracker
 smetrics.latrobe.edu.au #Adobe - Tracker
 smetrics.lcbo.com #Adobe - Tracker
 smetrics.legalandgeneral.com #Adobe - Tracker
@@ -14952,7 +14947,6 @@ sniperlog.ru #Unknown - Tracker
 snmmd.nl #Unknown - Tracker
 snoop.minecraft.net #Microsoft - Tracker
 snowplow-pixel.tradingview.com #First Party - Tracker
-snt1.net #Sentori - Advertising
 sntr.avito.ru #Sentry - Tracker
 so1cool.com #Unknown - Advertising
 socdm.com #Supership - Tracker
