@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 19 Sep 2025
+# Updated: 24 Sep 2025
 # LatestVersion 24.01
-# Domain Count: 15654
+# Domain Count: 15646
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -43,7 +43,6 @@
 4wnetwork.com #4W Marketplace - Advertising
 51.la #Unknown - Tracker
 5min.com #AOL - Advertising
-63r2vxacp0pr.com #AdMeasures - Advertising
 65twenty.com #Unknown - Tracker
 6sc.co #Unknown - Tracker
 6sense.com #6sense - Tracker
@@ -1423,7 +1422,6 @@ flurry.com #Flurry - Advertising
 flx1.com #Teradata - Tracker
 flxpxl.com #Teradata - Tracker
 fmpub.net #Federated Media - Advertising
-fmv9kweoe06r.com #AdMeasures - Advertising
 fomo.com #Fomo - Advertising
 footprintpredict.com #Microsoft - Tracker
 forcefulpacehauled.com #AdMeasures - Advertising
@@ -14700,8 +14698,6 @@ smetrics.oliverpeoples.com #Adobe - Tracker
 smetrics.omdia.com #Adobe - Tracker
 smetrics.ondacero.es #Adobe - Tracker
 smetrics.opdivohcp.com #Adobe - Tracker
-smetrics.openshift.com #Adobe - Tracker
-smetrics.opensource.com #Adobe - Tracker
 smetrics.opsm.com.au #Adobe - Tracker
 smetrics.optimum.net #Adobe - Tracker
 smetrics.optum.com #Adobe - Tracker
@@ -14788,7 +14784,6 @@ smetrics.sciencecareers.org #Adobe - Tracker
 smetrics.sciencemagazinedigital.org #Adobe - Tracker
 smetrics.sdcvisit.com #Adobe - Tracker
 smetrics.seat.co.uk #Adobe - Tracker
-smetrics.seat.com #Adobe - Tracker
 smetrics.seguro.mediaset.es #Adobe - Tracker
 smetrics.sephora.com #Adobe - Tracker
 smetrics.sfr.fr #Adobe - Tracker
@@ -15037,7 +15032,6 @@ stats.mos.ru #First Party - Tracker
 stats.newsweek.com #First Party - Tracker
 stats.nextcloud.com #First Party - Tracker
 stats.norton.com #First Party - Tracker
-stats.opkode.com #First Party - Tracker
 stats.paypal.com #PayPal - Tracker
 stats.pusher.com #Pusher - Tracker
 stats.rs-online.com #RS - Tracker
@@ -15153,7 +15147,6 @@ technoratimedia.com #Technorati - Tracker
 ted.dailymail.co.uk #First Party - Tracker
 telecid.ru #Unknown - Advertising
 telematicsdirect.com #TelematicsDirect - Tracker
-telemetry-cii.api.playstation.com #Sony - Tracker
 telemetry-console.api.playstation.com #Sony - Tracker
 telemetry-in.battle.net #Blizzard - Tracker
 telemetry-incoming.r53-2.services.mozilla.com #Mozilla - Tracker
@@ -15204,7 +15197,6 @@ tingyun.com #Tingyun - Tracker
 tinypass.com #Piano - Tracker
 tipsembankment.com #AdMeasures - Advertising
 tiqcdn.com #Unknown - Tracker
-tiqcloud.com #Tealium - Tracker
 tkqlhce.com #Unknown - Tracker
 tl.foxnews.com #First Party - Tracker
 tl813.com #Unknown - Tracker
