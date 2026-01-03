@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 30 Nov 2025 at 19:42:45 GMT
+# Last updated: Wed, 31 Dec 2025 at 21:52:34 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1579,6 +1579,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bagagescabine.fr
 0.0.0.0 bannerbuzz.fr
 0.0.0.0 bannersnack.fr
+0.0.0.0 baselabo.heteml.net
 0.0.0.0 baxtel.fr
 0.0.0.0 bayyinah.fr
 0.0.0.0 bbcode.fr
@@ -1797,6 +1798,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cplelangues.fr
 0.0.0.0 cra-arc-gc-ca.noads.biz
 0.0.0.0 cra-etransfer.online
+0.0.0.0 crarefundsreview.com
 0.0.0.0 crdp-strsbourg.fr
 0.0.0.0 creativlonk.fr
 0.0.0.0 creditmuteuel.fr
@@ -3104,6 +3106,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.didata.bw
 0.0.0.0 www.e-transfer-cra.com
 0.0.0.0 www.faggotry.com
+0.0.0.0 www.fhtmmeeting.com
 0.0.0.0 www.filezilla.fr
 0.0.0.0 www.findalgorithm.com
 0.0.0.0 www.fischereszter.hu
@@ -3223,6 +3226,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 youcanoptout.com
 0.0.0.0 youmakeashion.fr
 0.0.0.0 yourdailytrailer.yournewtab.com
+0.0.0.0 yourofficialsurveysplace.store
 0.0.0.0 youvisit.fr
 0.0.0.0 yrwap.cn
 0.0.0.0 yummie.fr
