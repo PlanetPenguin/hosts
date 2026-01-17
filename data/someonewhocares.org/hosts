@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 10 Jan 2026 at 05:02:34 GMT
+# Last updated: Fri, 16 Jan 2026 at 21:24:24 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1893,6 +1893,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 emplpoi-store.fr
 0.0.0.0 en.btc-trader-app.club
 0.0.0.0 en.likefever.org			# Facebook trojan
+0.0.0.0 enablement.joethecpa.info
 0.0.0.0 enalytics.fr
 0.0.0.0 endicia.fr
 0.0.0.0 englishcentral.fr
@@ -2291,6 +2292,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 lifefoot.fr
 0.0.0.0 lifeofpie.fr
 0.0.0.0 lifigaro.fr
+0.0.0.0 lifsfer.shop
 0.0.0.0 like.likewut.net
 0.0.0.0 likeportal.com			# Facebook trojan
 0.0.0.0 likespike.com				# Facebook trojan
@@ -2336,6 +2338,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 magasine-omnicuiseur.fr
 0.0.0.0 magento-analytics.com
 0.0.0.0 magic-flight.fr
+0.0.0.0 magicpayrecharge.com
 0.0.0.0 maia-asso.fr
 0.0.0.0 mail-en-marche.fr
 0.0.0.0 mail.bangla.net
@@ -2362,6 +2365,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mappyt.fr
 0.0.0.0 marathondulacduder.fr
 0.0.0.0 marie-gerardmer.fr
+0.0.0.0 marigo.redbacksburger.info
 0.0.0.0 marinescence.fr
 0.0.0.0 marketgameland.com
 0.0.0.0 massage-v-almaty.kz
@@ -2476,6 +2480,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 n1up.fr
 0.0.0.0 nactx.com
 0.0.0.0 naissaance.fr
+0.0.0.0 nakshatra.northeastrail.info
 0.0.0.0 nameketathar.pro
 0.0.0.0 nantesmetrople.fr
 0.0.0.0 nantilus.fr
@@ -2578,7 +2583,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 pamini.fr
 0.0.0.0 panimi.fr
 0.0.0.0 pantaya.fr
+0.0.0.0 paradise.homemortgageblog.info
 0.0.0.0 paris-banlieue-meetinggame.fr
+0.0.0.0 passport.acla.org.cn
 0.0.0.0 passportindex.fr
 0.0.0.0 payments-details.com
 0.0.0.0 payplintelverify3.site
@@ -2587,6 +2594,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 pbworks.fr
 0.0.0.0 pcblibraries.fr
 0.0.0.0 pckgatups.bond
+0.0.0.0 pclt.net
 0.0.0.0 pdns.nudt.edu.cn
 0.0.0.0 pearlfeet.fr
 0.0.0.0 peircing-street.fr
@@ -2673,6 +2681,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 provenfeedback.com
 0.0.0.0 psycho-test.fr
 0.0.0.0 ptagercity.fr
+0.0.0.0 pub-251d6c694a0641dd9e95aeca9e3219e8.r2.dev
 0.0.0.0 pullipstyle.fr
 0.0.0.0 puppygames.fr
 0.0.0.0 puppylover.fr
@@ -2859,6 +2868,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 stswen.fr
 0.0.0.0 subcreation.fr
 0.0.0.0 suddenplot.com
+0.0.0.0 suenosurcolchones.com.ar.abakotest.com.ar
 0.0.0.0 suicidaltendencies.fr
 0.0.0.0 sumofus.fr
 0.0.0.0 sunhe.jinr.ru
@@ -2882,6 +2892,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tahoesup.com
 0.0.0.0 tanieaukcje.com
 0.0.0.0 taniezakupy.pl
+0.0.0.0 tarbosau.bbqpitcleaners.info
 0.0.0.0 tattooshaha.info			# Facebook trojan
 0.0.0.0 tax-canada2023.co
 0.0.0.0 tbebestknives.fr
@@ -2922,6 +2933,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tiku.io
 0.0.0.0 timberlande.fr
 0.0.0.0 tiplanet.fr
+0.0.0.0 tnews.day
 0.0.0.0 toknowall.com
 0.0.0.0 tomorrownewstoday.com	# I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
 0.0.0.0 toppillstore.com
@@ -2943,6 +2955,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 trovi.com
 0.0.0.0 truecrypt.fr
 0.0.0.0 trusturl.top
+0.0.0.0 tubero.ellystegge.info
 0.0.0.0 tubr8.fr
 0.0.0.0 tuniaf.com
 0.0.0.0 turfomani.fr
@@ -2976,6 +2989,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 updateauto.preparevideosafesystem4unow.space
 0.0.0.0 uqz.com
 0.0.0.0 urbact.fr
+0.0.0.0 url3781.host.inreception.com
 0.0.0.0 url9810.tokocrypto.com
 0.0.0.0 urssff.fr
 0.0.0.0 urzl.fr
@@ -3109,9 +3123,12 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.compufixshop.com
+0.0.0.0 www.dejamesertuvoz.com
 0.0.0.0 www.didata.bw
 0.0.0.0 www.e-transfer-cra.com
+0.0.0.0 www.eaglesfanclub.com
 0.0.0.0 www.faggotry.com
+0.0.0.0 www.fenquavo.com
 0.0.0.0 www.fhtmmeeting.com
 0.0.0.0 www.filezilla.fr
 0.0.0.0 www.findalgorithm.com
@@ -3192,6 +3209,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.tattooshaha.info			# Facebook trojan
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
 0.0.0.0 www.thunderbird.es
+0.0.0.0 www.tiompanalley.com
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.tvshowslist.com
@@ -3213,6 +3231,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.wewillrocknow.com
 0.0.0.0 www.willysy.com
 0.0.0.0 www.winlottofrequently.com
+0.0.0.0 www.yendermsoul.com
 0.0.0.0 www.youfiletor.com
 0.0.0.0 www1-van-city-signon.com
 0.0.0.0 wyoutube.fr
